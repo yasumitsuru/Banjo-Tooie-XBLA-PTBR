@@ -1,0 +1,38 @@
+# === PROPRIETARY GAME FILES — NEVER COMMIT ===
+/game/
+/RAWFiles/
+
+# === REFERÊNCIAS (código-fonte de terceiros) ===
+/references/
+
+# === WORK (temporário, não publicar) ===
+/work/extracted/
+/work/builds/
+
+# === EXTENSÕES DE ARQUIVOS PROPRIETÁRIOS ===
+*.xex
+*.cmp
+*.tbl
+*.ctl
+*.ttf
+
+# === ROM / DUMP FILES ===
+*.z64
+*.n64
+*.v64
+
+# === PACOTE STFS ORIGINAL ===
+ABB9CAB336175357D09F2D922735D23C62F90DDD*
+
+# === PYTHON CACHE ===
+__pycache__/
+*.pyc
+__pycache__/
+
+# === TEMPORÁRIOS ===
+.cache/
+.tmp/
+temp/
+
+# === INVENTÁRIO (gerado, mas útil para referência) ===
+# INVENTORY.md
