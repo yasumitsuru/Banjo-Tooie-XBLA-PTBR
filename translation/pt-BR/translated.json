@@ -412,7 +412,7 @@
    "byte_length": 140,
    "encoding": "cp1252",
    "text": "SACK PACK, 765 NOTES\nTHIS BANJO ONLY MOVE HELPS PREVENT HIM GETTING INJURED BY THINGS ON THE GROUND. HOLD [0x88] OR [0x81] AND UP ON THE RIGHT STICK.",
-   "translation": null
+   "translation": "MOCHILA PEQUENA, 765 NOTAS\nESTE MOVIMENTO EXCLUSIVO DO BANJO AJUDA A EVITAR QUE ELE SE MACHUQUE COM OBJETOS NO CHÃO. SEGURE [0x88] OU [0x81] E EMPURRE O STICK DIREITO PARA CIMA."
   },
   {
    "index": 51,
@@ -420,7 +420,7 @@
    "byte_length": 1814,
    "encoding": "cp1252",
    "text": "MAYAN KICKBALL\nQUARTER-FINAL: \nKICK THE BALLS INTO YOUR GOAL TO SCORE 2 POINTS. \n\nSEMI-FINAL: \nRED BALLS REDUCE YOUR SCORE BY ONE. TRY KICKING THEM IN YOUR OPPONENTS' GOALS! \n\nFINAL: \nKICK THE BOMBS AT YOUR OPPONENTS TO STUN THEM. THE PLAYER WITH THE MOST POINTS IN THEIR GOAL AT THE END OF THE TIMER WINS THE MATCH.\n\nORDNANCE STORAGE\nDEFUSE THE DYNAMITE WITH THE BEAK BAYONET TO WIN!\n\nDODGEMS CHALLENGE\nBLUE TWINKLES ARE WORTH 3 POINTS, GREEN TWINKLES 2 POINTS AND RED TWINKLES ARE WORTH 1 POINT. HIGHEST SCORE WINS!\n\nHOOP HURRY\nJUMP THROUGH AS MANY HOOPS AS POSSIBLE TO SCORE BIG. BLUE HOOPS AWARD 3 POINTS, GREEN 2 POINTS AND A RED HOOP GIVES YOU 1 POINT.\n\nBALLOON BURST\nFLY AROUND THE ROOM AND SHOOT EGGS AT THE BALLOONS. BLUE BALLOONS ARE WORTH 3 POINTS, GREEN BALLOONS ARE WORTH 2 POINTS AND RED BALLOONS ARE WORTH 1 POINT.\n\nSAUCER OF PERIL RIDE\nBLUE TARGETS ARE WORTH 3 POINTS, GREEN TARGETS 2 POINTS AND RED TARGETS ARE WORTH 1 POINT.\n\nMINI-SUB CHALLENGE\nBLUE MINES ARE WORTH 3 POINTS, GREEN MINES 2 POINTS AND RED MINES ARE WORTH 1 POINT. SHOOT AS MANY MINES IN THE TIME LIMIT!\n\nCHOMPA’S BELLY\nBLUE GERMS ARE WORTH 3 POINTS, GREEN GERMS 2 POINTS AND RED GERMS ARE WORTH 1 POINT.\n\nCOLOSSEUM KICKBALL\nTHE LEAST POINTS WINS THE GAME! SHOOT THE GOOD BALLS INTO YOUR OWN GOAL! YELLOW BALLS INCREASE, RED BALLS DECREASE YOUR SCORE. FLASHING BALLS DOUBLE THE SCORING EFFECT. BOMBS ARE STUNNING.\n\nPOT O’ GOLD\nSHOOT AS MANY JIGGIES AS FAST AS YOU CAN!\n\nTRASH CAN GERMS\nDESTROY THE GERMS TO GET POINTS AS QUICK AS POSSIBLE. BLUE GERMS ARE WORTH 3 POINTS, GREEN GERMS ARE 2 POINTS AND RED GERMS ARE 1 POINT.\n\nZUBBAS’ HIVE\nSHOOT THE ZUBBAS THAT APPEAR FROM THE WALLS. BLUE ZUBBAS ARE WORTH 3 POINTS, GREEN ZUBBAS ARE 2 POINTS AND RED ZUBBAS ARE 1 POINT.\n\nTOWER OF TRAGEDY\nBUZZ IN AND TEST YOUR KNOWLEDGE OF THE GAME!",
-   "translation": null
+   "translation": "MAYAN KICKBALL\nQUARTAS DE FINAL: \nCHUTE AS BOLAS NO SEU GOL PARA MARCAR 2 PONTOS. \n\nSEMIFINAL: \nAS BOLAS VERMELHAS REDUZEM SUA PONTUAÇÃO EM UM PONTO. TENTE CHUTÁ-LAS NOS GOLS DOS ADVERSÁRIOS! \n\nFINAL: \nCHUTE AS BOMBAS NOS ADVERSÁRIOS PARA ATORDOÁ-LOS. O JOGADOR COM MAIS PONTOS NO GOL AO FIM DO TEMPO VENCE A PARTIDA.\n\nORDNANCE STORAGE\nDESARME A DINAMITE COM A BAIONETA DE BICO PARA VENCER!\n\nDODGEMS CHALLENGE\nTWINKLES AZUIS VALEM 3 PONTOS, TWINKLES VERDES VALEM 2 PONTOS E TWINKLES VERMELHAS VALEM 1 PONTO. QUEM FIZER MAIS PONTOS VENCE!\n\nHOOP HURRY\nATRAVESSE O MAIOR NÚMERO POSSÍVEL DE AROS PARA MARCAR MUITOS PONTOS. AROS AZUIS VALEM 3 PONTOS, AROS VERDES VALEM 2 PONTOS E UM ARO VERMELHO VALE 1 PONTO.\n\nBALLOON BURST\nVOE PELA SALA E ATIRE OVOS NOS BALÕES. BALÕES AZUIS VALEM 3 PONTOS, BALÕES VERDES VALEM 2 PONTOS E BALÕES VERMELHOS VALEM 1 PONTO.\n\nSAUCER OF PERIL RIDE\nALVOS AZUIS VALEM 3 PONTOS, ALVOS VERDES 2 PONTOS E ALVOS VERMELHOS VALEM 1 PONTO.\n\nMINI-SUB CHALLENGE\nMINAS AZUIS VALEM 3 PONTOS, MINAS VERDES VALEM 2 PONTOS E MINAS VERMELHAS VALEM 1 PONTO. ATIRE NO MAIOR NÚMERO DE MINAS POSSÍVEL DENTRO DO TEMPO!\n\nCHOMPA'S BELLY\nGERMS AZUIS VALEM 3 PONTOS, GERMS VERDES VALEM 2 PONTOS E GERMS VERMELHOS VALEM 1 PONTO.\n\nCOLOSSEUM KICKBALL\nVENCE QUEM TIVER MENOS PONTOS! CHUTE AS BOLAS BOAS NO SEU PRÓPRIO GOL! AS BOLAS AMARELAS AUMENTAM SUA PONTUAÇÃO; AS VERMELHAS A DIMINUEM. BOLAS PISCANTES DUPLICAM O EFEITO NA PONTUAÇÃO. BOMBAS ATORDOAM.\n\nPOT O' GOLD\nATIRE NO MAIOR NÚMERO POSSÍVEL DE JIGGIES O MAIS RÁPIDO QUE PUDER!\n\nTRASH CAN GERMS\nDESTRUA OS GERMS O MAIS RÁPIDO POSSÍVEL PARA MARCAR PONTOS. GERMS AZUIS VALEM 3 PONTOS, GERMS VERDES VALEM 2 PONTOS E GERMS VERMELHOS 1 PONTO.\n\nZUBBAS' HIVE\nATIRE NOS ZUBBAS QUE SURGIREM DAS PAREDES. ZUBBAS AZUIS VALEM 3 PONTOS, ZUBBAS VERDES 2 PONTOS E ZUBBAS VERMELHOS 1 PONTO.\n\nTOWER OF TRAGEDY\nAPERTE O BOTÃO E TESTE SEUS CONHECIMENTOS SOBRE O JOGO!"
   },
   {
    "index": 52,
@@ -428,7 +428,7 @@
    "byte_length": 1602,
    "encoding": "cp1252",
    "text": "DEATHMATCH HINTS\nPLAYER WITH THE MOST POINTS WINS AND REMEMBER GRENADE, CLOCKWORK AND PROXIMITY EGGS DO THE MOST DAMAGE!\n\nMAYAN KICKBALL CHALLENGE\nKICK THE BALLS INTO YOUR GOAL TO SCORE 2 POINTS. RED BALLS REDUCE YOUR SCORE BY ONE. KICK THE BOMBS AT YOUR OPPONENTS TO STUN THEM. THE PLAYER WITH THE MOST POINTS IN THEIR GOAL AT THE END OF THE TIMER WINS THE MATCH.\n\nDODGEMS CHALLENGE\nBLUE TWINKLES ARE WORTH 3 POINTS, GREEN TWINKLES 2 POINTS AND RED TWINKLES ARE WORTH 1 POINT. HIGHEST SCORE WINS!\n\nHOOP HURRY CHALLENGE\nJUMP THROUGH AS MANY HOOPS AS POSSIBLE TO SCORE BIG. BLUE HOOPS AWARD 3 POINTS, GREEN 2 POINTS AND A RED HOOP GIVES YOU 1 POINT.\n\nBALLOON BURST CHALLENGE\nFLY AROUND THE ROOM AND SHOOT EGGS AT THE BALLOONS. BLUE BALLOONS ARE WORTH 3 POINTS, GREEN BALLOONS ARE WORTH 2 POINTS AND RED BALLOONS ARE WORTH 1 POINT.\n\nMINI-SUB SHOOTOUT\nGET CLOSE TO YOUR OPPONENT TO MAKE YOUR TORPEDOES HOME IN! HIGHEST SCORE WINS!\n\nCHOMPA’S BELLY CHALLENGE\nSHOOT DOWN AS MANY GERMS AS YOU CAN! BLUE GERMS ARE WORTH 3 POINTS, GREEN GERMS 2 POINTS AND RED GERMS ARE WORTH 1 POINT.\n\nPACKING ROOM CHALLENGE\nBLUE ARE WORTH 3 POINTS, GREEN ARE WORTH 2 POINTS AND RED 1 POINT. SCORE AS MANY AS YOU CAN!\n\nCOLOSSEUM KICKBALL CHALLENGE\nTHE LEAST POINTS WINS THE GAME! KICK THE YELLOW BALLS INTO YOUR OPPONENTS GOAL AND THE RED BALLS INTO YOUR GOAL!\n\nTRASH CAN CHALLENGE\nDESTROY THE GERMS TO GET POINTS AS QUICK AS POSSIBLE. BLUE GERMS ARE WORTH 3 POINTS, GREEN GERMS ARE 2 POINTS AND RED GERMS ARE 1 POINT. THE PLAYER WITH THE HIGHEST SCORE WINS!\n\nTOWER OF TRAGEDY QUIZ\nBUZZ IN AND TEST YOUR KNOWLEDGE OF THE GAME!",
-   "translation": null
+   "translation": "DICAS DO MATA-MATA\nO JOGADOR COM MAIS PONTOS VENCE E LEMBRE-SE: OVOS GRANADA, MECÂNICOS E DE PROXIMIDADE FAZEM O MAIOR DANO!\n\nMAYAN KICKBALL CHALLENGE\nCHUTE AS BOLAS NO SEU GOL PARA MARCAR 2 PONTOS. AS BOLAS VERMELHAS REDUZEM SUA PONTUAÇÃO EM UM PONTO. CHUTE AS BOMBAS NOS ADVERSÁRIOS PARA ATORDOÁ-LOS. O JOGADOR COM MAIS PONTOS NO GOL AO FIM DO TEMPO VENCE A PARTIDA.\n\nDODGEMS CHALLENGE\nTWINKLES AZUIS VALEM 3 PONTOS, TWINKLES VERDES VALEM 2 PONTOS E TWINKLES VERMELHAS VALEM 1 PONTO. QUEM FIZER MAIS PONTOS VENCE!\n\nHOOP HURRY CHALLENGE\nATRAVESSE O MAIOR NÚMERO POSSÍVEL DE AROS PARA MARCAR MUITOS PONTOS. AROS AZUIS VALEM 3 PONTOS, AROS VERDES VALEM 2 PONTOS E UM ARO VERMELHO VALE 1 PONTO.\n\nBALLOON BURST CHALLENGE\nVOE PELA SALA E ATIRE OVOS NOS BALÕES. BALÕES AZUIS VALEM 3 PONTOS, BALÕES VERDES VALEM 2 PONTOS E BALÕES VERMELHOS VALEM 1 PONTO.\n\nMINI-SUB SHOOTOUT\nCHEGUE PERTO DO SEU ADVERSÁRIO PARA QUE SEUS TORPEDOS ACERTEM O ALVO! QUEM FIZER MAIS PONTOS VENCE!\n\nCHOMPA'S BELLY CHALLENGE\nATIRE NO MAIOR NÚMERO POSSÍVEL DE GERMS! GERMS AZUIS VALEM 3 PONTOS, GERMS VERDES VALEM 2 PONTOS E GERMS VERMELHOS VALEM 1 PONTO.\n\nPACKING ROOM CHALLENGE\nOS AZUIS VALEM 3 PONTOS, OS VERDES VALEM 2 PONTOS E OS VERMELHOS VALEM 1 PONTO. MARQUE O MAIOR NÚMERO POSSÍVEL!\n\nCOLOSSEUM KICKBALL CHALLENGE\nVENCE QUEM TIVER MENOS PONTOS! CHUTE AS BOLAS AMARELAS NO GOL DOS ADVERSÁRIOS E AS BOLAS VERMELHAS NO SEU GOL!\n\nTRASH CAN CHALLENGE\nDESTRUA OS GERMS O MAIS RÁPIDO POSSÍVEL PARA MARCAR PONTOS. GERMS AZUIS VALEM 3 PONTOS, GERMS VERDES VALEM 2 PONTOS E GERMS VERMELHOS 1 PONTO. VENCE O JOGADOR COM A MAIOR PONTUAÇÃO!\n\nTOWER OF TRAGEDY QUIZ\nAPERTE O BOTÃO E TESTE SEUS CONHECIMENTOS SOBRE O JOGO!"
   },
   {
    "index": 53,
@@ -436,7 +436,7 @@
    "byte_length": 14,
    "encoding": "cp1252",
    "text": "ARE YOU SURE?",
-   "translation": null
+   "translation": "TEM CERTEZA?"
   },
   {
    "index": 54,
@@ -444,7 +444,7 @@
    "byte_length": 3,
    "encoding": "cp1252",
    "text": "NO",
-   "translation": null
+   "translation": "NÃO"
   },
   {
    "index": 55,
@@ -452,7 +452,7 @@
    "byte_length": 4,
    "encoding": "cp1252",
    "text": "YES",
-   "translation": null
+   "translation": "SIM"
   },
   {
    "index": 56,
@@ -460,7 +460,7 @@
    "byte_length": 5,
    "encoding": "cp1252",
    "text": "RANK",
-   "translation": null
+   "translation": "CLASSIFICAÇÃO"
   },
   {
    "index": 57,
@@ -468,7 +468,7 @@
    "byte_length": 9,
    "encoding": "cp1252",
    "text": "GAMERTAG",
-   "translation": null
+   "translation": "GAMERTAG"
   },
   {
    "index": 58,
@@ -476,7 +476,7 @@
    "byte_length": 6,
    "encoding": "cp1252",
    "text": "NOTES",
-   "translation": null
+   "translation": "NOTAS"
   },
   {
    "index": 59,
@@ -492,7 +492,7 @@
    "byte_length": 5,
    "encoding": "cp1252",
    "text": "TIME",
-   "translation": null
+   "translation": "TEMPO"
   },
   {
    "index": 61,
@@ -500,7 +500,7 @@
    "byte_length": 10,
    "encoding": "cp1252",
    "text": "EXIT GAME",
-   "translation": null
+   "translation": "SAIR DO JOGO"
   },
   {
    "index": 62,
@@ -508,7 +508,7 @@
    "byte_length": 5,
    "encoding": "cp1252",
    "text": "MOVE",
-   "translation": null
+   "translation": "MOVER"
   },
   {
    "index": 63,
@@ -516,7 +516,7 @@
    "byte_length": 16,
    "encoding": "cp1252",
    "text": "CAMERA CONTROLS",
-   "translation": null
+   "translation": "CONTROLES DA CÂMERA"
   },
   {
    "index": 64,
@@ -524,7 +524,7 @@
    "byte_length": 6,
    "encoding": "cp1252",
    "text": "PAUSE",
-   "translation": null
+   "translation": "PAUSAR"
   },
   {
    "index": 65,
@@ -532,7 +532,7 @@
    "byte_length": 5,
    "encoding": "cp1252",
    "text": "JUMP",
-   "translation": null
+   "translation": "PULAR"
   },
   {
    "index": 66,
@@ -540,7 +540,7 @@
    "byte_length": 12,
    "encoding": "cp1252",
    "text": "ATTACK/DIVE",
-   "translation": null
+   "translation": "ATACAR/MERGULHAR"
   },
   {
    "index": 67,
@@ -548,7 +548,7 @@
    "byte_length": 7,
    "encoding": "cp1252",
    "text": "CROUCH",
-   "translation": null
+   "translation": "AGACHAR"
   },
   {
    "index": 68,
@@ -556,7 +556,7 @@
    "byte_length": 14,
    "encoding": "cp1252",
    "text": "FOLLOW CAMERA",
-   "translation": null
+   "translation": "CÂMERA SEGUIDORA"
   },
   {
    "index": 69,
@@ -564,7 +564,7 @@
    "byte_length": 4,
    "encoding": "cp1252",
    "text": "AIM",
-   "translation": null
+   "translation": "MIRAR"
   },
   {
    "index": 70,
@@ -572,7 +572,7 @@
    "byte_length": 10,
    "encoding": "cp1252",
    "text": "OPEN DOOR",
-   "translation": null
+   "translation": "ABRIR PORTA"
   },
   {
    "index": 71,
@@ -580,7 +580,7 @@
    "byte_length": 13,
    "encoding": "cp1252",
    "text": "LUNGE ATTACK",
-   "translation": null
+   "translation": "ATACAR DE INVESTIDA"
   },
   {
    "index": 72,
@@ -588,7 +588,7 @@
    "byte_length": 5,
    "encoding": "cp1252",
    "text": "FIRE",
-   "translation": null
+   "translation": "ATIRAR"
   },
   {
    "index": 73,
@@ -596,7 +596,7 @@
    "byte_length": 11,
    "encoding": "cp1252",
    "text": "CYCLE AMMO",
-   "translation": null
+   "translation": "TROCAR MUNIÇÃO"
   },
   {
    "index": 74,
@@ -604,7 +604,7 @@
    "byte_length": 8,
    "encoding": "cp1252",
    "text": "LOOK UP",
-   "translation": null
+   "translation": "OLHAR PARA CIMA"
   },
   {
    "index": 75,
@@ -612,7 +612,7 @@
    "byte_length": 10,
    "encoding": "cp1252",
    "text": "LOOK DOWN",
-   "translation": null
+   "translation": "OLHAR PARA BAIXO"
   },
   {
    "index": 76,
@@ -620,7 +620,7 @@
    "byte_length": 12,
    "encoding": "cp1252",
    "text": "STRAFE LEFT",
-   "translation": null
+   "translation": "DESLOCAR À ESQUERDA"
   },
   {
    "index": 77,
@@ -628,7 +628,7 @@
    "byte_length": 13,
    "encoding": "cp1252",
    "text": "STRAFE RIGHT",
-   "translation": null
+   "translation": "DESLOCAR À DIREITA"
   },
   {
    "index": 78,
@@ -636,7 +636,7 @@
    "byte_length": 15,
    "encoding": "cp1252",
    "text": "AIM/CYCLE AMMO",
-   "translation": null
+   "translation": "MIRAR/TROCAR MUNIÇÃO"
   },
   {
    "index": 79,
@@ -644,7 +644,7 @@
    "byte_length": 14,
    "encoding": "cp1252",
    "text": "CHARGE ATTACK",
-   "translation": null
+   "translation": "ATACAR CARREGADO"
   },
   {
    "index": 80,
@@ -652,7 +652,7 @@
    "byte_length": 6,
    "encoding": "cp1252",
    "text": "SHOOT",
-   "translation": null
+   "translation": "ATIRAR"
   },
   {
    "index": 81,
@@ -660,7 +660,7 @@
    "byte_length": 11,
    "encoding": "cp1252",
    "text": "ROTATE SUB",
-   "translation": null
+   "translation": "ROTAR SUBMARINO"
   },
   {
    "index": 82,
@@ -668,7 +668,7 @@
    "byte_length": 11,
    "encoding": "cp1252",
    "text": "PROPEL SUB",
-   "translation": null
+   "translation": "IMPULSIONAR SUBMARINO"
   },
   {
    "index": 83,
@@ -676,7 +676,7 @@
    "byte_length": 14,
    "encoding": "cp1252",
    "text": "CHANGE CAMERA",
-   "translation": null
+   "translation": "TROCAR CÂMERA"
   },
   {
    "index": 84,
@@ -684,7 +684,7 @@
    "byte_length": 13,
    "encoding": "cp1252",
    "text": "FIRST PERSON",
-   "translation": null
+   "translation": "PRIMEIRA PESSOA"
   },
   {
    "index": 85,
@@ -692,7 +692,7 @@
    "byte_length": 7,
    "encoding": "cp1252",
    "text": "ATTACK",
-   "translation": null
+   "translation": "ATACAR"
   },
   {
    "index": 86,
@@ -700,7 +700,7 @@
    "byte_length": 10,
    "encoding": "cp1252",
    "text": "JUMP/RISE",
-   "translation": null
+   "translation": "PULAR/SUBIR"
   },
   {
    "index": 87,
@@ -708,7 +708,7 @@
    "byte_length": 9,
    "encoding": "cp1252",
    "text": "SPEED UP",
-   "translation": null
+   "translation": "AUMENTAR A VELOCIDADE"
   },
   {
    "index": 88,
@@ -716,7 +716,7 @@
    "byte_length": 23,
    "encoding": "cp1252",
    "text": "SCROLL THROUGH ANSWERS",
-   "translation": null
+   "translation": "PERCORRER AS RESPOSTAS"
   },
   {
    "index": 89,
@@ -724,7 +724,7 @@
    "byte_length": 8,
    "encoding": "cp1252",
    "text": "BUZZ IN",
-   "translation": null
+   "translation": "APERTE O BOTÃO"
   },
   {
    "index": 90,
@@ -732,7 +732,7 @@
    "byte_length": 7,
    "encoding": "cp1252",
    "text": "ANSWER",
-   "translation": null
+   "translation": "RESPONDER"
   },
   {
    "index": 91,
@@ -740,7 +740,7 @@
    "byte_length": 14,
    "encoding": "cp1252",
    "text": "SINGLE PLAYER",
-   "translation": null
+   "translation": "UM JOGADOR"
   },
   {
    "index": 92,
@@ -748,7 +748,7 @@
    "byte_length": 18,
    "encoding": "cp1252",
    "text": "DEATHMATCH MODERN",
-   "translation": null
+   "translation": "MATA-MATA MODERNO"
   },
   {
    "index": 93,
@@ -756,7 +756,7 @@
    "byte_length": 19,
    "encoding": "cp1252",
    "text": "DEATHMATCH CLASSIC",
-   "translation": null
+   "translation": "MATA-MATA CLÁSSICO"
   },
   {
    "index": 94,
@@ -764,7 +764,7 @@
    "byte_length": 9,
    "encoding": "cp1252",
    "text": "KICKBALL",
-   "translation": null
+   "translation": "KICKBALL"
   },
   {
    "index": 95,
@@ -772,7 +772,7 @@
    "byte_length": 8,
    "encoding": "cp1252",
    "text": "DODGEMS",
-   "translation": null
+   "translation": "DODGEMS"
   },
   {
    "index": 96,
@@ -796,7 +796,7 @@
    "byte_length": 9,
    "encoding": "cp1252",
    "text": "MINI-SUB",
-   "translation": null
+   "translation": "MINI-SUB"
   },
   {
    "index": 99,

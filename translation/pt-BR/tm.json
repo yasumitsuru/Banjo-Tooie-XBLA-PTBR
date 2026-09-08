@@ -191,6 +191,132 @@
       "status": "approved",
       "source_index": 2769,
       "notes": "título/marca"
+    },
+    {
+      "source": "SACK PACK",
+      "translation": "MOCHILA PEQUENA",
+      "status": "proposed",
+      "source_index": 50,
+      "notes": "item — mochila pequena"
+    },
+    {
+      "source": "ORDNANCE STORAGE",
+      "translation": "ORDNANCE STORAGE",
+      "status": "proposed",
+      "source_index": 51,
+      "notes": "modo de mini-jogo — manter em inglês"
+    },
+    {
+      "source": "PACKING ROOM",
+      "translation": "PACKING ROOM",
+      "status": "proposed",
+      "source_index": 52,
+      "notes": "modo de mini-jogo — manter em inglês"
+    },
+    {
+      "source": "POT O' GOLD",
+      "translation": "POT O' GOLD",
+      "status": "proposed",
+      "source_index": 51,
+      "notes": "mini-jogo — nome próprio"
+    },
+    {
+      "source": "CHOMPA'S BELLY",
+      "translation": "CHOMPA'S BELLY",
+      "status": "proposed",
+      "source_index": 51,
+      "notes": "mini-jogo — nome próprio"
+    },
+    {
+      "source": "COLOSSEUM KICKBALL",
+      "translation": "COLOSSEUM KICKBALL",
+      "status": "proposed",
+      "source_index": 51,
+      "notes": "mini-jogo — nome próprio"
+    },
+    {
+      "source": "DEATHMATCH",
+      "translation": "MATA-MATA",
+      "status": "proposed",
+      "source_index": 52,
+      "notes": "modo de jogo"
+    },
+    {
+      "source": "DEATHMATCH MODERN",
+      "translation": "MATA-MATA MODERNO",
+      "status": "proposed",
+      "source_index": 92,
+      "notes": "modo de jogo"
+    },
+    {
+      "source": "DEATHMATCH CLASSIC",
+      "translation": "MATA-MATA CLÁSSICO",
+      "status": "proposed",
+      "source_index": 93,
+      "notes": "modo de jogo"
+    },
+    {
+      "source": "SINGLE PLAYER",
+      "translation": "UM JOGADOR",
+      "status": "proposed",
+      "source_index": 91,
+      "notes": "modo de jogo"
+    },
+    {
+      "source": "KICKBALL",
+      "translation": "KICKBALL",
+      "status": "proposed",
+      "source_index": 94,
+      "notes": "mini-jogo — nome próprio"
+    },
+    {
+      "source": "DODGEMS",
+      "translation": "DODGEMS",
+      "status": "proposed",
+      "source_index": 95,
+      "notes": "mini-jogo — nome próprio"
+    },
+    {
+      "source": "MINI-SUB",
+      "translation": "MINI-SUB",
+      "status": "proposed",
+      "source_index": 98,
+      "notes": "mini-jogo — nome próprio"
+    },
+    {
+      "source": "TWINKLES",
+      "translation": "TWINKLES",
+      "status": "proposed",
+      "source_index": 51,
+      "notes": "criatura — nome próprio"
+    },
+    {
+      "source": "GERMS",
+      "translation": "GERMS",
+      "status": "proposed",
+      "source_index": 51,
+      "notes": "criatura — nome próprio"
+    },
+    {
+      "source": "ZUBBAS",
+      "translation": "ZUBBAS",
+      "status": "proposed",
+      "source_index": 51,
+      "notes": "criatura — nome próprio"
+    },
+    {
+      "source": "CHOMPA",
+      "translation": "CHOMPA",
+      "status": "proposed",
+      "source_index": 51,
+      "notes": "criatura — nome próprio"
+    },
+    {
+      "source": "GOAL",
+      "translation": "GOL",
+      "status": "proposed",
+      "source_index": 51,
+      "notes": "vocabulário de futebol; traduzir como gol"
     }
   ]
 }

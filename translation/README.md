@@ -71,8 +71,8 @@ as demais seções servem apenas como referência de tom/terminologia.
 - Consultar, para cada string:
   1. `translation/pt-BR/tm.json` (TM — reutilizar traduções existentes);
   2. `translation/glossary/glossary-pt-BR.md` (política + termos).
-- `tm.json` atual: 27 entradas — **14 `approved`** (decisões de
-  glossário confirmadas) + **13 `proposed`** (propostas a validar em
+- `tm.json` atual: 45 entradas — **14 `approved`** (decisões de
+  glossário confirmadas) + **31 `proposed`** (propostas a validar em
   revisão). Entradas `proposed` não são canônicas até aprovadas.
 - Regras obrigatórias:
   - Preservar placeholders `[0x80]`–`[0x8F]` e o byte `0x7F` (glifos de botão)
@@ -150,12 +150,17 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
 - [x] Filtro (5174 translatable / 3952 binary)
 - [x] Glossário + TM semeados
 - [x] Tradução lote 0000–0049 (50 strings)
-- [ ] Tradução lote 0050–0099 (próxima microtarefa)
+- [x] Tradução lote 0050–0099 (50 strings)
+- [ ] Tradução lote 0100–0149 (próxima microtarefa)
 - [ ] Revisão
 - [ ] Injeção no .dat + reempacotamento STFS
 
 ## Totais atuais
 
-- Traduzidas: **62** (50 do lote 0000–0049 + 12 sementes aprovadas do TM)
-- Incompletas (EN): **973**
+- Traduzidas (EN): **108** / Incompletas (EN): **927** (de 1035)
+- Contagem precisa: os dois lotes cobrem **100 índices** (0–99), com
+  **96 traduções novas** nos dois lotes + **12 sementes aprovadas** no total
+  (4 in-range no lote 0050–0099: 59, 96, 97, 99; e 8 fora da faixa:
+  101, 148, 149, 150, 153, 154, 155, 156).
+- Lote 0050–0099: **46 traduções novas** + **4 sementes aprovadas** preservadas.
 - Estado geral: tradução em progresso

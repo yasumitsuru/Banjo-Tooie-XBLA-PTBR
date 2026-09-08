@@ -89,6 +89,8 @@ As decisões abaixo são a referência terminológica para as strings 38–49. E
 | Shack Pack | Mochila Grande | 49 |
 | Glide | Planar | 49 |
 | Sack Pack | Mochila Pequena | 50 |
+| Pack (empty) | Mochila (vazia) | 45 |
+| Goal (soccer/net) | Gol | 51, 52 |
 
 ## Moedas e pontuação
 
@@ -109,8 +111,31 @@ As decisões abaixo são a referência terminológica para as strings 38–49. E
 | Tower of Tragedy | 101 |
 | Saucer of Peril | 205 |
 | Mini-Sub | 209 |
-| Twinklies / Twinklies Packing | 211 |
+| Twinkles / Twinkles Packing | 211 |
 | Mayan Kickball | 51 |
+| Chompa's Belly | 51 |
+| Pot O' Gold | 51 |
+| Colosseum Kickball | 51 |
+| Packing Room | 52 |
+| Ordnance Storage | 51 |
+
+## Modos de jogo
+
+| Termo (EN) | Proposta (pt-BR) | source_index |
+|---|---|---|
+| Single Player | Um Jogador | 91 |
+| Deathmatch Modern | Mata-Mata Moderno | 92 |
+| Deathmatch Classic | Mata-Mata Clássico | 93 |
+| Deathmatch | Mata-Mata | 52 |
+
+## Criaturas e tipos (manter em inglês)
+
+| Termo | Decisão | source_index |
+|---|---|
+| Twinkles | manter em inglês | 51, 52 |
+| Germs | manter | 51, 52 |
+| Zubbas | manter | 51 |
+| Chompa | manter | 51 |
 
 ## Marcas e títulos
 
