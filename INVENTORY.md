@@ -52,8 +52,10 @@ Banjo-Tooie XBLA/
 │           ├── db360.cmp                                 # Dados comprimidos (11.7 MB)
 │           ├── db360.textures.cmp                        # Texturas comprimidas (48.1 MB)
 │           └── xarialuni.ttf                             # Fonte Arial Unicode (6.3 MB)
-└── tools/
-    └── XBLA-Extract/                                     # Ferramenta de extração (MIT License)
+├── tools/
+│   └── (scripts próprios do projeto)
+└── references/
+    └── XBLA-Extract/                                     # Ferramenta de extração (MIT License, gitignored)
         ├── stfs_extract.py                               # Extractor STFS CLI (core)
         ├── stfs_extract_gui.py                           # GUI PyQt6 (interface)
         ├── xiso.py                                       # Extractor/criador ISO Xbox
@@ -280,7 +282,7 @@ Todos `64×64 RGBA PNG`:
 
 ## 8. Ferramenta XBLA-Extract
 
-### `tools/XBLA-Extract/`
+### `references/XBLA-Extract/` (gitignored; código de terceiros)
 
 Ferramenta de código aberto (MIT License, Corey Clark, 2022) para manipulação de pacotes Xbox.
 

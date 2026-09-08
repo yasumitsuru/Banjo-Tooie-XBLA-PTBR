@@ -8,6 +8,8 @@
 # === WORK (temporário, não publicar) ===
 /work/extracted/
 /work/builds/
+/work/strings/
+/work/notes/
 
 # === EXTENSÕES DE ARQUIVOS PROPRIETÁRIOS ===
 *.xex

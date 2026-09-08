@@ -1,0 +1,196 @@
+{
+  "format": "tm-v1",
+  "language_pair": "en-US -> pt-BR",
+  "description": "Translation Memory do pipeline pt-BR. Cada entrada mapeia uma string fonte (seção inglesa de X360_strings.dat, com 2 entradas neutras — source_index 1579 e 2769 — localizadas no bloco FR e também presentes em EN) para sua tradução pt-BR. source_index = índice em work/strings/strings.json. status: approved (decisão de glossário confirmada) | proposed (proposta a validar em revisão).",
+  "entries": [
+    {
+      "source": "JIGGIES",
+      "translation": "JIGGIES",
+      "status": "approved",
+      "source_index": 59,
+      "notes": "nome próprio — manter"
+    },
+    {
+      "source": "NOTES",
+      "translation": "NOTAS",
+      "status": "approved",
+      "source_index": 1579,
+      "notes": "moeda"
+    },
+    {
+      "source": "PLAY GAME",
+      "translation": "JOGAR",
+      "status": "proposed",
+      "source_index": 109,
+      "notes": "UI principal"
+    },
+    {
+      "source": "LEADERBOARDS",
+      "translation": "PLACAR DE LÍDERES",
+      "status": "proposed",
+      "source_index": 1,
+      "notes": "UI"
+    },
+    {
+      "source": "MAYAHEM TEMPLE",
+      "translation": "MAYAHEM TEMPLE",
+      "status": "approved",
+      "source_index": 148,
+      "notes": "fase — nome próprio"
+    },
+    {
+      "source": "GLITTER GULCH MINE",
+      "translation": "GLITTER GULCH MINE",
+      "status": "approved",
+      "source_index": 149,
+      "notes": "fase — nome próprio"
+    },
+    {
+      "source": "WITCHY WORLD",
+      "translation": "WITCHY WORLD",
+      "status": "approved",
+      "source_index": 150,
+      "notes": "fase — nome próprio"
+    },
+    {
+      "source": "GRUNTY INDUSTRIES",
+      "translation": "GRUNTY INDUSTRIES",
+      "status": "approved",
+      "source_index": 153,
+      "notes": "fase/marca — nome próprio"
+    },
+    {
+      "source": "HAILFIRE PEAKS",
+      "translation": "HAILFIRE PEAKS",
+      "status": "approved",
+      "source_index": 154,
+      "notes": "fase — nome próprio"
+    },
+    {
+      "source": "CLOUD CUCKOOLAND",
+      "translation": "CLOUD CUCKOOLAND",
+      "status": "approved",
+      "source_index": 155,
+      "notes": "fase — nome próprio"
+    },
+    {
+      "source": "CAULDRON KEEP",
+      "translation": "CAULDRON KEEP",
+      "status": "approved",
+      "source_index": 156,
+      "notes": "fase — nome próprio"
+    },
+    {
+      "source": "SPRINGY STEP SHOES, 390 NOTES\nJUMP GREAT HEIGHTS BY PRESSING [0x87]. CAN BE USED BY BANJO WITH KAZOOIE OR KAZOOIE ALONE.\n\nTAXI PACK, 405 NOTES\nBANJO CAN CARRY LARGER OBJECTS AND CHARACTERS AROUND BY HOLDING [0x88] OR [0x81] AND PUSHING THE RIGHT STICK LEFT.\n\nHATCH, 420 NOTES\nTHE HATCH ALLOWS KAZOOIE TO HATCH EGGS BY HOLDING [0x88] OR [0x81] AND PRESSING [0x86].",
+      "translation": "TÊNIS SALTITÕES, 390 NOTAS",
+      "status": "proposed",
+      "source_index": 47,
+      "notes": "item"
+    },
+    {
+      "source": "CLAW CLAMBER BOOTS, 505 NOTES\nTHE CLAW CLAMBER BOOTS ALLOW YOU TO SCALE VERTICAL WALLS WHICH HAVE KAZOOIE’S FOOTPRINTS ON THEM.\n\nSNOOZE PACK, 525 NOTES\nFEELING LOW? THE SNOOZE PACK ALLOWS BANJO TO TAKE A NAP IN HIS BACKPACK TO RECOVER HIS ENERGY. JUST HOLD [0x88] OR [0x81] AND PRESS RIGHT ON THE RIGHT STICK.\n\nLEG SPRING, 545 NOTES\nTHIS ALLOWS KAZOOIE TO PERFORM A HIGH JUMP ON HER OWN, BY HOLDING [0x88] OR [0x81] AND PRESSING [0x87].",
+      "translation": "BOTAS DE GARRA, 505 NOTAS",
+      "status": "proposed",
+      "source_index": 48,
+      "notes": "item"
+    },
+    {
+      "source": "SHACK PACK, 640 NOTES\nTHIS ALLOWS BANJO TO ENTER SMALL HOLES BY HOLDING [0x88] OR [0x81] AND PRESSING DOWN ON THE RIGHT STICK.\n\nGLIDE, 660 NOTES\nKAZOOIE CAN GLIDE THROUGH THE AIR WITHOUT THE NEED FOR FLY PADS OR RED FEATHERS. GREAT IF COMBINED WITH LEG SPRING MOVE. PRESS [0x88] OR [0x81] WHILE IN THE AIR.",
+      "translation": "MOCHILA GRANDE, 640 NOTAS",
+      "status": "proposed",
+      "source_index": 49,
+      "notes": "item"
+    },
+    {
+      "source": "SACK PACK, 765 NOTES\nTHIS BANJO ONLY MOVE HELPS PREVENT HIM GETTING INJURED BY THINGS ON THE GROUND. HOLD [0x88] OR [0x81] AND UP ON THE RIGHT STICK.",
+      "translation": "MOCHILA PEQUENA, 765 NOTAS",
+      "status": "proposed",
+      "source_index": 50,
+      "notes": "item"
+    },
+    {
+      "source": "EGG AIM, 25 NOTES\nPRESS [0x84] AND THEN [0x88] OR [0x81] TO AIM AND FIRE MORE ACCURATELY.\n\nBREEGULL BLASTER, 30 NOTES\nUSES KAZOOIE AS A GUN. WILL AUTOMATICALLY SWITCH TO THIS MODE IN CERTAIN AREAS.\n\nGRIP GRAB, 35 NOTES\nTHIS ALLOWS YOU TO AUTOMATICALLY GRAB EDGES USING THE LEFT STICK TO MOVE ALONG THEM. PRESS [0x86] AND LEFT OR RIGHT TO ATTACK.",
+      "translation": "MIRA DE OVOS, 25 NOTAS",
+      "status": "proposed",
+      "source_index": 43,
+      "notes": "item"
+    },
+    {
+      "source": "BILL DRILL, 85 NOTES\nTHIS ALLOWS YOU TO DESTROY STRONGER OBJECTS THAN THE BEAK BUSTER CAN. USE [0x87] TO JUMP AND THEN PRESS AND HOLD [0x88] OR [0x81].\n\nBEAK BAYONET, 95 NOTES\nCLOSE RANGE ATTACK WHEN IN BREEGULL BLASTER MODE (1ST PERSON). PRESS [0x86] TO SMASH ENEMIES WITH KAZOOIE'S BEAK.",
+      "translation": "BROCA DE BICO, 85 NOTAS",
+      "status": "proposed",
+      "source_index": 44,
+      "notes": "item"
+    },
+    {
+      "source": "PACK WHACK, 120 NOTES\nYOU CAN USE BANJO’S EMPTY PACK AS AN ATTACK, WHEN HE IS ON HIS OWN, BY PRESSING [0x86].\n\nSPLIT UP, 160 NOTES\nSTAND ON A PAD WITH AN IMAGE OF BANJO AND KAZOOIE ON IT, AND PRESS [0x85] TO SEPARATE THEM.\n\nAIRBORNE EGG AIMING, 180 NOTES\nPRESS [0x84] TO ENTER BANJO'S EYES VIEW AND THEN PRESS [0x88] OR [0x81] TO FIRE EGGS WHILE FLYING.",
+      "translation": "GOLPE DA MOCHILA, 120 NOTAS",
+      "status": "proposed",
+      "source_index": 45,
+      "notes": "item"
+    },
+    {
+      "source": "WING WHACK, 265 NOTES\nAS KAZOOIE, DEFEND YOURSELF WITH YOUR WINGS BY PRESSING [0x86].\n\nSUB-AQUA EGG AIMING, 275 NOTES\nPRESS [0x84] TO ENTER BANJO'S EYES VIEW AND THEN PRESS [0x88] OR [0x81] TO FIRE EGGS.\n\nTALON TORPEDO, 290 NOTES\nWHEN UNDERWATER, PRESS [0x88] OR [0x81] TO FIRE KAZOOIE AS A TORPEDO. PRESS [0x87] TO SPEED HER UP, OR [0x86] TO RETURN HER TO BANJO.",
+      "translation": "GOLPE DAS ASAS, 265 NOTAS",
+      "status": "proposed",
+      "source_index": 46,
+      "notes": "item"
+    },
+    {
+      "source": "BREEGULL BASH\nDOUBLE TAP [0x86] TO DO THIS SPECIAL KAZOOIE ATTACK.\n\n",
+      "translation": "GOLPE BREEGULL",
+      "status": "proposed",
+      "source_index": 41,
+      "notes": "ataque especial da Kazooie; Breegull é mantido como nome próprio"
+    },
+    {
+      "source": "HOMING EGGS ABILITY\nAUTOMATICALLY APPLIED TO ALL EGG FIRING ACTION ONCE OBTAINED.\n\n",
+      "translation": "HABILIDADE DE OVOS TELEGUIADOS",
+      "status": "proposed",
+      "source_index": 39,
+      "notes": "item/habilidade"
+    },
+    {
+      "source": "BABY CLOCKWORK KAZOOIE BOMB.\nTAP [0x89] OR [0x80] TO SWITCH TO CLOCKWORK EGGS AND THEN LAUNCH THE EGG AS USUAL. ONCE LAUNCHED, USE THE LEFT STICK TO MOVE, AND PRESS [0x86] TO DETONATE. THE BABY KAZOOIE BOMB CAN ENTER SMALL SPACES, AND ALSO COLLECT THINGS FOR YOU.\n\n",
+      "translation": "BOMBA DE KAZOOIE MECÂNICA",
+      "status": "proposed",
+      "source_index": 40,
+      "notes": "item; Kazooie é nome próprio, enquanto baby/clockwork são descritores traduzidos"
+    },
+    {
+      "source": "HOOP HURRY",
+      "translation": "HOOP HURRY",
+      "status": "approved",
+      "source_index": 96,
+      "notes": "mini-jogo — nome próprio"
+    },
+    {
+      "source": "BALLOON BURST",
+      "translation": "BALLOON BURST",
+      "status": "approved",
+      "source_index": 97,
+      "notes": "mini-jogo — nome próprio"
+    },
+    {
+      "source": "TRASH CAN",
+      "translation": "TRASH CAN",
+      "status": "approved",
+      "source_index": 99,
+      "notes": "mini-jogo — nome próprio"
+    },
+    {
+      "source": "TOWER OF TRAGEDY",
+      "translation": "TOWER OF TRAGEDY",
+      "status": "approved",
+      "source_index": 101,
+      "notes": "mini-jogo — nome próprio"
+    },
+    {
+      "source": "BANJO-KAZOOIE: NUTS & BOLTS",
+      "translation": "BANJO-KAZOOIE: NUTS & BOLTS",
+      "status": "approved",
+      "source_index": 2769,
+      "notes": "título/marca"
+    }
+  ]
+}
