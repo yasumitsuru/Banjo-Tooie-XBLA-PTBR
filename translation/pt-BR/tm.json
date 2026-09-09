@@ -317,6 +317,181 @@
       "status": "proposed",
       "source_index": 51,
       "notes": "vocabulário de futebol; traduzir como gol"
+    },
+    {
+      "source": "ERASE SAVE",
+      "translation": "APAGAR SALVAMENTO",
+      "status": "proposed",
+      "source_index": 110,
+      "notes": "UI - apagar salvamento (correção canônica)"
+    },
+    {
+      "source": "CANCEL",
+      "translation": "CANCELAR",
+      "status": "proposed",
+      "source_index": 114,
+      "notes": "UI - botão cancelar"
+    },
+    {
+      "source": "RETRY",
+      "translation": "TENTAR DE NOVO",
+      "status": "proposed",
+      "source_index": 127,
+      "notes": "UI - tentar novamente"
+    },
+    {
+      "source": "SAVING...",
+      "translation": "SALVANDO...",
+      "status": "proposed",
+      "source_index": 129,
+      "notes": "status UI"
+    },
+    {
+      "source": "SAVING FAILED",
+      "translation": "FALHA AO SALVAR",
+      "status": "proposed",
+      "source_index": 132,
+      "notes": "erro UI"
+    },
+    {
+      "source": "CHANGE STORAGE DEVICE",
+      "translation": "TROCAR DISPOSITIVO DE ARMAZENAMENTO",
+      "status": "proposed",
+      "source_index": 138,
+      "notes": "UI - dispositivo de armazenamento"
+    },
+    {
+      "source": "PERSONAL BEST TIME!",
+      "translation": "MELHOR TEMPO PESSOAL!",
+      "status": "proposed",
+      "source_index": 139,
+      "notes": "UI label"
+    },
+    {
+      "source": "INTERACT",
+      "translation": "INTERAGIR",
+      "status": "proposed",
+      "source_index": 140,
+      "notes": "UI - ação"
+    },
+    {
+      "source": "SKIP",
+      "translation": "PULAR",
+      "status": "proposed",
+      "source_index": 141,
+      "notes": "UI - ação"
+    },
+    {
+      "source": "OVERALL",
+      "translation": "GERAL",
+      "status": "proposed",
+      "source_index": 119,
+      "notes": "UI label"
+    },
+    {
+      "source": "MY SCORE",
+      "translation": "MINHA PONTUAÇÃO",
+      "status": "proposed",
+      "source_index": 118,
+      "notes": "UI label"
+    },
+    {
+      "source": "ACCEPT TRAINING",
+      "translation": "ACEITAR TREINAMENTO",
+      "status": "proposed",
+      "source_index": 115,
+      "notes": "UI - treinamento"
+    },
+    {
+      "source": "DECLINE TRAINING",
+      "translation": "RECUSAR TREINAMENTO",
+      "status": "proposed",
+      "source_index": 116,
+      "notes": "UI - treinamento"
+    },
+    {
+      "source": "CARRY ON PLAYING",
+      "translation": "CONTINUAR JOGANDO",
+      "status": "proposed",
+      "source_index": 133,
+      "notes": "UI - continuar jogando"
+    },
+    {
+      "source": "GIVE UP AND QUIT",
+      "translation": "DESISTIR E SAIR",
+      "status": "proposed",
+      "source_index": 134,
+      "notes": "UI - desistir e sair"
+    },
+    {
+      "source": "SELECT",
+      "translation": "SELECIONAR",
+      "status": "proposed",
+      "source_index": 102,
+      "notes": "UI - ação"
+    },
+    {
+      "source": "BACK",
+      "translation": "VOLTAR",
+      "status": "proposed",
+      "source_index": 103,
+      "notes": "UI - voltar"
+    },
+    {
+      "source": "ZUBBA'S NEST",
+      "translation": "NINHO DOS ZUBBAS",
+      "status": "proposed",
+      "source_index": 100,
+      "notes": "minijogo — nome próprio"
+    },
+    {
+      "source": "ISLE O' HAGS",
+      "translation": "ILHA DOS HAGS",
+      "status": "proposed",
+      "source_index": 147,
+      "notes": "fase — nome próprio"
+    },
+    {
+      "source": "LOWER VOLUME",
+      "translation": "BAIXAR VOLUME",
+      "status": "proposed",
+      "source_index": 104,
+      "notes": "UI - controle de volume"
+    },
+    {
+      "source": "RAISE VOLUME",
+      "translation": "AUMENTAR VOLUME",
+      "status": "proposed",
+      "source_index": 105,
+      "notes": "UI - controle de volume"
+    },
+    {
+      "source": "PRESS START TO PLAY",
+      "translation": "PRESSIONE START PARA JOGAR",
+      "status": "proposed",
+      "source_index": 108,
+      "notes": "UI instrução"
+    },
+    {
+      "source": "CONTINUE OFFLINE",
+      "translation": "CONTINUAR OFFLINE",
+      "status": "proposed",
+      "source_index": 128,
+      "notes": "UI - continuar offline"
+    },
+    {
+      "source": "LOADING GAME...",
+      "translation": "CARREGANDO JOGO...",
+      "status": "proposed",
+      "source_index": 135,
+      "notes": "status UI"
+    },
+    {
+      "source": "GAME TOTAL",
+      "translation": "TOTAL DO JOGO",
+      "status": "proposed",
+      "source_index": 146,
+      "notes": "UI label — consistente com índice 13"
     }
   ]
 }

@@ -71,8 +71,8 @@ as demais seções servem apenas como referência de tom/terminologia.
 - Consultar, para cada string:
   1. `translation/pt-BR/tm.json` (TM — reutilizar traduções existentes);
   2. `translation/glossary/glossary-pt-BR.md` (política + termos).
-- `tm.json` atual: 45 entradas — **14 `approved`** (decisões de
-  glossário confirmadas) + **31 `proposed`** (propostas a validar em
+- `tm.json` atual: 70 entradas — **14 `approved`** (decisões de
+  glossário confirmadas) + **56 `proposed`** (propostas a validar em
   revisão). Entradas `proposed` não são canônicas até aprovadas.
 - Regras obrigatórias:
   - Preservar placeholders `[0x80]`–`[0x8F]` e o byte `0x7F` (glifos de botão)
@@ -151,16 +151,24 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
 - [x] Glossário + TM semeados
 - [x] Tradução lote 0000–0049 (50 strings)
 - [x] Tradução lote 0050–0099 (50 strings)
-- [ ] Tradução lote 0100–0149 (próxima microtarefa)
+- [x] Tradução lote 0100–0149 (50 strings)
+- [ ] Tradução lote 0150–0199 (próximo lote)
 - [ ] Revisão
 - [ ] Injeção no .dat + reempacotamento STFS
 
 ## Totais atuais
 
-- Traduzidas (EN): **108** / Incompletas (EN): **927** (de 1035)
-- Contagem precisa: os dois lotes cobrem **100 índices** (0–99), com
-  **96 traduções novas** nos dois lotes + **12 sementes aprovadas** no total
-  (4 in-range no lote 0050–0099: 59, 96, 97, 99; e 8 fora da faixa:
-  101, 148, 149, 150, 153, 154, 155, 156).
-- Lote 0050–0099: **46 traduções novas** + **4 sementes aprovadas** preservadas.
+- Traduzidas (EN): **155** / Incompletas (EN): **880** (de 1035)
+- Contagem canônica: **155 = 143 traduções novas nos três lotes**
+  (50 + 46 + 47) **+ 12 sementes aprovadas originais** no total
+  (59, 96, 97, 99, 101, 148, 149, 150, 153, 154, 155, 156).
+- Lote 0000–0049: **50 traduções novas** (0 sementes in-range).
+- Lote 0050–0099: **46 traduções novas** + **4 sementes aprovadas** preservadas
+  (59, 96, 97, 99).
+- Lote 0100–0149: **47 traduções novas** + **3 sementes exatas** preservadas
+  (101, 148, 149). As palavras aprovadas isoladamente (108, 110/113) já estão
+  contadas nas 47 novas — não são sementes nem traduções extras.
+- TM: **70 entradas** (14 `approved` + 56 `proposed`); o lote 0100–0149
+  adicionou **25 entradas `proposed`** ao TM (25 linhas na tabela do glossário).
 - Estado geral: tradução em progresso
+- Próximo lote: **0150–0199** (50 índices)

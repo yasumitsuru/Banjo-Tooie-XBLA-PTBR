@@ -155,3 +155,35 @@ As decisões abaixo são a referência terminológica para as strings 38–49. E
   não são placeholders.
 - Tradução de item com sufixo de custo (ex.: `SPRINGY STEP SHOES, 390 NOTES`)
   mantém o padrão `NOME, NNN NOTAS`.
+
+## Novos termos propostos — Lote 0100–0149
+
+Os termos abaixo foram propostos no lote 0100–0149 e adicionados a `tm.json` como `proposed`.
+
+| Termo (EN) | Proposta (pt-BR) | source_index | Notas |
+|---|---|---|---|
+| ZUBBA'S NEST | NINHO DOS ZUBBAS | 100 | minijogo — ZUBBAS mantido |
+| SELECT | SELECIONAR | 102 | UI |
+| BACK | VOLTAR | 103 | UI |
+| LOWER VOLUME | BAIXAR VOLUME | 104 | UI |
+| RAISE VOLUME | AUMENTAR VOLUME | 105 | UI |
+| PRESS START TO PLAY | PRESSIONE START PARA JOGAR | 108 | UI instrução |
+| ERASE SAVE | APAGAR SALVAMENTO | 110 | UI |
+| CANCEL | CANCELAR | 114 | UI |
+| ACCEPT TRAINING | ACEITAR TREINAMENTO | 115 | UI |
+| DECLINE TRAINING | RECUSAR TREINAMENTO | 116 | UI |
+| MY SCORE | MINHA PONTUAÇÃO | 118 | UI label |
+| OVERALL | GERAL | 119 | UI label |
+| RETRY | TENTAR DE NOVO | 127 | UI |
+| CONTINUE OFFLINE | CONTINUAR OFFLINE | 128 | UI |
+| SAVING... | SALVANDO... | 129 | status UI |
+| SAVING FAILED | FALHA AO SALVAR | 132 | erro UI |
+| CARRY ON PLAYING | CONTINUAR JOGANDO | 133 | UI |
+| GIVE UP AND QUIT | DESISTIR E SAIR | 134 | UI |
+| LOADING GAME... | CARREGANDO JOGO... | 135 | status UI |
+| CHANGE STORAGE DEVICE | TROCAR DISPOSITIVO DE ARMAZENAMENTO | 138 | UI |
+| PERSONAL BEST TIME! | MELHOR TEMPO PESSOAL! | 139 | UI label |
+| INTERACT | INTERAGIR | 140 | UI |
+| SKIP | PULAR | 141 | UI |
+| ISLE O' HAGS | ILHA DOS HAGS | 147 | fase — nome próprio |
+| GAME TOTAL | TOTAL DO JOGO | 146 | UI label — consistente com índice 13 |
