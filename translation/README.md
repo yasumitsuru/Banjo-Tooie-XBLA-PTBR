@@ -152,15 +152,15 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
 - [x] Tradução lote 0000–0049 (50 strings)
 - [x] Tradução lote 0050–0099 (50 strings)
 - [x] Tradução lote 0100–0149 (50 strings)
-- [ ] Tradução lote 0150–0199 (próximo lote)
+- [x] Tradução lote 0150–0199 (50 strings)
 - [ ] Revisão
 - [ ] Injeção no .dat + reempacotamento STFS
 
 ## Totais atuais
 
-- Traduzidas (EN): **155** / Incompletas (EN): **880** (de 1035)
-- Contagem canônica: **155 = 143 traduções novas nos três lotes**
-  (50 + 46 + 47) **+ 12 sementes aprovadas originais** no total
+- Traduzidas (EN): **200** / Incompletas (EN): **835** (de 1035)
+- Contagem canônica: **200 = 188 traduções novas nos quatro lotes**
+  (50 + 46 + 47 + 45) **+ 12 sementes aprovadas originais** no total
   (59, 96, 97, 99, 101, 148, 149, 150, 153, 154, 155, 156).
 - Lote 0000–0049: **50 traduções novas** (0 sementes in-range).
 - Lote 0050–0099: **46 traduções novas** + **4 sementes aprovadas** preservadas
@@ -168,7 +168,11 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
 - Lote 0100–0149: **47 traduções novas** + **3 sementes exatas** preservadas
   (101, 148, 149). As palavras aprovadas isoladamente (108, 110/113) já estão
   contadas nas 47 novas — não são sementes nem traduções extras.
-- TM: **70 entradas** (14 `approved` + 56 `proposed`); o lote 0100–0149
-  adicionou **25 entradas `proposed`** ao TM (25 linhas na tabela do glossário).
-- Estado geral: tradução em progresso
-- Próximo lote: **0150–0199** (50 índices)
+- Lote 0150–0199: **45 traduções novas** + **5 sementes aprovadas** preservadas
+  (150, 153, 154, 155, 156). STOP 'N' SWOP (157) mantido em inglês como
+  franquia/nome próprio.
+- TM: **98 entradas** (14 `approved` + 84 `proposed`); o lote 0150–0199
+  adicionou **28 novas entradas `proposed`** ao TM (conjunto seletivo de termos
+  reutilizáveis — mensagens longas de contexto único não entram no TM).
+- Estado geral: tradução em progresso, lote 0150–0199 concluído e revisado
+- Próximo lote: **0200–0249**

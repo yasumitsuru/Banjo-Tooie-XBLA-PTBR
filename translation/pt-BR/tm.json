@@ -492,6 +492,202 @@
       "status": "proposed",
       "source_index": 146,
       "notes": "UI label — consistente com índice 13"
+    },
+    {
+      "source": "JOLLY ROGER'S LAGOON",
+      "translation": "JOLLY ROGER'S LAGOON",
+      "status": "proposed",
+      "source_index": 151,
+      "notes": "batch 0150-0199 - fase — nome próprio"
+    },
+    {
+      "source": "TERRYDACTYLAND",
+      "translation": "TERRYDACTYLAND",
+      "status": "proposed",
+      "source_index": 152,
+      "notes": "batch 0150-0199 - fase — nome próprio"
+    },
+    {
+      "source": "STOP 'N' SWOP",
+      "translation": "STOP 'N' SWOP",
+      "status": "proposed",
+      "source_index": 157,
+      "notes": "batch 0150-0199 - franquia — nome próprio"
+    },
+    {
+      "source": "BOSS TOTAL",
+      "translation": "TOTAL DO CHEFE",
+      "status": "proposed",
+      "source_index": 158,
+      "notes": "batch 0150-0199 - UI label — paralelo a GAME TOTAL"
+    },
+    {
+      "source": "PERSONAL BEST",
+      "translation": "MELHOR MARCA PESSOAL",
+      "status": "proposed",
+      "source_index": 159,
+      "notes": "batch 0150-0199 - UI label"
+    },
+    {
+      "source": "Guest Gamer Profile",
+      "translation": "PERFIL DE JOGADOR CONVIDADO",
+      "status": "proposed",
+      "source_index": 160,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Corrupt Save",
+      "translation": "SALVAMENTO CORROMPIDO",
+      "status": "proposed",
+      "source_index": 163,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Create a new save",
+      "translation": "Criar novo salvamento",
+      "status": "proposed",
+      "source_index": 165,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Play without saving",
+      "translation": "Jogar sem salvar",
+      "status": "proposed",
+      "source_index": 166,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "CHANGE GAMER PROFILE",
+      "translation": "TROCAR PERFIL DE JOGADOR",
+      "status": "proposed",
+      "source_index": 168,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Gamer profile not online",
+      "translation": "Perfil de jogador não está online",
+      "status": "proposed",
+      "source_index": 170,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Connect to Xbox LIVE",
+      "translation": "Conectar ao Xbox LIVE",
+      "status": "proposed",
+      "source_index": 172,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Continue playing offline",
+      "translation": "Continuar jogando offline",
+      "status": "proposed",
+      "source_index": 173,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Trial Game",
+      "translation": "Jogo de Demonstração",
+      "status": "proposed",
+      "source_index": 174,
+      "notes": "batch 0150-0199 - UI — consistente com índice 28"
+    },
+    {
+      "source": "Unlock full game",
+      "translation": "Desbloquear o jogo completo",
+      "status": "proposed",
+      "source_index": 176,
+      "notes": "batch 0150-0199 - UI — consistente com índice 30"
+    },
+    {
+      "source": "Continue with the trial",
+      "translation": "Continuar com a demonstração",
+      "status": "proposed",
+      "source_index": 177,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "GAMER PROFILE OFFLINE",
+      "translation": "PERFIL DE JOGADOR OFFLINE",
+      "status": "proposed",
+      "source_index": 178,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Signed out",
+      "translation": "Sessão encerrada",
+      "status": "proposed",
+      "source_index": 180,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Continue playing",
+      "translation": "Continuar jogando",
+      "status": "proposed",
+      "source_index": 182,
+      "notes": "batch 0150-0199 - UI — consistente com índice 133"
+    },
+    {
+      "source": "Loading Error",
+      "translation": "Erro ao carregar",
+      "status": "proposed",
+      "source_index": 183,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Save failed",
+      "translation": "Falha ao salvar",
+      "status": "proposed",
+      "source_index": 186,
+      "notes": "batch 0150-0199 - UI — consistente com índice 132"
+    },
+    {
+      "source": "Select a new device",
+      "translation": "Selecionar um novo dispositivo",
+      "status": "proposed",
+      "source_index": 188,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Continue without saving",
+      "translation": "Continuar sem salvar",
+      "status": "proposed",
+      "source_index": 189,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Gamer profile missing",
+      "translation": "Perfil de jogador não encontrado",
+      "status": "proposed",
+      "source_index": 190,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "LOOK AROUND",
+      "translation": "OLHAR AO REDOR",
+      "status": "proposed",
+      "source_index": 193,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Disconnected",
+      "translation": "Desconectado",
+      "status": "proposed",
+      "source_index": 194,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Overwrite save?",
+      "translation": "Sobrescrever salvamento?",
+      "status": "proposed",
+      "source_index": 197,
+      "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "No - don't overwrite",
+      "translation": "Não - não sobrescrever",
+      "status": "proposed",
+      "source_index": 199,
+      "notes": "batch 0150-0199 - UI"
     }
   ]
 }

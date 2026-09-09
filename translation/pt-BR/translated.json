@@ -1220,7 +1220,7 @@
    "byte_length": 21,
    "encoding": "cp1252",
    "text": "JOLLY ROGER'S LAGOON",
-   "translation": null
+   "translation": "JOLLY ROGER'S LAGOON"
   },
   {
    "index": 152,
@@ -1228,7 +1228,7 @@
    "byte_length": 15,
    "encoding": "cp1252",
    "text": "TERRYDACTYLAND",
-   "translation": null
+   "translation": "TERRYDACTYLAND"
   },
   {
    "index": 153,
@@ -1268,7 +1268,7 @@
    "byte_length": 14,
    "encoding": "cp1252",
    "text": "STOP 'N' SWOP",
-   "translation": null
+   "translation": "STOP 'N' SWOP"
   },
   {
    "index": 158,
@@ -1276,7 +1276,7 @@
    "byte_length": 11,
    "encoding": "cp1252",
    "text": "BOSS TOTAL",
-   "translation": null
+   "translation": "TOTAL DO CHEFE"
   },
   {
    "index": 159,
@@ -1284,7 +1284,7 @@
    "byte_length": 14,
    "encoding": "cp1252",
    "text": "PERSONAL BEST",
-   "translation": null
+   "translation": "MELHOR MARCA PESSOAL"
   },
   {
    "index": 160,
@@ -1292,7 +1292,7 @@
    "byte_length": 40,
    "encoding": "utf-16-be",
    "text": "Guest Gamer Profile",
-   "translation": null
+   "translation": "PERFIL DE JOGADOR CONVIDADO"
   },
   {
    "index": 161,
@@ -1300,7 +1300,7 @@
    "byte_length": 172,
    "encoding": "utf-16-be",
    "text": "Guest gamer profile cannot access this feature. Please use a different gamer profile.",
-   "translation": null
+   "translation": "O perfil de jogador convidado não pode acessar esta funcionalidade. Use um perfil de jogador diferente."
   },
   {
    "index": 162,
@@ -1308,7 +1308,7 @@
    "byte_length": 6,
    "encoding": "utf-16-be",
    "text": "OK",
-   "translation": null
+   "translation": "OK"
   },
   {
    "index": 163,
@@ -1316,7 +1316,7 @@
    "byte_length": 26,
    "encoding": "utf-16-be",
    "text": "Corrupt Save",
-   "translation": null
+   "translation": "SALVAMENTO CORROMPIDO"
   },
   {
    "index": 164,
@@ -1324,7 +1324,7 @@
    "byte_length": 176,
    "encoding": "utf-16-be",
    "text": "Your save data appears to be corrupt.  Create a new save and overwrite the corrupt one?",
-   "translation": null
+   "translation": "Seus dados de salvamento parecem corrompidos. Criar um novo salvamento e sobrescrever o corrompido?"
   },
   {
    "index": 165,
@@ -1332,7 +1332,7 @@
    "byte_length": 36,
    "encoding": "utf-16-be",
    "text": "Create a new save",
-   "translation": null
+   "translation": "Criar novo salvamento"
   },
   {
    "index": 166,
@@ -1340,7 +1340,7 @@
    "byte_length": 40,
    "encoding": "utf-16-be",
    "text": "Play without saving",
-   "translation": null
+   "translation": "Jogar sem salvar"
   },
   {
    "index": 167,
@@ -1348,7 +1348,7 @@
    "byte_length": 69,
    "encoding": "cp1252",
    "text": "THIS FEATURE REQUIRES A GAMER PROFILE WHICH IS SIGNED INTO XBOX LIVE",
-   "translation": null
+   "translation": "ESTA FUNCIONALIDADE REQUER UM PERFIL DE JOGADOR CONECTADO AO XBOX LIVE"
   },
   {
    "index": 168,
@@ -1356,7 +1356,7 @@
    "byte_length": 21,
    "encoding": "cp1252",
    "text": "CHANGE GAMER PROFILE",
-   "translation": null
+   "translation": "TROCAR PERFIL DE JOGADOR"
   },
   {
    "index": 169,
@@ -1364,7 +1364,7 @@
    "byte_length": 5,
    "encoding": "cp1252",
    "text": "BACK",
-   "translation": null
+   "translation": "VOLTAR"
   },
   {
    "index": 170,
@@ -1372,7 +1372,7 @@
    "byte_length": 50,
    "encoding": "utf-16-be",
    "text": "Gamer profile not online",
-   "translation": null
+   "translation": "Perfil de jogador não está online"
   },
   {
    "index": 171,
@@ -1380,7 +1380,7 @@
    "byte_length": 218,
    "encoding": "utf-16-be",
    "text": "This game has some features which require an Xbox LIVE enabled gamer profile, but you are currently offline.",
-   "translation": null
+   "translation": "Este jogo tem algumas funcionalidades que exigem um perfil de jogador com Xbox LIVE, mas você está atualmente offline."
   },
   {
    "index": 172,
@@ -1388,7 +1388,7 @@
    "byte_length": 42,
    "encoding": "utf-16-be",
    "text": "Connect to Xbox LIVE",
-   "translation": null
+   "translation": "Conectar ao Xbox LIVE"
   },
   {
    "index": 173,
@@ -1396,7 +1396,7 @@
    "byte_length": 50,
    "encoding": "utf-16-be",
    "text": "Continue playing offline",
-   "translation": null
+   "translation": "Continuar jogando offline"
   },
   {
    "index": 174,
@@ -1404,7 +1404,7 @@
    "byte_length": 22,
    "encoding": "utf-16-be",
    "text": "Trial Game",
-   "translation": null
+   "translation": "Jogo de Demonstração"
   },
   {
    "index": 175,
@@ -1412,7 +1412,7 @@
    "byte_length": 396,
    "encoding": "utf-16-be",
    "text": "Nice work! This achievement can only be awarded in the Banjo-Tooie full game, which makes this an excellent time to splash the cash and unlock the full game in order to receive it. Don't you agree?",
-   "translation": null
+   "translation": "Bom trabalho! Esta conquista só pode ser concedida no jogo completo do Banjo-Tooie, o que torna este o momento ideal para gastar seu dinheiro, desbloquear o jogo completo e recebê-la. Não concorda?"
   },
   {
    "index": 176,
@@ -1420,7 +1420,7 @@
    "byte_length": 34,
    "encoding": "utf-16-be",
    "text": "Unlock full game",
-   "translation": null
+   "translation": "Desbloquear o jogo completo"
   },
   {
    "index": 177,
@@ -1428,7 +1428,7 @@
    "byte_length": 48,
    "encoding": "utf-16-be",
    "text": "Continue with the trial",
-   "translation": null
+   "translation": "Continuar com a demonstração"
   },
   {
    "index": 178,
@@ -1436,7 +1436,7 @@
    "byte_length": 22,
    "encoding": "cp1252",
    "text": "GAMER PROFILE OFFLINE",
-   "translation": null
+   "translation": "PERFIL DE JOGADOR OFFLINE"
   },
   {
    "index": 179,
@@ -1444,7 +1444,7 @@
    "byte_length": 142,
    "encoding": "cp1252",
    "text": "YOUR GAMER PROFILE IS CURRENTLY OFFLINE.  TO SEND YOUR SCORE TO THE ONLINE LEADERBOARD, PRESS THE XBOX GUIDE BUTTON AND CONNECT TO XBOX LIVE.",
-   "translation": null
+   "translation": "SEU PERFIL DE JOGADOR ESTÁ ATUALMENTE OFFLINE. PARA ENVIAR SUA PONTUAÇÃO AO PLACAR DE LÍDERES ONLINE, PRESSIONE O BOTÃO DO GUIA XBOX E CONECTE-SE AO XBOX LIVE."
   },
   {
    "index": 180,
@@ -1452,7 +1452,7 @@
    "byte_length": 22,
    "encoding": "utf-16-be",
    "text": "Signed out",
-   "translation": null
+   "translation": "Sessão encerrada"
   },
   {
    "index": 181,
@@ -1460,7 +1460,7 @@
    "byte_length": 170,
    "encoding": "utf-16-be",
    "text": "You have been returned to the title screen because your gamer profile was signed out",
-   "translation": null
+   "translation": "Você voltou à tela de título porque a sessão do seu perfil de jogador foi encerrada."
   },
   {
    "index": 182,
@@ -1468,7 +1468,7 @@
    "byte_length": 34,
    "encoding": "utf-16-be",
    "text": "Continue playing",
-   "translation": null
+   "translation": "Continuar jogando"
   },
   {
    "index": 183,
@@ -1476,7 +1476,7 @@
    "byte_length": 28,
    "encoding": "utf-16-be",
    "text": "Loading Error",
-   "translation": null
+   "translation": "Erro ao carregar"
   },
   {
    "index": 184,
@@ -1484,7 +1484,7 @@
    "byte_length": 110,
    "encoding": "utf-16-be",
    "text": "\"Banjo-Tooie\" has failed to load, and cannot continue.",
-   "translation": null
+   "translation": "\"Banjo-Tooie\" falhou ao carregar e não pode continuar."
   },
   {
    "index": 185,
@@ -1492,7 +1492,7 @@
    "byte_length": 46,
    "encoding": "utf-16-be",
    "text": "Return to Game Library",
-   "translation": null
+   "translation": "Voltar à biblioteca de jogos"
   },
   {
    "index": 186,
@@ -1500,7 +1500,7 @@
    "byte_length": 24,
    "encoding": "utf-16-be",
    "text": "Save failed",
-   "translation": null
+   "translation": "Falha ao salvar"
   },
   {
    "index": 187,
@@ -1508,7 +1508,7 @@
    "byte_length": 102,
    "encoding": "utf-16-be",
    "text": "Your storage device is unavailable or has an error",
-   "translation": null
+   "translation": "Seu dispositivo de armazenamento não está disponível ou apresenta um erro"
   },
   {
    "index": 188,
@@ -1516,7 +1516,7 @@
    "byte_length": 40,
    "encoding": "utf-16-be",
    "text": "Select a new device",
-   "translation": null
+   "translation": "Selecionar um novo dispositivo"
   },
   {
    "index": 189,
@@ -1524,7 +1524,7 @@
    "byte_length": 48,
    "encoding": "utf-16-be",
    "text": "Continue without saving",
-   "translation": null
+   "translation": "Continuar sem salvar"
   },
   {
    "index": 190,
@@ -1532,7 +1532,7 @@
    "byte_length": 44,
    "encoding": "utf-16-be",
    "text": "Gamer profile missing",
-   "translation": null
+   "translation": "Perfil de jogador não encontrado"
   },
   {
    "index": 191,
@@ -1540,7 +1540,7 @@
    "byte_length": 194,
    "encoding": "utf-16-be",
    "text": "Your gamer profile is no longer available.  Your achievement will be stored with your game save.",
-   "translation": null
+   "translation": "Seu perfil de jogador não está mais disponível. Sua conquista será armazenada com seu salvamento de jogo."
   },
   {
    "index": 192,
@@ -1548,7 +1548,7 @@
    "byte_length": 6,
    "encoding": "utf-16-be",
    "text": "OK",
-   "translation": null
+   "translation": "OK"
   },
   {
    "index": 193,
@@ -1556,7 +1556,7 @@
    "byte_length": 12,
    "encoding": "cp1252",
    "text": "LOOK AROUND",
-   "translation": null
+   "translation": "OLHAR AO REDOR"
   },
   {
    "index": 194,
@@ -1564,7 +1564,7 @@
    "byte_length": 26,
    "encoding": "utf-16-be",
    "text": "Disconnected",
-   "translation": null
+   "translation": "Desconectado"
   },
   {
    "index": 195,
@@ -1572,7 +1572,7 @@
    "byte_length": 170,
    "encoding": "utf-16-be",
    "text": "You have been returned to the menu because you have been disconnected from Xbox LIVE",
-   "translation": null
+   "translation": "Você voltou ao menu porque foi desconectado do Xbox LIVE."
   },
   {
    "index": 196,
@@ -1580,7 +1580,7 @@
    "byte_length": 34,
    "encoding": "utf-16-be",
    "text": "Continue playing",
-   "translation": null
+   "translation": "Continuar jogando"
   },
   {
    "index": 197,
@@ -1588,7 +1588,7 @@
    "byte_length": 32,
    "encoding": "utf-16-be",
    "text": "Overwrite save?",
-   "translation": null
+   "translation": "Sobrescrever salvamento?"
   },
   {
    "index": 198,
@@ -1596,7 +1596,7 @@
    "byte_length": 144,
    "encoding": "utf-16-be",
    "text": "That storage device already contains a save.  Is it OK to overwrite it?",
-   "translation": null
+   "translation": "Esse dispositivo de armazenamento já contém um salvamento. Deseja sobrescrevê-lo?"
   },
   {
    "index": 199,
@@ -1604,7 +1604,7 @@
    "byte_length": 42,
    "encoding": "utf-16-be",
    "text": "No - don't overwrite",
-   "translation": null
+   "translation": "Não - não sobrescrever"
   },
   {
    "index": 200,

@@ -1,0 +1,309 @@
+{
+ "batch_id": "batch-0150-0199",
+ "language_pair": "en-US -> pt-BR",
+ "assigned_indices": [
+  150,
+  151,
+  152,
+  153,
+  154,
+  155,
+  156,
+  157,
+  158,
+  159,
+  160,
+  161,
+  162,
+  163,
+  164,
+  165,
+  166,
+  167,
+  168,
+  169,
+  170,
+  171,
+  172,
+  173,
+  174,
+  175,
+  176,
+  177,
+  178,
+  179,
+  180,
+  181,
+  182,
+  183,
+  184,
+  185,
+  186,
+  187,
+  188,
+  189,
+  190,
+  191,
+  192,
+  193,
+  194,
+  195,
+  196,
+  197,
+  198,
+  199
+ ],
+ "total_entries": 50,
+ "entries": [
+  {
+   "index": 150,
+   "source_text": "WITCHY WORLD",
+   "translation": "WITCHY WORLD"
+  },
+  {
+   "index": 151,
+   "source_text": "JOLLY ROGER'S LAGOON",
+   "translation": "JOLLY ROGER'S LAGOON"
+  },
+  {
+   "index": 152,
+   "source_text": "TERRYDACTYLAND",
+   "translation": "TERRYDACTYLAND"
+  },
+  {
+   "index": 153,
+   "source_text": "GRUNTY INDUSTRIES",
+   "translation": "GRUNTY INDUSTRIES"
+  },
+  {
+   "index": 154,
+   "source_text": "HAILFIRE PEAKS",
+   "translation": "HAILFIRE PEAKS"
+  },
+  {
+   "index": 155,
+   "source_text": "CLOUD CUCKOOLAND",
+   "translation": "CLOUD CUCKOOLAND"
+  },
+  {
+   "index": 156,
+   "source_text": "CAULDRON KEEP",
+   "translation": "CAULDRON KEEP"
+  },
+  {
+   "index": 157,
+   "source_text": "STOP 'N' SWOP",
+   "translation": "STOP 'N' SWOP"
+  },
+  {
+   "index": 158,
+   "source_text": "BOSS TOTAL",
+   "translation": "TOTAL DO CHEFE"
+  },
+  {
+   "index": 159,
+   "source_text": "PERSONAL BEST",
+   "translation": "MELHOR MARCA PESSOAL"
+  },
+  {
+   "index": 160,
+   "source_text": "Guest Gamer Profile",
+   "translation": "PERFIL DE JOGADOR CONVIDADO"
+  },
+  {
+   "index": 161,
+   "source_text": "Guest gamer profile cannot access this feature. Please use a different gamer profile.",
+   "translation": "O perfil de jogador convidado não pode acessar esta funcionalidade. Use um perfil de jogador diferente."
+  },
+  {
+   "index": 162,
+   "source_text": "OK",
+   "translation": "OK"
+  },
+  {
+   "index": 163,
+   "source_text": "Corrupt Save",
+   "translation": "SALVAMENTO CORROMPIDO"
+  },
+  {
+   "index": 164,
+   "source_text": "Your save data appears to be corrupt.  Create a new save and overwrite the corrupt one?",
+   "translation": "Seus dados de salvamento parecem corrompidos. Criar um novo salvamento e sobrescrever o corrompido?"
+  },
+  {
+   "index": 165,
+   "source_text": "Create a new save",
+   "translation": "Criar novo salvamento"
+  },
+  {
+   "index": 166,
+   "source_text": "Play without saving",
+   "translation": "Jogar sem salvar"
+  },
+  {
+   "index": 167,
+   "source_text": "THIS FEATURE REQUIRES A GAMER PROFILE WHICH IS SIGNED INTO XBOX LIVE",
+   "translation": "ESTA FUNCIONALIDADE REQUER UM PERFIL DE JOGADOR CONECTADO AO XBOX LIVE"
+  },
+  {
+   "index": 168,
+   "source_text": "CHANGE GAMER PROFILE",
+   "translation": "TROCAR PERFIL DE JOGADOR"
+  },
+  {
+   "index": 169,
+   "source_text": "BACK",
+   "translation": "VOLTAR"
+  },
+  {
+   "index": 170,
+   "source_text": "Gamer profile not online",
+   "translation": "Perfil de jogador não está online"
+  },
+  {
+   "index": 171,
+   "source_text": "This game has some features which require an Xbox LIVE enabled gamer profile, but you are currently offline.",
+   "translation": "Este jogo tem algumas funcionalidades que exigem um perfil de jogador com Xbox LIVE, mas você está atualmente offline."
+  },
+  {
+   "index": 172,
+   "source_text": "Connect to Xbox LIVE",
+   "translation": "Conectar ao Xbox LIVE"
+  },
+  {
+   "index": 173,
+   "source_text": "Continue playing offline",
+   "translation": "Continuar jogando offline"
+  },
+  {
+   "index": 174,
+   "source_text": "Trial Game",
+   "translation": "Jogo de Demonstração"
+  },
+  {
+   "index": 175,
+   "source_text": "Nice work! This achievement can only be awarded in the Banjo-Tooie full game, which makes this an excellent time to splash the cash and unlock the full game in order to receive it. Don't you agree?",
+   "translation": "Bom trabalho! Esta conquista só pode ser concedida no jogo completo do Banjo-Tooie, o que torna este o momento ideal para gastar seu dinheiro, desbloquear o jogo completo e recebê-la. Não concorda?"
+  },
+  {
+   "index": 176,
+   "source_text": "Unlock full game",
+   "translation": "Desbloquear o jogo completo"
+  },
+  {
+   "index": 177,
+   "source_text": "Continue with the trial",
+   "translation": "Continuar com a demonstração"
+  },
+  {
+   "index": 178,
+   "source_text": "GAMER PROFILE OFFLINE",
+   "translation": "PERFIL DE JOGADOR OFFLINE"
+  },
+  {
+   "index": 179,
+   "source_text": "YOUR GAMER PROFILE IS CURRENTLY OFFLINE.  TO SEND YOUR SCORE TO THE ONLINE LEADERBOARD, PRESS THE XBOX GUIDE BUTTON AND CONNECT TO XBOX LIVE.",
+   "translation": "SEU PERFIL DE JOGADOR ESTÁ ATUALMENTE OFFLINE. PARA ENVIAR SUA PONTUAÇÃO AO PLACAR DE LÍDERES ONLINE, PRESSIONE O BOTÃO DO GUIA XBOX E CONECTE-SE AO XBOX LIVE."
+  },
+  {
+   "index": 180,
+   "source_text": "Signed out",
+   "translation": "Sessão encerrada"
+  },
+  {
+   "index": 181,
+   "source_text": "You have been returned to the title screen because your gamer profile was signed out",
+   "translation": "Você voltou à tela de título porque a sessão do seu perfil de jogador foi encerrada."
+  },
+  {
+   "index": 182,
+   "source_text": "Continue playing",
+   "translation": "Continuar jogando"
+  },
+  {
+   "index": 183,
+   "source_text": "Loading Error",
+   "translation": "Erro ao carregar"
+  },
+  {
+   "index": 184,
+   "source_text": "\"Banjo-Tooie\" has failed to load, and cannot continue.",
+   "translation": "\"Banjo-Tooie\" falhou ao carregar e não pode continuar."
+  },
+  {
+   "index": 185,
+   "source_text": "Return to Game Library",
+   "translation": "Voltar à biblioteca de jogos"
+  },
+  {
+   "index": 186,
+   "source_text": "Save failed",
+   "translation": "Falha ao salvar"
+  },
+  {
+   "index": 187,
+   "source_text": "Your storage device is unavailable or has an error",
+   "translation": "Seu dispositivo de armazenamento não está disponível ou apresenta um erro"
+  },
+  {
+   "index": 188,
+   "source_text": "Select a new device",
+   "translation": "Selecionar um novo dispositivo"
+  },
+  {
+   "index": 189,
+   "source_text": "Continue without saving",
+   "translation": "Continuar sem salvar"
+  },
+  {
+   "index": 190,
+   "source_text": "Gamer profile missing",
+   "translation": "Perfil de jogador não encontrado"
+  },
+  {
+   "index": 191,
+   "source_text": "Your gamer profile is no longer available.  Your achievement will be stored with your game save.",
+   "translation": "Seu perfil de jogador não está mais disponível. Sua conquista será armazenada com seu salvamento de jogo."
+  },
+  {
+   "index": 192,
+   "source_text": "OK",
+   "translation": "OK"
+  },
+  {
+   "index": 193,
+   "source_text": "LOOK AROUND",
+   "translation": "OLHAR AO REDOR"
+  },
+  {
+   "index": 194,
+   "source_text": "Disconnected",
+   "translation": "Desconectado"
+  },
+  {
+   "index": 195,
+   "source_text": "You have been returned to the menu because you have been disconnected from Xbox LIVE",
+   "translation": "Você voltou ao menu porque foi desconectado do Xbox LIVE."
+  },
+  {
+   "index": 196,
+   "source_text": "Continue playing",
+   "translation": "Continuar jogando"
+  },
+  {
+   "index": 197,
+   "source_text": "Overwrite save?",
+   "translation": "Sobrescrever salvamento?"
+  },
+  {
+   "index": 198,
+   "source_text": "That storage device already contains a save.  Is it OK to overwrite it?",
+   "translation": "Esse dispositivo de armazenamento já contém um salvamento. Deseja sobrescrevê-lo?"
+  },
+  {
+   "index": 199,
+   "source_text": "No - don't overwrite",
+   "translation": "Não - não sobrescrever"
+  }
+ ]
+}
