@@ -1,0 +1,309 @@
+{
+ "batch_id": "batch-0250-0299",
+ "language_pair": "en-US -> pt-BR",
+ "assigned_indices": [
+  250,
+  251,
+  252,
+  253,
+  254,
+  255,
+  256,
+  257,
+  258,
+  259,
+  260,
+  261,
+  262,
+  263,
+  264,
+  265,
+  266,
+  267,
+  268,
+  269,
+  270,
+  271,
+  272,
+  273,
+  274,
+  275,
+  276,
+  277,
+  278,
+  279,
+  280,
+  281,
+  282,
+  283,
+  284,
+  285,
+  286,
+  287,
+  288,
+  289,
+  290,
+  291,
+  292,
+  293,
+  294,
+  295,
+  296,
+  297,
+  298,
+  299
+ ],
+ "total_entries": 50,
+ "entries": [
+  {
+   "index": 250,
+   "source_text": " WIN THE KICKBALL GAMES",
+   "translation": " VENCER OS JOGOS DE KICKBALL"
+  },
+  {
+   "index": 251,
+   "source_text": " KILL THE PLAGUE OF FLIES",
+   "translation": " ELIMINAR A PRAGA DE MOSCAS"
+  },
+  {
+   "index": 252,
+   "source_text": " RECOVER TARGITZAN'S STOLEN GOLD",
+   "translation": " RECUPERAR O OURO ROUBADO DE TARGITZAN"
+  },
+  {
+   "index": 253,
+   "source_text": " QUICKSAND AREA IN JADE SNAKE GROVE",
+   "translation": " ÁREA DE AREIA MOVEDIÇA NO BOSQUE DA SERPENTE DE JADE"
+  },
+  {
+   "index": 254,
+   "source_text": " QUICKSAND AREA IN PRISON COMPOUND",
+   "translation": " ÁREA DE AREIA MOVEDIÇA NO COMPLEXO DA PRISÃO"
+  },
+  {
+   "index": 255,
+   "source_text": " STONE COLUMNS IN PRISON COMPOUND",
+   "translation": " COLUNAS DE PEDRA NO COMPLEXO DA PRISÃO"
+  },
+  {
+   "index": 256,
+   "source_text": " TOP OF TARGITZAN'S TEMPLE",
+   "translation": " NO TOPO DO TEMPLO DE TARGITZAN"
+  },
+  {
+   "index": 257,
+   "source_text": " SLEEPING JADE SNAKE",
+   "translation": " SERPENTE DE JADE ADORMECIDA"
+  },
+  {
+   "index": 258,
+   "source_text": " DEFEAT OLD KING COAL",
+   "translation": " DERROTAR OLD KING COAL"
+  },
+  {
+   "index": 259,
+   "source_text": " CANARY MARY'S HANDCART RACE",
+   "translation": " CORRIDA DE VAGONETAS DA CANARY MARY"
+  },
+  {
+   "index": 260,
+   "source_text": " INSIDE THE GENERATOR CAVERN",
+   "translation": " DENTRO DA CAVERNA DO GERADOR"
+  },
+  {
+   "index": 261,
+   "source_text": " INSIDE THE WATERFALL CAVERN",
+   "translation": " DENTRO DA CAVERNA DA CASCATA"
+  },
+  {
+   "index": 262,
+   "source_text": " INSIDE THE ORDNANCE STORAGE",
+   "translation": " DENTRO DO DEPÓSITO DE MUNIÇÕES"
+  },
+  {
+   "index": 263,
+   "source_text": " RESCUE THE RAT FROM MAYAHEM'S PRISON",
+   "translation": " RESGATAR O RATO DA PRISÃO DE MAYAHEM"
+  },
+  {
+   "index": 264,
+   "source_text": " CRUSH THE JIGGY BOULDER AND COLLECT THE PIECES",
+   "translation": " ESMAGAR A PEDRA JIGGY E RECOLHER OS PEDAÇOS"
+  },
+  {
+   "index": 265,
+   "source_text": " BEHIND THE EXTERIOR WATERFALL",
+   "translation": " ATRÁS DA CASCATA EXTERIOR"
+  },
+  {
+   "index": 266,
+   "source_text": " IN THE POWER HUT BASEMENT",
+   "translation": " NO PORÃO DA CABANA DE ENERGIA"
+  },
+  {
+   "index": 267,
+   "source_text": " IN THE FLOODED CAVES",
+   "translation": " NAS CAVERNAS INUNDADAS"
+  },
+  {
+   "index": 268,
+   "source_text": " WIN THE 'HOOP HURRY' GAME",
+   "translation": " VENCER O JOGO DE HOOP HURRY"
+  },
+  {
+   "index": 269,
+   "source_text": " WIN THE 'DODGEM DOME' GAMES",
+   "translation": " VENCER OS JOGOS DE DODGEM DOME"
+  },
+  {
+   "index": 270,
+   "source_text": " DEFEAT MR. PATCH",
+   "translation": " DERROTAR MR. PATCH"
+  },
+  {
+   "index": 271,
+   "source_text": " 'SAUCER OF PERIL' RIDE",
+   "translation": " PASSEIO NO SAUCER OF PERIL"
+  },
+  {
+   "index": 272,
+   "source_text": " WIN THE 'BALLOON BURST' GAME",
+   "translation": " VENCER O JOGO DE BALLOON BURST"
+  },
+  {
+   "index": 273,
+   "source_text": " TOP OF THE 'DIVE OF DEATH' BOARD",
+   "translation": " NO TOPO DA PLATAFORMA DO DIVE OF DEATH"
+  },
+  {
+   "index": 274,
+   "source_text": " RETURN KIDS TO MRS. BOGGY",
+   "translation": " DEVOLVER AS CRIANÇAS À SRA. BOGGY"
+  },
+  {
+   "index": 275,
+   "source_text": " TOP OF THE STAR SPINNER",
+   "translation": " NO TOPO DO STAR SPINNER"
+  },
+  {
+   "index": 276,
+   "source_text": " TOP OF THE INFERNO'S TOWER",
+   "translation": " NO TOPO DA TORRE DO INFERNO"
+  },
+  {
+   "index": 277,
+   "source_text": " CACTUS OF STRENGTH",
+   "translation": " CACTO DA FORÇA"
+  },
+  {
+   "index": 278,
+   "source_text": " SEA BOTTOM CAVERN MINES GAME",
+   "translation": " JOGO DAS MINAS NA CAVERNA DO FUNDO DO MAR"
+  },
+  {
+   "index": 279,
+   "source_text": " HATCH AND HELP BABY TIPTUP",
+   "translation": " CHOCAR E AJUDAR O BEBÊ TIPTUP"
+  },
+  {
+   "index": 280,
+   "source_text": " INSIDE THE TEMPLE OF THE FISHES",
+   "translation": " DENTRO DO TEMPLO DOS PEIXES"
+  },
+  {
+   "index": 281,
+   "source_text": " CLEAN UP AND HEAT THE POOL",
+   "translation": " LIMPAR E AQUECER A PISCINA"
+  },
+  {
+   "index": 282,
+   "source_text": " INSIDE SMUGGLER'S CAVERN BELOW JOLLY'S",
+   "translation": " DENTRO DA CAVERNA DO CONTRABANDISTA ABAIXO DA TAVERNA DO JOLLY"
+  },
+  {
+   "index": 283,
+   "source_text": " RESCUE MERRY MAGGIE FROM INSIDE THE BIG FISH",
+   "translation": " RESGATAR MERRY MAGGIE DE DENTRO DO GRANDE PEIXE"
+  },
+  {
+   "index": 284,
+   "source_text": " DEFEAT LORD WOO FAK FAK",
+   "translation": " DERROTAR LORD WOO FAK FAK"
+  },
+  {
+   "index": 285,
+   "source_text": " INSIDE A TRANSPARENT FISH",
+   "translation": " DENTRO DE UM PEIXE TRANSPARENTE"
+  },
+  {
+   "index": 286,
+   "source_text": " INSIDE PAWNO'S EMPORIUM",
+   "translation": " DENTRO DO EMPÓRIO DO PAWNO"
+  },
+  {
+   "index": 287,
+   "source_text": " POWER UP THE UFO",
+   "translation": " RECARREGAR O OVNI"
+  },
+  {
+   "index": 288,
+   "source_text": " UNDERNEATH THE CENTER OF TERRY'S NEST",
+   "translation": " SOB O CENTRO DO NINHO DE TERRY"
+  },
+  {
+   "index": 289,
+   "source_text": " FILL THE THIRSTY DINOSAUR'S POOL",
+   "translation": " ENCHER A PISCINA DO DINOSSAURO SEDENTO"
+  },
+  {
+   "index": 290,
+   "source_text": " HELP THE STYRACOSAURUS FAMILY",
+   "translation": " AJUDAR A FAMÍLIA DE ESTIRACOSSAUROS"
+  },
+  {
+   "index": 291,
+   "source_text": " DEFEAT TERRY",
+   "translation": " DERROTAR TERRY"
+  },
+  {
+   "index": 292,
+   "source_text": " WARM UP AND GET FOOD FOR THE OOGLE BOOGLES",
+   "translation": " AQUECER OS OOGLE BOOGLES E CONSEGUIR COMIDA PARA ELES"
+  },
+  {
+   "index": 293,
+   "source_text": " INSIDE THE CHOMPASAUR'S BELLY",
+   "translation": " DENTRO DA BARRIGA DO CHOMPASAUR"
+  },
+  {
+   "index": 294,
+   "source_text": " HATCH AND RETURN TERRY'S EGGS",
+   "translation": " CHOCAR E DEVOLVER OS OVOS DE TERRY"
+  },
+  {
+   "index": 295,
+   "source_text": " ON THE STOMPING PLAINS",
+   "translation": " NAS STOMPING PLAINS"
+  },
+  {
+   "index": 296,
+   "source_text": " DEFEAT THE ROCKNUTS TRIBE",
+   "translation": " DERROTAR A TRIBO DOS ROCKNUTS"
+  },
+  {
+   "index": 297,
+   "source_text": " SMALL T-REX ROAR CODE",
+   "translation": " CÓDIGO DO RUGIDO DO PEQUENO T-REX"
+  },
+  {
+   "index": 298,
+   "source_text": " INSIDE THE WASTE DISPOSAL PLANT",
+   "translation": " DENTRO DA ESTAÇÃO DE TRATAMENTO DE RESÍDUOS"
+  },
+  {
+   "index": 299,
+   "source_text": " DEFEAT WELDAR",
+   "translation": " DERROTAR WELDAR"
+  }
+ ]
+}

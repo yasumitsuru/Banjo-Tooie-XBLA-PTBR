@@ -71,8 +71,8 @@ as demais seções servem apenas como referência de tom/terminologia.
 - Consultar, para cada string:
   1. `translation/pt-BR/tm.json` (TM — reutilizar traduções existentes);
   2. `translation/glossary/glossary-pt-BR.md` (política + termos).
-- `tm.json` atual: 70 entradas — **14 `approved`** (decisões de
-  glossário confirmadas) + **56 `proposed`** (propostas a validar em
+- `tm.json` atual: 154 entradas — **14 `approved`** (decisões de
+  glossário confirmadas) + **140 `proposed`** (propostas a validar em
   revisão). Entradas `proposed` não são canônicas até aprovadas.
 - Regras obrigatórias:
   - Preservar placeholders `[0x80]`–`[0x8F]` e o byte `0x7F` (glifos de botão)
@@ -154,14 +154,15 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
 - [x] Tradução lote 0100–0149 (50 strings)
 - [x] Tradução lote 0150–0199 (50 strings)
 - [x] Tradução lote 0200–0249 (50 strings)
+- [x] Tradução lote 0250–0299 (50 strings)
 - [ ] Revisão
 - [ ] Injeção no .dat + reempacotamento STFS
 
 ## Totais atuais
 
-- Traduzidas (EN): **250** / Incompletas (EN): **785** (de 1035)
-- Contagem canônica: **250 = 238 traduções novas nos cinco lotes**
-  (50 + 46 + 47 + 45 + 50) **+ 12 sementes aprovadas originais** no total
+- Traduzidas (EN): **300** / Incompletas (EN): **735** (de 1035)
+- Contagem canônica: **300 = 288 traduções novas nos seis lotes**
+  (50 + 46 + 47 + 45 + 50 + 50) **+ 12 sementes aprovadas originais** no total
   (59, 96, 97, 99, 101, 148, 149, 150, 153, 154, 155, 156).
 - Lote 0000–0049: **50 traduções novas** (0 sementes in-range).
 - Lote 0050–0099: **46 traduções novas** + **4 sementes aprovadas** preservadas
@@ -176,9 +177,21 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
   **23** são traduções pt-BR e **27** são mantidos em inglês
   (202, 203–214, 225–237, 245). Mini-jogos, conquistas e nomes próprios
   mantidos em inglês; UI e instruções traduzidos para pt-BR.
-- TM: **130 entradas** (14 `approved` + 116 `proposed`); o lote 0200–0249
-  adicionou **32 novas entradas `proposed`** ao TM (conjunto seletivo de termos
-  reutilizáveis — conquistas, mini-jogos e mensagens longas de contexto único
-  não entram no TM).
-- Estado geral: tradução em progresso, lotes 0000–0249 concluídos
-- Próximo lote: **0250–0299**
+- Lote 0250–0299: **50 traduções novas** (0 sementes in-range). Terminologia:
+  KIDS→CRIANÇAS (multilingue confirma); CRUSH→ESMAGAR (não ESFAIXAR);
+  JADE SNAKE→SERPENTE DE JADE (termo descritivo); STAR SPINNER mantido
+  (não GIRASSOL); HANDCART RACE→VAGONETAS; POWER UP THE UFO→RECARREGAR O
+  OVNI; STYRACOSAURUS→ESTIRACOSSAUROS; WARM UP AND GET FOOD→AQUECER OS
+  OOGLE BOOGLES E CONSEGUIR COMIDA PARA ELES; WASTE DISPOSAL
+  PLANT→ESTAÇÃO DE TRATAMENTO DE RESÍDUOS; TRIBE→TRIBO (substantivo comum;
+  ROCKNUTS é o nome das criaturas). Nomes próprios e nomes/tipos de
+  criatura mantidos: TARGITZAN, OLD KING COAL, CANARY MARY, MAYAHEM, JIGGY,
+  HOOP HURRY, DODGEM DOME, MR. PATCH, SAUCER OF PERIL, BALLOON BURST,
+  DIVE OF DEATH, BOGGY, STAR SPINNER, INFERNO, TIPTUP, JOLLY,
+  MERRY MAGGIE, LORD WOO FAK FAK, PAWNO, TERRY,
+  OOGLE BOOGLES, CHOMPASAUR, ROCKNUTS, T-REX, WELDAR.
+- TM: **154 entradas** (14 `approved` + 140 `proposed`);
+  lote 0250–0299 adicionou **24 novas entradas `proposed`**; 26 frases
+  completas/objetivos de ocorrência única foram deliberadamente excluídos.
+- Estado geral: tradução em progresso, lotes 0000–0299 concluídos
+- Próximo lote: **0300–0349**

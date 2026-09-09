@@ -912,6 +912,174 @@
       "status": "proposed",
       "source_index": 249,
       "notes": "batch 0200-0249 - UI instrução — TARGITZAN nome próprio"
+    },
+    {
+      "source": " QUICKSAND AREA IN JADE SNAKE GROVE",
+      "translation": " ÁREA DE AREIA MOVEDIÇA NO BOSQUE DA SERPENTE DE JADE",
+      "status": "proposed",
+      "source_index": 253,
+      "notes": "batch 0250-0299 - localização — SERPENTE DE JADE, termo descritivo"
+    },
+    {
+      "source": " QUICKSAND AREA IN PRISON COMPOUND",
+      "translation": " ÁREA DE AREIA MOVEDIÇA NO COMPLEXO DA PRISÃO",
+      "status": "proposed",
+      "source_index": 254,
+      "notes": "batch 0250-0299 - localização — PRISON COMPOUND"
+    },
+    {
+      "source": " STONE COLUMNS IN PRISON COMPOUND",
+      "translation": " COLUNAS DE PEDRA NO COMPLEXO DA PRISÃO",
+      "status": "proposed",
+      "source_index": 255,
+      "notes": "batch 0250-0299 - localização — PRISON COMPOUND"
+    },
+    {
+      "source": " TOP OF TARGITZAN'S TEMPLE",
+      "translation": " NO TOPO DO TEMPLO DE TARGITZAN",
+      "status": "proposed",
+      "source_index": 256,
+      "notes": "batch 0250-0299 - localização — TARGITZAN nome próprio"
+    },
+    {
+      "source": " SLEEPING JADE SNAKE",
+      "translation": " SERPENTE DE JADE ADORMECIDA",
+      "status": "proposed",
+      "source_index": 257,
+      "notes": "batch 0250-0299 - criatura — SERPENTE DE JADE, termo descritivo"
+    },
+    {
+      "source": " INSIDE THE GENERATOR CAVERN",
+      "translation": " DENTRO DA CAVERNA DO GERADOR",
+      "status": "proposed",
+      "source_index": 260,
+      "notes": "batch 0250-0299 - localização — GENERATOR CAVERN"
+    },
+    {
+      "source": " INSIDE THE WATERFALL CAVERN",
+      "translation": " DENTRO DA CAVERNA DA CASCATA",
+      "status": "proposed",
+      "source_index": 261,
+      "notes": "batch 0250-0299 - localização — WATERFALL CAVERN"
+    },
+    {
+      "source": " INSIDE THE ORDNANCE STORAGE",
+      "translation": " DENTRO DO DEPÓSITO DE MUNIÇÕES",
+      "status": "proposed",
+      "source_index": 262,
+      "notes": "batch 0250-0299 - localização — ORDNANCE STORAGE"
+    },
+    {
+      "source": " BEHIND THE EXTERIOR WATERFALL",
+      "translation": " ATRÁS DA CASCATA EXTERIOR",
+      "status": "proposed",
+      "source_index": 265,
+      "notes": "batch 0250-0299 - localização — EXTERIOR WATERFALL"
+    },
+    {
+      "source": " IN THE POWER HUT BASEMENT",
+      "translation": " NO PORÃO DA CABANA DE ENERGIA",
+      "status": "proposed",
+      "source_index": 266,
+      "notes": "batch 0250-0299 - localização — POWER HUT"
+    },
+    {
+      "source": " IN THE FLOODED CAVES",
+      "translation": " NAS CAVERNAS INUNDADAS",
+      "status": "proposed",
+      "source_index": 267,
+      "notes": "batch 0250-0299 - localização — FLOODED CAVES"
+    },
+    {
+      "source": " TOP OF THE 'DIVE OF DEATH' BOARD",
+      "translation": " NO TOPO DA PLATAFORMA DO DIVE OF DEATH",
+      "status": "proposed",
+      "source_index": 273,
+      "notes": "batch 0250-0299 - localização — DIVE OF DEATH mini-jogo"
+    },
+    {
+      "source": " TOP OF THE STAR SPINNER",
+      "translation": " NO TOPO DO STAR SPINNER",
+      "status": "proposed",
+      "source_index": 275,
+      "notes": "batch 0250-0299 - localização — STAR SPINNER"
+    },
+    {
+      "source": " TOP OF THE INFERNO'S TOWER",
+      "translation": " NO TOPO DA TORRE DO INFERNO",
+      "status": "proposed",
+      "source_index": 276,
+      "notes": "batch 0250-0299 - localização — INFERNO"
+    },
+    {
+      "source": " CACTUS OF STRENGTH",
+      "translation": " CACTO DA FORÇA",
+      "status": "proposed",
+      "source_index": 277,
+      "notes": "batch 0250-0299 - item — CACTO DA FORÇA"
+    },
+    {
+      "source": " SEA BOTTOM CAVERN MINES GAME",
+      "translation": " JOGO DAS MINAS NA CAVERNA DO FUNDO DO MAR",
+      "status": "proposed",
+      "source_index": 278,
+      "notes": "batch 0250-0299 - localização/jogo — SEA BOTTOM"
+    },
+    {
+      "source": " INSIDE THE TEMPLE OF THE FISHES",
+      "translation": " DENTRO DO TEMPLO DOS PEIXES",
+      "status": "proposed",
+      "source_index": 280,
+      "notes": "batch 0250-0299 - localização — TEMPLE OF THE FISHES"
+    },
+    {
+      "source": " INSIDE SMUGGLER'S CAVERN BELOW JOLLY'S",
+      "translation": " DENTRO DA CAVERNA DO CONTRABANDISTA ABAIXO DA TAVERNA DO JOLLY",
+      "status": "proposed",
+      "source_index": 282,
+      "notes": "batch 0250-0299 - localização — SMUGGLER/contrabandista, taverna do JOLLY"
+    },
+    {
+      "source": " INSIDE A TRANSPARENT FISH",
+      "translation": " DENTRO DE UM PEIXE TRANSPARENTE",
+      "status": "proposed",
+      "source_index": 285,
+      "notes": "batch 0250-0299 - localização — PEIXE TRANSPARENTE"
+    },
+    {
+      "source": " INSIDE PAWNO'S EMPORIUM",
+      "translation": " DENTRO DO EMPÓRIO DO PAWNO",
+      "status": "proposed",
+      "source_index": 286,
+      "notes": "batch 0250-0299 - localização — PAWNO nome próprio"
+    },
+    {
+      "source": " UNDERNEATH THE CENTER OF TERRY'S NEST",
+      "translation": " SOB O CENTRO DO NINHO DE TERRY",
+      "status": "proposed",
+      "source_index": 288,
+      "notes": "batch 0250-0299 - localização — TERRY nome próprio"
+    },
+    {
+      "source": " INSIDE THE CHOMPASAUR'S BELLY",
+      "translation": " DENTRO DA BARRIGA DO CHOMPASAUR",
+      "status": "proposed",
+      "source_index": 293,
+      "notes": "batch 0250-0299 - localização — CHOMPASAUR criatura"
+    },
+    {
+      "source": " ON THE STOMPING PLAINS",
+      "translation": " NAS STOMPING PLAINS",
+      "status": "proposed",
+      "source_index": 295,
+      "notes": "batch 0250-0299 - localização — STOMPING PLAINS"
+    },
+    {
+      "source": " INSIDE THE WASTE DISPOSAL PLANT",
+      "translation": " DENTRO DA ESTAÇÃO DE TRATAMENTO DE RESÍDUOS",
+      "status": "proposed",
+      "source_index": 298,
+      "notes": "batch 0250-0299 - localização — WASTE DISPOSAL PLANT"
     }
   ]
 }

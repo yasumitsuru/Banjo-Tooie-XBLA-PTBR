@@ -281,3 +281,26 @@ Os termos abaixo foram propostos no lote 0100–0149 e adicionados a `tm.json` c
 | JIGGY TIPS | DICAS DE JIGGY | 247 | UI label — JIGGY (coletável) mantido, padrão DE/ES/IT |
 | DEFEAT TARGITZAN | DERROTAR TARGITZAN | 248 | UI instrução — TARGITZAN nome próprio |
 | INSIDE TARGITZAN'S TEMPLE | DENTRO DO TEMPLO DE TARGITZAN | 249 | UI instrução — TARGITZAN nome próprio |
+
+## Lote 0250–0299 — decisões reutilizáveis
+
+Somente decisões terminológicas com potencial de reutilização entram no TM; as
+50 frases completas permanecem documentadas no artefato do lote.
+
+| Termo | Decisão pt-BR | Índices | Nota |
+|---|---|---:|---|
+| JADE SNAKE | serpente de jade | 253, 257 | termo descritivo; SSSLUMBER é o nome próprio da criatura (1332) |
+| DIVE OF DEATH BOARD | plataforma do DIVE OF DEATH | 273 | “board” é plataforma de mergulho, não tabela |
+| STAR SPINNER / INFERNO | manter nomes próprios | 275, 276 | não traduzir como “girassol” |
+| CACTUS OF STRENGTH | cacto da força | 277 | forma natural em pt-BR |
+| SEA BOTTOM CAVERN MINES GAME | jogo das minas na caverna do fundo do mar | 278 | ordem natural em pt-BR |
+| SMUGGLER'S CAVERN BELOW JOLLY'S | caverna do contrabandista abaixo da taverna do Jolly | 282 | preservar a identidade da taverna |
+| STOMPING PLAINS | manter o nome completo | 295 | não fragmentar o topônimo |
+| ROAR | rugido | 297 | traduzir o termo comum |
+| HANDCART RACE | corrida de vagonetas | 259 | corrida em vagonetas sobre trilhos |
+| POWER UP | recarregar | 287 | recarregar o OVNI para deixá-lo pronto |
+| UFO | OVNI | 287 | sigla comum em pt-BR |
+| STYRACOSAURUS | estiracossauro(s) | 290 | tipo de dinossauro, não nome próprio |
+| WARM UP AND GET FOOD FOR THE OOGLE BOOGLES | aquecer os Oogle Boogles e conseguir comida para eles | 292 | aquecer as criaturas e obter comida para elas |
+| TRIBE / ROCKNUTS | tribo / manter ROCKNUTS | 296 | “tribe” é substantivo comum; ROCKNUTS nomeia as criaturas |
+| WASTE DISPOSAL PLANT | estação de tratamento de resíduos | 298 | localização |
