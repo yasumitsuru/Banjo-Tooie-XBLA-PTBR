@@ -1612,7 +1612,7 @@
    "byte_length": 38,
    "encoding": "utf-16-be",
    "text": "Overwrite and save",
-   "translation": null
+   "translation": "Sobrescrever e salvar"
   },
   {
    "index": 201,
@@ -1620,7 +1620,7 @@
    "byte_length": 47,
    "encoding": "cp1252",
    "text": "SAVING OF SETTINGS TO GAMER PROFILE HAS FAILED",
-   "translation": null
+   "translation": "FALHA AO SALVAR AS CONFIGURAÇÕES NO PERFIL DE JOGADOR"
   },
   {
    "index": 202,
@@ -1628,7 +1628,7 @@
    "byte_length": 24,
    "encoding": "utf-16-be",
    "text": "Banjo-Tooie",
-   "translation": null
+   "translation": "Banjo-Tooie"
   },
   {
    "index": 203,
@@ -1636,7 +1636,7 @@
    "byte_length": 24,
    "encoding": "cp1252",
    "text": "BALLOON BURST CHALLENGE",
-   "translation": null
+   "translation": "BALLOON BURST CHALLENGE"
   },
   {
    "index": 204,
@@ -1644,7 +1644,7 @@
    "byte_length": 21,
    "encoding": "cp1252",
    "text": "HOOP HURRY CHALLENGE",
-   "translation": null
+   "translation": "HOOP HURRY CHALLENGE"
   },
   {
    "index": 205,
@@ -1652,7 +1652,7 @@
    "byte_length": 21,
    "encoding": "cp1252",
    "text": "SAUCER OF PERIL RIDE",
-   "translation": null
+   "translation": "SAUCER OF PERIL RIDE"
   },
   {
    "index": 206,
@@ -1660,7 +1660,7 @@
    "byte_length": 27,
    "encoding": "cp1252",
    "text": "DODGEMS CHALLENGE (1-ON-1)",
-   "translation": null
+   "translation": "DODGEMS CHALLENGE (1-ON-1)"
   },
   {
    "index": 207,
@@ -1668,7 +1668,7 @@
    "byte_length": 27,
    "encoding": "cp1252",
    "text": "DODGEMS CHALLENGE (2-ON-1)",
-   "translation": null
+   "translation": "DODGEMS CHALLENGE (2-ON-1)"
   },
   {
    "index": 208,
@@ -1676,7 +1676,7 @@
    "byte_length": 27,
    "encoding": "cp1252",
    "text": "DODGEMS CHALLENGE (3-ON-1)",
-   "translation": null
+   "translation": "DODGEMS CHALLENGE (3-ON-1)"
   },
   {
    "index": 209,
@@ -1684,7 +1684,7 @@
    "byte_length": 19,
    "encoding": "cp1252",
    "text": "MINI-SUB CHALLENGE",
-   "translation": null
+   "translation": "MINI-SUB CHALLENGE"
   },
   {
    "index": 210,
@@ -1692,7 +1692,7 @@
    "byte_length": 15,
    "encoding": "cp1252",
    "text": "CHOMPA'S BELLY",
-   "translation": null
+   "translation": "CHOMPA'S BELLY"
   },
   {
    "index": 211,
@@ -1700,7 +1700,7 @@
    "byte_length": 18,
    "encoding": "cp1252",
    "text": "TWINKLIES PACKING",
-   "translation": null
+   "translation": "TWINKLIES PACKING"
   },
   {
    "index": 212,
@@ -1708,7 +1708,7 @@
    "byte_length": 11,
    "encoding": "cp1252",
    "text": "POT O'GOLD",
-   "translation": null
+   "translation": "POT O'GOLD"
   },
   {
    "index": 213,
@@ -1716,7 +1716,7 @@
    "byte_length": 16,
    "encoding": "cp1252",
    "text": "TRASH CAN GERMS",
-   "translation": null
+   "translation": "TRASH CAN GERMS"
   },
   {
    "index": 214,
@@ -1724,7 +1724,7 @@
    "byte_length": 13,
    "encoding": "cp1252",
    "text": "ZUBBA'S HIVE",
-   "translation": null
+   "translation": "ZUBBA'S HIVE"
   },
   {
    "index": 215,
@@ -1732,7 +1732,7 @@
    "byte_length": 11,
    "encoding": "cp1252",
    "text": "TRIAL GAME",
-   "translation": null
+   "translation": "DEMONSTRAÇÃO"
   },
   {
    "index": 216,
@@ -1740,7 +1740,7 @@
    "byte_length": 91,
    "encoding": "cp1252",
    "text": "THIS IS ONLY A TRIAL VERSION OF BANJO TOOIE.  PLEASE UNLOCK THE FULL VERSION FOR MORE FUN!",
-   "translation": null
+   "translation": "ESTA É APENAS UMA VERSÃO DE DEMONSTRAÇÃO DE BANJO-TOOIE.  DESBLOQUEIE A VERSÃO COMPLETA PARA MAIS DIVERSÃO!"
   },
   {
    "index": 217,
@@ -1748,7 +1748,7 @@
    "byte_length": 38,
    "encoding": "utf-16-be",
    "text": "Option Unavailable",
-   "translation": null
+   "translation": "Opção indisponível"
   },
   {
    "index": 218,
@@ -1756,7 +1756,7 @@
    "byte_length": 94,
    "encoding": "utf-16-be",
    "text": "This option is only available in the full game",
-   "translation": null
+   "translation": "Esta opção está disponível apenas no jogo completo"
   },
   {
    "index": 219,
@@ -1764,7 +1764,7 @@
    "byte_length": 34,
    "encoding": "utf-16-be",
    "text": "Unlock Full Game",
-   "translation": null
+   "translation": "Desbloquear o jogo completo"
   },
   {
    "index": 220,
@@ -1772,7 +1772,7 @@
    "byte_length": 48,
    "encoding": "utf-16-be",
    "text": "Continue with the trial",
-   "translation": null
+   "translation": "Continuar com a demonstração"
   },
   {
    "index": 221,
@@ -1780,7 +1780,7 @@
    "byte_length": 11,
    "encoding": "cp1252",
    "text": "WELL DONE!",
-   "translation": null
+   "translation": "BOM TRABALHO!"
   },
   {
    "index": 222,
@@ -1788,7 +1788,7 @@
    "byte_length": 106,
    "encoding": "cp1252",
    "text": "YOU'VE EARNED AN ACHIEVEMENT FOR KILLING KLUNGO, BUT YOU'LL NEED TO UNLOCK TO THE FULL VERSION TO GET IT!",
-   "translation": null
+   "translation": "VOCÊ GANHOU UMA CONQUISTA POR DERROTAR KLUNGO, MAS PRECISA DESBLOQUEAR A VERSÃO COMPLETA PARA RECEBÊ-LA!"
   },
   {
    "index": 223,
@@ -1796,7 +1796,7 @@
    "byte_length": 46,
    "encoding": "utf-16-be",
    "text": "Stop 'n' Swop II found",
-   "translation": null
+   "translation": "Stop 'n' Swop II encontrado"
   },
   {
    "index": 224,
@@ -1804,7 +1804,7 @@
    "byte_length": 44,
    "encoding": "utf-16-be",
    "text": "- Oh no, not again...",
-   "translation": null
+   "translation": "- Oh não, não de novo..."
   },
   {
    "index": 225,
@@ -1812,7 +1812,7 @@
    "byte_length": 28,
    "encoding": "utf-16-be",
    "text": "- Lucky Loser",
-   "translation": null
+   "translation": "- Lucky Loser"
   },
   {
    "index": 226,
@@ -1820,7 +1820,7 @@
    "byte_length": 42,
    "encoding": "utf-16-be",
    "text": "- Better Than A Slap",
-   "translation": null
+   "translation": "- Better Than A Slap"
   },
   {
    "index": 227,
@@ -1828,7 +1828,7 @@
    "byte_length": 42,
    "encoding": "utf-16-be",
    "text": "- And The Winner Is…",
-   "translation": null
+   "translation": "- And The Winner Is…"
   },
   {
    "index": 228,
@@ -1836,7 +1836,7 @@
    "byte_length": 36,
    "encoding": "utf-16-be",
    "text": "- Now Who’s Boss?",
-   "translation": null
+   "translation": "- Now Who’s Boss?"
   },
   {
    "index": 229,
@@ -1844,7 +1844,7 @@
    "byte_length": 38,
    "encoding": "utf-16-be",
    "text": "- Calmer Chameleon",
-   "translation": null
+   "translation": "- Calmer Chameleon"
   },
   {
    "index": 230,
@@ -1852,7 +1852,7 @@
    "byte_length": 34,
    "encoding": "utf-16-be",
    "text": "- Heroic Failure",
-   "translation": null
+   "translation": "- Heroic Failure"
   },
   {
    "index": 231,
@@ -1860,7 +1860,7 @@
    "byte_length": 20,
    "encoding": "cp1252",
    "text": "OH NO, NOT AGAIN...",
-   "translation": null
+   "translation": "OH NO, NOT AGAIN..."
   },
   {
    "index": 232,
@@ -1868,7 +1868,7 @@
    "byte_length": 12,
    "encoding": "cp1252",
    "text": "LUCKY LOSER",
-   "translation": null
+   "translation": "LUCKY LOSER"
   },
   {
    "index": 233,
@@ -1876,7 +1876,7 @@
    "byte_length": 19,
    "encoding": "cp1252",
    "text": "BETTER THAN A SLAP",
-   "translation": null
+   "translation": "BETTER THAN A SLAP"
   },
   {
    "index": 234,
@@ -1884,7 +1884,7 @@
    "byte_length": 21,
    "encoding": "cp1252",
    "text": "AND THE WINNER IS...",
-   "translation": null
+   "translation": "AND THE WINNER IS..."
   },
   {
    "index": 235,
@@ -1892,7 +1892,7 @@
    "byte_length": 16,
    "encoding": "cp1252",
    "text": "NOW WHO'S BOSS?",
-   "translation": null
+   "translation": "NOW WHO'S BOSS?"
   },
   {
    "index": 236,
@@ -1900,7 +1900,7 @@
    "byte_length": 17,
    "encoding": "cp1252",
    "text": "CALMER CHAMELEON",
-   "translation": null
+   "translation": "CALMER CHAMELEON"
   },
   {
    "index": 237,
@@ -1908,7 +1908,7 @@
    "byte_length": 15,
    "encoding": "cp1252",
    "text": "HEROIC FAILURE",
-   "translation": null
+   "translation": "HEROIC FAILURE"
   },
   {
    "index": 238,
@@ -1916,7 +1916,7 @@
    "byte_length": 17,
    "encoding": "cp1252",
    "text": "YOUR SCORE BEATS",
-   "translation": null
+   "translation": "SUA PONTUAÇÃO SUPERA"
   },
   {
    "index": 239,
@@ -1924,7 +1924,7 @@
    "byte_length": 34,
    "encoding": "cp1252",
    "text": "CONGRATULATIONS! A PERSONAL BEST!",
-   "translation": null
+   "translation": "PARABÉNS! MELHOR MARCA PESSOAL!"
   },
   {
    "index": 240,
@@ -1932,7 +1932,7 @@
    "byte_length": 33,
    "encoding": "cp1252",
    "text": "CONGRATULATIONS! YOU HAVE BEATEN",
-   "translation": null
+   "translation": "PARABÉNS! VOCÊ DERROTOU"
   },
   {
    "index": 241,
@@ -1940,7 +1940,7 @@
    "byte_length": 7,
    "encoding": "cp1252",
    "text": "MODERN",
-   "translation": null
+   "translation": "MODERNO"
   },
   {
    "index": 242,
@@ -1948,7 +1948,7 @@
    "byte_length": 18,
    "encoding": "cp1252",
    "text": "MODERN - INVERTED",
-   "translation": null
+   "translation": "MODERNO - INVERTIDO"
   },
   {
    "index": 243,
@@ -1956,7 +1956,7 @@
    "byte_length": 8,
    "encoding": "cp1252",
    "text": "CLASSIC",
-   "translation": null
+   "translation": "CLÁSSICO"
   },
   {
    "index": 244,
@@ -1964,7 +1964,7 @@
    "byte_length": 19,
    "encoding": "cp1252",
    "text": "CLASSIC - INVERTED",
-   "translation": null
+   "translation": "CLÁSSICO - INVERTIDO"
   },
   {
    "index": 245,
@@ -1972,7 +1972,7 @@
    "byte_length": 6,
    "encoding": "cp1252",
    "text": "JIGGY",
-   "translation": null
+   "translation": "JIGGY"
   },
   {
    "index": 246,
@@ -1980,7 +1980,7 @@
    "byte_length": 11,
    "encoding": "cp1252",
    "text": "JIGGY HINT",
-   "translation": null
+   "translation": "DICA DE JIGGY"
   },
   {
    "index": 247,
@@ -1988,7 +1988,7 @@
    "byte_length": 11,
    "encoding": "cp1252",
    "text": "JIGGY TIPS",
-   "translation": null
+   "translation": "DICAS DE JIGGY"
   },
   {
    "index": 248,
@@ -1996,7 +1996,7 @@
    "byte_length": 18,
    "encoding": "cp1252",
    "text": " DEFEAT TARGITZAN",
-   "translation": null
+   "translation": " DERROTAR TARGITZAN"
   },
   {
    "index": 249,
@@ -2004,7 +2004,7 @@
    "byte_length": 27,
    "encoding": "cp1252",
    "text": " INSIDE TARGITZAN'S TEMPLE",
-   "translation": null
+   "translation": " DENTRO DO TEMPLO DE TARGITZAN"
   },
   {
    "index": 250,

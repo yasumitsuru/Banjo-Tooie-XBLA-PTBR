@@ -688,6 +688,230 @@
       "status": "proposed",
       "source_index": 199,
       "notes": "batch 0150-0199 - UI"
+    },
+    {
+      "source": "Overwrite and save",
+      "translation": "Sobrescrever e salvar",
+      "status": "proposed",
+      "source_index": 200,
+      "notes": "batch 0200-0249 - UI label — botão de ação"
+    },
+    {
+      "source": "SAVING OF SETTINGS TO GAMER PROFILE HAS FAILED",
+      "translation": "FALHA AO SALVAR AS CONFIGURAÇÕES NO PERFIL DE JOGADOR",
+      "status": "proposed",
+      "source_index": 201,
+      "notes": "batch 0200-0249 - UI erro — paralelo a índice 186"
+    },
+    {
+      "source": "Banjo-Tooie",
+      "translation": "Banjo-Tooie",
+      "status": "proposed",
+      "source_index": 202,
+      "notes": "batch 0200-0249 - título do jogo"
+    },
+    {
+      "source": "BALLOON BURST CHALLENGE",
+      "translation": "BALLOON BURST CHALLENGE",
+      "status": "proposed",
+      "source_index": 203,
+      "notes": "batch 0200-0249 - mini-jogo — nome próprio"
+    },
+    {
+      "source": "HOOP HURRY CHALLENGE",
+      "translation": "HOOP HURRY CHALLENGE",
+      "status": "proposed",
+      "source_index": 204,
+      "notes": "batch 0200-0249 - mini-jogo — nome próprio"
+    },
+    {
+      "source": "SAUCER OF PERIL RIDE",
+      "translation": "SAUCER OF PERIL RIDE",
+      "status": "proposed",
+      "source_index": 205,
+      "notes": "batch 0200-0249 - mini-jogo — nome próprio"
+    },
+    {
+      "source": "DODGEMS CHALLENGE (1-ON-1)",
+      "translation": "DODGEMS CHALLENGE (1-ON-1)",
+      "status": "proposed",
+      "source_index": 206,
+      "notes": "batch 0200-0249 - mini-jogo — nome próprio"
+    },
+    {
+      "source": "DODGEMS CHALLENGE (2-ON-1)",
+      "translation": "DODGEMS CHALLENGE (2-ON-1)",
+      "status": "proposed",
+      "source_index": 207,
+      "notes": "batch 0200-0249 - mini-jogo — nome próprio"
+    },
+    {
+      "source": "DODGEMS CHALLENGE (3-ON-1)",
+      "translation": "DODGEMS CHALLENGE (3-ON-1)",
+      "status": "proposed",
+      "source_index": 208,
+      "notes": "batch 0200-0249 - mini-jogo — nome próprio"
+    },
+    {
+      "source": "MINI-SUB CHALLENGE",
+      "translation": "MINI-SUB CHALLENGE",
+      "status": "proposed",
+      "source_index": 209,
+      "notes": "batch 0200-0249 - mini-jogo — nome próprio"
+    },
+    {
+      "source": "TWINKLIES PACKING",
+      "translation": "TWINKLIES PACKING",
+      "status": "proposed",
+      "source_index": 211,
+      "notes": "batch 0200-0249 - mini-jogo — nome próprio"
+    },
+    {
+      "source": "POT O'GOLD",
+      "translation": "POT O'GOLD",
+      "status": "proposed",
+      "source_index": 212,
+      "notes": "batch 0200-0249 - mini-jogo — nome próprio"
+    },
+    {
+      "source": "TRASH CAN GERMS",
+      "translation": "TRASH CAN GERMS",
+      "status": "proposed",
+      "source_index": 213,
+      "notes": "batch 0200-0249 - mini-jogo — nome próprio"
+    },
+    {
+      "source": "ZUBBA'S HIVE",
+      "translation": "ZUBBA'S HIVE",
+      "status": "proposed",
+      "source_index": 214,
+      "notes": "batch 0200-0249 - mini-jogo — nome próprio"
+    },
+    {
+      "source": "TRIAL GAME",
+      "translation": "DEMONSTRAÇÃO",
+      "status": "proposed",
+      "source_index": 215,
+      "notes": "batch 0200-0249 - UI — consistente com índice 28 e 174"
+    },
+    {
+      "source": "Option Unavailable",
+      "translation": "Opção indisponível",
+      "status": "proposed",
+      "source_index": 217,
+      "notes": "batch 0200-0249 - UI label"
+    },
+    {
+      "source": "This option is only available in the full game",
+      "translation": "Esta opção está disponível apenas no jogo completo",
+      "status": "proposed",
+      "source_index": 218,
+      "notes": "batch 0200-0249 - UI mensagem"
+    },
+    {
+      "source": "Unlock Full Game",
+      "translation": "Desbloquear o jogo completo",
+      "status": "proposed",
+      "source_index": 219,
+      "notes": "batch 0200-0249 - UI label — consistente com índice 30 e 176"
+    },
+    {
+      "source": "WELL DONE!",
+      "translation": "BOM TRABALHO!",
+      "status": "proposed",
+      "source_index": 221,
+      "notes": "batch 0200-0249 - UI label — paralelo a 'WELL DONE' (glossário 175)"
+    },
+    {
+      "source": "Stop 'n' Swop II found",
+      "translation": "Stop 'n' Swop II encontrado",
+      "status": "proposed",
+      "source_index": 223,
+      "notes": "batch 0200-0249 - UI mensagem — 'Stop 'n' Swop' franquia mantida"
+    },
+    {
+      "source": "YOUR SCORE BEATS",
+      "translation": "SUA PONTUAÇÃO SUPERA",
+      "status": "proposed",
+      "source_index": 238,
+      "notes": "batch 0200-0249 - UI label"
+    },
+    {
+      "source": "CONGRATULATIONS! A PERSONAL BEST!",
+      "translation": "PARABÉNS! MELHOR MARCA PESSOAL!",
+      "status": "proposed",
+      "source_index": 239,
+      "notes": "batch 0200-0249 - UI label — 'PARABÉNS!' distinto de 'BOM TRABALHO!'"
+    },
+    {
+      "source": "CONGRATULATIONS! YOU HAVE BEATEN",
+      "translation": "PARABÉNS! VOCÊ DERROTOU",
+      "status": "proposed",
+      "source_index": 240,
+      "notes": "batch 0200-0249 - UI label"
+    },
+    {
+      "source": "MODERN",
+      "translation": "MODERNO",
+      "status": "proposed",
+      "source_index": 241,
+      "notes": "batch 0200-0249 - modo de jogo"
+    },
+    {
+      "source": "MODERN - INVERTED",
+      "translation": "MODERNO - INVERTIDO",
+      "status": "proposed",
+      "source_index": 242,
+      "notes": "batch 0200-0249 - modo de jogo"
+    },
+    {
+      "source": "CLASSIC",
+      "translation": "CLÁSSICO",
+      "status": "proposed",
+      "source_index": 243,
+      "notes": "batch 0200-0249 - modo de jogo"
+    },
+    {
+      "source": "CLASSIC - INVERTED",
+      "translation": "CLÁSSICO - INVERTIDO",
+      "status": "proposed",
+      "source_index": 244,
+      "notes": "batch 0200-0249 - modo de jogo"
+    },
+    {
+      "source": "JIGGY",
+      "translation": "JIGGY",
+      "status": "proposed",
+      "source_index": 245,
+      "notes": "batch 0200-0249 - coletável — nome próprio"
+    },
+    {
+      "source": "JIGGY HINT",
+      "translation": "DICA DE JIGGY",
+      "status": "proposed",
+      "source_index": 246,
+      "notes": "batch 0200-0249 - UI label — JIGGY nome próprio"
+    },
+    {
+      "source": "JIGGY TIPS",
+      "translation": "DICAS DE JIGGY",
+      "status": "proposed",
+      "source_index": 247,
+      "notes": "batch 0200-0249 - UI label — JIGGY nome próprio"
+    },
+    {
+      "source": " DEFEAT TARGITZAN",
+      "translation": " DERROTAR TARGITZAN",
+      "status": "proposed",
+      "source_index": 248,
+      "notes": "batch 0200-0249 - UI instrução — TARGITZAN nome próprio"
+    },
+    {
+      "source": " INSIDE TARGITZAN'S TEMPLE",
+      "translation": " DENTRO DO TEMPLO DE TARGITZAN",
+      "status": "proposed",
+      "source_index": 249,
+      "notes": "batch 0200-0249 - UI instrução — TARGITZAN nome próprio"
     }
   ]
 }

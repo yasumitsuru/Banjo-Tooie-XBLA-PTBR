@@ -228,3 +228,56 @@ Os termos abaixo foram propostos no lote 0100–0149 e adicionados a `tm.json` c
 | JOLLY ROGER'S LAGOON | 151 |
 | TERRYDACTYLAND | 152 |
 | STOP 'N' SWOP | 157 |
+
+## Novos termos propostos — Lote 0200–0249
+
+| Termo (EN) | Proposta (pt-BR) | source_index | Notas |
+|---|---|---|---|
+| OVERWRITE AND SAVE | SOBRESCREVER E SALVAR | 200 | UI label — botão de ação |
+| SAVING OF SETTINGS TO GAMER PROFILE HAS FAILED | FALHA AO SALVAR AS CONFIGURAÇÕES NO PERFIL DE JOGADOR | 201 | UI erro — paralelo a índice 186 |
+| Banjo-Tooie | Banjo-Tooie | 202 | título do jogo — manter completo |
+| BALLOON BURST CHALLENGE | BALLOON BURST CHALLENGE | 203 | mini-jogo — nome próprio |
+| HOOP HURRY CHALLENGE | HOOP HURRY CHALLENGE | 204 | mini-jogo — nome próprio |
+| SAUCER OF PERIL RIDE | SAUCER OF PERIL RIDE | 205 | mini-jogo — nome próprio |
+| DODGEMS CHALLENGE (1-ON-1) | DODGEMS CHALLENGE (1-ON-1) | 206 | mini-jogo — nome próprio |
+| DODGEMS CHALLENGE (2-ON-1) | DODGEMS CHALLENGE (2-ON-1) | 207 | mini-jogo — nome próprio |
+| DODGEMS CHALLENGE (3-ON-1) | DODGEMS CHALLENGE (3-ON-1) | 208 | mini-jogo — nome próprio |
+| MINI-SUB CHALLENGE | MINI-SUB CHALLENGE | 209 | mini-jogo — nome próprio |
+| CHOMPA'S BELLY | CHOMPA'S BELLY | 210 | mini-jogo — nome próprio |
+| TWINKLIES PACKING | TWINKLIES PACKING | 211 | mini-jogo — nome próprio |
+| POT O'GOLD | POT O'GOLD | 212 | mini-jogo — nome próprio |
+| TRASH CAN GERMS | TRASH CAN GERMS | 213 | mini-jogo — nome próprio |
+| ZUBBA'S HIVE | ZUBBA'S HIVE | 214 | mini-jogo — nome próprio |
+| TRIAL GAME | DEMONSTRAÇÃO | 215 | UI — consistente com índice 32 |
+| OPTION UNAVAILABLE | OPÇÃO INDISPONÍVEL | 217 | UI label |
+| THIS OPTION IS ONLY AVAILABLE IN THE FULL GAME | ESTA OPÇÃO ESTÁ DISPONÍVEL APENAS NO JOGO COMPLETO | 218 | UI mensagem |
+| UNLOCK FULL GAME | DESBLOQUEAR O JOGO COMPLETO | 219 | UI label — consistente com índice 30 e 176 |
+| CONTINUE WITH THE TRIAL | CONTINUAR COM A DEMONSTRAÇÃO | 220 | UI — consistente com índice 177 |
+| WELL DONE! | BOM TRABALHO! | 221 | UI label — paralelo ao glossário índice 175 |
+| STOP 'N' SWOP II FOUND | Stop 'n' Swop II encontrado | 223 | UI mensagem — franquia mantida |
+| OH NO, NOT AGAIN... | OH NÃO, NÃO DE NOVO... | 224 | linha de personagem |
+| LUCKY LOSER | Lucky Loser | 225 | conquista — nome próprio |
+| BETTER THAN A SLAP | Better Than A Slap | 226 | conquista — nome próprio |
+| AND THE WINNER IS… | And The Winner Is… | 227 | conquista — nome próprio (… U+2026 preservado) |
+| NOW WHO’S BOSS? | Now Who’s Boss? | 228 | conquista — nome próprio (’ U+2019 preservado) |
+| CALMER CHAMELEON | Calmer Chameleon | 229 | conquista — nome próprio |
+| HEROIC FAILURE | Heroic Failure | 230 | conquista — nome próprio |
+| OH NO, NOT AGAIN... | OH NO, NOT AGAIN... | 231 | conquista (all caps) — manter EN |
+| LUCKY LOSER | LUCKY LOSER | 232 | conquista (all caps) — manter EN |
+| BETTER THAN A SLAP | BETTER THAN A SLAP | 233 | conquista (all caps) — manter EN |
+| AND THE WINNER IS... | AND THE WINNER IS... | 234 | conquista (all caps) — manter EN |
+| NOW WHO'S BOSS? | NOW WHO'S BOSS? | 235 | conquista (all caps) — manter EN |
+| CALMER CHAMELEON | CALMER CHAMELEON | 236 | conquista (all caps) — manter EN |
+| HEROIC FAILURE | HEROIC FAILURE | 237 | conquista (all caps) — manter EN |
+| YOUR SCORE BEATS | SUA PONTUAÇÃO SUPERA | 238 | UI label — paralelo a ES "SUPERA A" |
+| CONGRATULATIONS! A PERSONAL BEST! | PARABÉNS! MELHOR MARCA PESSOAL! | 239 | UI label — "PARABÉNS" (pt-BR), termo de 159 |
+| CONGRATULATIONS! YOU HAVE BEATEN | PARABÉNS! VOCÊ DERROTOU | 240 | UI label — "PARABÉNS" (pt-BR) |
+| MODERN | MODERNO | 241 | modo de jogo |
+| MODERN - INVERTED | MODERNO - INVERTIDO | 242 | modo de jogo |
+| CLASSIC | CLÁSSICO | 243 | modo de jogo |
+| CLASSIC - INVERTED | CLÁSSICO - INVERTIDO | 244 | modo de jogo |
+| JIGGY | JIGGY | 245 | coletável — nome próprio |
+| JIGGY HINT | DICA DE JIGGY | 246 | UI label — JIGGY (coletável) mantido, padrão DE/ES/IT |
+| JIGGY TIPS | DICAS DE JIGGY | 247 | UI label — JIGGY (coletável) mantido, padrão DE/ES/IT |
+| DEFEAT TARGITZAN | DERROTAR TARGITZAN | 248 | UI instrução — TARGITZAN nome próprio |
+| INSIDE TARGITZAN'S TEMPLE | DENTRO DO TEMPLO DE TARGITZAN | 249 | UI instrução — TARGITZAN nome próprio |

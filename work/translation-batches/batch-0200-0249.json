@@ -1,0 +1,309 @@
+{
+ "batch_id": "batch-0200-0249",
+ "language_pair": "en-US -> pt-BR",
+ "assigned_indices": [
+  200,
+  201,
+  202,
+  203,
+  204,
+  205,
+  206,
+  207,
+  208,
+  209,
+  210,
+  211,
+  212,
+  213,
+  214,
+  215,
+  216,
+  217,
+  218,
+  219,
+  220,
+  221,
+  222,
+  223,
+  224,
+  225,
+  226,
+  227,
+  228,
+  229,
+  230,
+  231,
+  232,
+  233,
+  234,
+  235,
+  236,
+  237,
+  238,
+  239,
+  240,
+  241,
+  242,
+  243,
+  244,
+  245,
+  246,
+  247,
+  248,
+  249
+ ],
+ "total_entries": 50,
+ "entries": [
+  {
+   "index": 200,
+   "source_text": "Overwrite and save",
+   "translation": "Sobrescrever e salvar"
+  },
+  {
+   "index": 201,
+   "source_text": "SAVING OF SETTINGS TO GAMER PROFILE HAS FAILED",
+   "translation": "FALHA AO SALVAR AS CONFIGURAÇÕES NO PERFIL DE JOGADOR"
+  },
+  {
+   "index": 202,
+   "source_text": "Banjo-Tooie",
+   "translation": "Banjo-Tooie"
+  },
+  {
+   "index": 203,
+   "source_text": "BALLOON BURST CHALLENGE",
+   "translation": "BALLOON BURST CHALLENGE"
+  },
+  {
+   "index": 204,
+   "source_text": "HOOP HURRY CHALLENGE",
+   "translation": "HOOP HURRY CHALLENGE"
+  },
+  {
+   "index": 205,
+   "source_text": "SAUCER OF PERIL RIDE",
+   "translation": "SAUCER OF PERIL RIDE"
+  },
+  {
+   "index": 206,
+   "source_text": "DODGEMS CHALLENGE (1-ON-1)",
+   "translation": "DODGEMS CHALLENGE (1-ON-1)"
+  },
+  {
+   "index": 207,
+   "source_text": "DODGEMS CHALLENGE (2-ON-1)",
+   "translation": "DODGEMS CHALLENGE (2-ON-1)"
+  },
+  {
+   "index": 208,
+   "source_text": "DODGEMS CHALLENGE (3-ON-1)",
+   "translation": "DODGEMS CHALLENGE (3-ON-1)"
+  },
+  {
+   "index": 209,
+   "source_text": "MINI-SUB CHALLENGE",
+   "translation": "MINI-SUB CHALLENGE"
+  },
+  {
+   "index": 210,
+   "source_text": "CHOMPA'S BELLY",
+   "translation": "CHOMPA'S BELLY"
+  },
+  {
+   "index": 211,
+   "source_text": "TWINKLIES PACKING",
+   "translation": "TWINKLIES PACKING"
+  },
+  {
+   "index": 212,
+   "source_text": "POT O'GOLD",
+   "translation": "POT O'GOLD"
+  },
+  {
+   "index": 213,
+   "source_text": "TRASH CAN GERMS",
+   "translation": "TRASH CAN GERMS"
+  },
+  {
+   "index": 214,
+   "source_text": "ZUBBA'S HIVE",
+   "translation": "ZUBBA'S HIVE"
+  },
+  {
+   "index": 215,
+   "source_text": "TRIAL GAME",
+   "translation": "DEMONSTRAÇÃO"
+  },
+  {
+   "index": 216,
+   "source_text": "THIS IS ONLY A TRIAL VERSION OF BANJO TOOIE.  PLEASE UNLOCK THE FULL VERSION FOR MORE FUN!",
+   "translation": "ESTA É APENAS UMA VERSÃO DE DEMONSTRAÇÃO DE BANJO-TOOIE.  DESBLOQUEIE A VERSÃO COMPLETA PARA MAIS DIVERSÃO!"
+  },
+  {
+   "index": 217,
+   "source_text": "Option Unavailable",
+   "translation": "Opção indisponível"
+  },
+  {
+   "index": 218,
+   "source_text": "This option is only available in the full game",
+   "translation": "Esta opção está disponível apenas no jogo completo"
+  },
+  {
+   "index": 219,
+   "source_text": "Unlock Full Game",
+   "translation": "Desbloquear o jogo completo"
+  },
+  {
+   "index": 220,
+   "source_text": "Continue with the trial",
+   "translation": "Continuar com a demonstração"
+  },
+  {
+   "index": 221,
+   "source_text": "WELL DONE!",
+   "translation": "BOM TRABALHO!"
+  },
+  {
+   "index": 222,
+   "source_text": "YOU'VE EARNED AN ACHIEVEMENT FOR KILLING KLUNGO, BUT YOU'LL NEED TO UNLOCK TO THE FULL VERSION TO GET IT!",
+   "translation": "VOCÊ GANHOU UMA CONQUISTA POR DERROTAR KLUNGO, MAS PRECISA DESBLOQUEAR A VERSÃO COMPLETA PARA RECEBÊ-LA!"
+  },
+  {
+   "index": 223,
+   "source_text": "Stop 'n' Swop II found",
+   "translation": "Stop 'n' Swop II encontrado"
+  },
+  {
+   "index": 224,
+   "source_text": "- Oh no, not again...",
+   "translation": "- Oh não, não de novo..."
+  },
+  {
+   "index": 225,
+   "source_text": "- Lucky Loser",
+   "translation": "- Lucky Loser"
+  },
+  {
+   "index": 226,
+   "source_text": "- Better Than A Slap",
+   "translation": "- Better Than A Slap"
+  },
+  {
+   "index": 227,
+   "source_text": "- And The Winner Is…",
+   "translation": "- And The Winner Is…"
+  },
+  {
+   "index": 228,
+   "source_text": "- Now Who’s Boss?",
+   "translation": "- Now Who’s Boss?"
+  },
+  {
+   "index": 229,
+   "source_text": "- Calmer Chameleon",
+   "translation": "- Calmer Chameleon"
+  },
+  {
+   "index": 230,
+   "source_text": "- Heroic Failure",
+   "translation": "- Heroic Failure"
+  },
+  {
+   "index": 231,
+   "source_text": "OH NO, NOT AGAIN...",
+   "translation": "OH NO, NOT AGAIN..."
+  },
+  {
+   "index": 232,
+   "source_text": "LUCKY LOSER",
+   "translation": "LUCKY LOSER"
+  },
+  {
+   "index": 233,
+   "source_text": "BETTER THAN A SLAP",
+   "translation": "BETTER THAN A SLAP"
+  },
+  {
+   "index": 234,
+   "source_text": "AND THE WINNER IS...",
+   "translation": "AND THE WINNER IS..."
+  },
+  {
+   "index": 235,
+   "source_text": "NOW WHO'S BOSS?",
+   "translation": "NOW WHO'S BOSS?"
+  },
+  {
+   "index": 236,
+   "source_text": "CALMER CHAMELEON",
+   "translation": "CALMER CHAMELEON"
+  },
+  {
+   "index": 237,
+   "source_text": "HEROIC FAILURE",
+   "translation": "HEROIC FAILURE"
+  },
+  {
+   "index": 238,
+   "source_text": "YOUR SCORE BEATS",
+   "translation": "SUA PONTUAÇÃO SUPERA"
+  },
+  {
+   "index": 239,
+   "source_text": "CONGRATULATIONS! A PERSONAL BEST!",
+   "translation": "PARABÉNS! MELHOR MARCA PESSOAL!"
+  },
+  {
+   "index": 240,
+   "source_text": "CONGRATULATIONS! YOU HAVE BEATEN",
+   "translation": "PARABÉNS! VOCÊ DERROTOU"
+  },
+  {
+   "index": 241,
+   "source_text": "MODERN",
+   "translation": "MODERNO"
+  },
+  {
+   "index": 242,
+   "source_text": "MODERN - INVERTED",
+   "translation": "MODERNO - INVERTIDO"
+  },
+  {
+   "index": 243,
+   "source_text": "CLASSIC",
+   "translation": "CLÁSSICO"
+  },
+  {
+   "index": 244,
+   "source_text": "CLASSIC - INVERTED",
+   "translation": "CLÁSSICO - INVERTIDO"
+  },
+  {
+   "index": 245,
+   "source_text": "JIGGY",
+   "translation": "JIGGY"
+  },
+  {
+   "index": 246,
+   "source_text": "JIGGY HINT",
+   "translation": "DICA DE JIGGY"
+  },
+  {
+   "index": 247,
+   "source_text": "JIGGY TIPS",
+   "translation": "DICAS DE JIGGY"
+  },
+  {
+   "index": 248,
+   "source_text": " DEFEAT TARGITZAN",
+   "translation": " DERROTAR TARGITZAN"
+  },
+  {
+   "index": 249,
+   "source_text": " INSIDE TARGITZAN'S TEMPLE",
+   "translation": " DENTRO DO TEMPLO DE TARGITZAN"
+  }
+ ]
+}
