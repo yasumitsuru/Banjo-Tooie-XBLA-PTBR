@@ -3028,7 +3028,7 @@
    "byte_length": 40,
    "encoding": "cp1252",
    "text": "SELECT A DESTINATION.\n[0x87] SELECT [0x85] CANCEL",
-   "translation": null
+   "translation": "SELECIONE UM DESTINO.\n[0x87] SELECIONAR [0x85] CANCELAR"
   },
   {
    "index": 402,
@@ -3036,7 +3036,7 @@
    "byte_length": 40,
    "encoding": "cp1252",
    "text": "SELECT FLOOR, PLEASE?\n[0x87] SELECT [0x85] CANCEL",
-   "translation": null
+   "translation": "SELECIONE O ANDAR, POR FAVOR?\n[0x87] SELECIONAR [0x85] CANCELAR"
   },
   {
    "index": 404,
@@ -3044,7 +3044,7 @@
    "byte_length": 40,
    "encoding": "cp1252",
    "text": "WHERE Y' GOING, PUNK?\n[0x87] SELECT [0x85] CANCEL",
-   "translation": null
+   "translation": "PARA ONDE VAI, MOLEQUE?\n[0x87] SELECIONAR [0x85] CANCELAR"
   },
   {
    "index": 406,
@@ -3052,7 +3052,7 @@
    "byte_length": 40,
    "encoding": "cp1252",
    "text": "PICK A WORLD TO PLAY.\n[0x87] SELECT [0x85] CANCEL",
-   "translation": null
+   "translation": "ESCOLHA UM MUNDO PARA JOGAR.\n[0x87] SELECIONAR [0x85] CANCELAR"
   },
   {
    "index": 408,
@@ -3060,7 +3060,7 @@
    "byte_length": 40,
    "encoding": "cp1252",
    "text": "PICK A TRACK TO PLAY.\n[0x87] SELECT [0x85] CANCEL",
-   "translation": null
+   "translation": "ESCOLHA UMA FAIXA PARA REPRODUZIR.\n[0x87] SELECIONAR [0x85] CANCELAR"
   },
   {
    "index": 410,
@@ -3068,7 +3068,7 @@
    "byte_length": 40,
    "encoding": "cp1252",
    "text": "CHOOSE A DESTINATION.\n[0x87] SELECT [0x85] CANCEL",
-   "translation": null
+   "translation": "ESCOLHA UM DESTINO.\n[0x87] SELECIONAR [0x85] CANCELAR"
   },
   {
    "index": 412,
@@ -3076,7 +3076,7 @@
    "byte_length": 11,
    "encoding": "cp1252",
    "text": "[0x87] YES [0x85] NO",
-   "translation": null
+   "translation": "[0x87] SIM [0x85] NÃO"
   },
   {
    "index": 413,
@@ -3084,7 +3084,7 @@
    "byte_length": 12,
    "encoding": "cp1252",
    "text": "[0x87] AYE [0x85] NAW",
-   "translation": null
+   "translation": "[0x87] TÁ [0x85] NÃO TÁ"
   },
   {
    "index": 414,
@@ -3092,7 +3092,7 @@
    "byte_length": 13,
    "encoding": "cp1252",
    "text": "[0x87] YUS [0x85] NOPE",
-   "translation": null
+   "translation": "[0x87] TÁ [0x85] NÃO"
   },
   {
    "index": 415,
@@ -3100,7 +3100,7 @@
    "byte_length": 5,
    "encoding": "cp1252",
    "text": "[0x85] NO",
-   "translation": null
+   "translation": "[0x85] NÃO"
   },
   {
    "index": 416,
@@ -3108,7 +3108,7 @@
    "byte_length": 80,
    "encoding": "cp1252",
    "text": "PRESS [0x88] OR [0x81] TO FIRE EGGS AND USE [0x89] OR [0x80] TO TOGGLE THE AIMING SIGHT ON AND OFF.",
-   "translation": null
+   "translation": "PRESSIONE [0x88] OU [0x81] PARA DISPARAR OVOS E USE [0x89] OU [0x80] PARA LIGAR E DESLIGAR A MIRA."
   },
   {
    "index": 419,
@@ -3116,7 +3116,7 @@
    "byte_length": 37,
    "encoding": "cp1252",
    "text": "TAP [0x89] OR [0x80] TO GET YOUR EGGS ON VIEW,",
-   "translation": null
+   "translation": "PRESSIONE [0x89] OU [0x80] PARA EXIBIR SEUS OVOS,"
   },
   {
    "index": 420,
@@ -3124,7 +3124,7 @@
    "byte_length": 56,
    "encoding": "cp1252",
    "text": "YOU CAN ALSO BRING THE CAMERA LEVEL BY PRESSING [0x89] OR [0x80].",
-   "translation": null
+   "translation": "VOCÊ TAMBÉM PODE NIVELAR A CÂMERA PRESSIONANDO [0x89] OU [0x80]."
   },
   {
    "index": 422,
@@ -3132,7 +3132,7 @@
    "byte_length": 65,
    "encoding": "cp1252",
    "text": "SELECT THESE EGGS BY PRESSING [0x89] OR [0x80] UNTIL THEY ARE HIGHLIGHTED.",
-   "translation": null
+   "translation": "SELECIONE ESTES OVOS PRESSIONANDO [0x89] OU [0x80] ATÉ QUE ELES SEJAM DESTACADOS."
   },
   {
    "index": 423,
@@ -3140,7 +3140,7 @@
    "byte_length": 80,
    "encoding": "cp1252",
    "text": "WHEN IN BREEGULL BLASTER SECTIONS, ACTIVATE THE AIMING SIGHT BY HOLDING [0x89] OR [0x80].",
-   "translation": null
+   "translation": "NAS SEÇÕES DO LANÇADOR BREEGULL, ATIVE A MIRA SEGURANDO [0x89] OU [0x80]."
   },
   {
    "index": 426,

@@ -1,0 +1,109 @@
+{
+ "batch_id": "batch-0400-0424",
+ "language_pair": "en-US -> pt-BR",
+ "assigned_indices": [
+  400,
+  401,
+  402,
+  403,
+  404,
+  405,
+  406,
+  407,
+  408,
+  409,
+  410,
+  411,
+  412,
+  413,
+  414,
+  415,
+  416,
+  417,
+  418,
+  419,
+  420,
+  421,
+  422,
+  423,
+  424
+ ],
+ "total_entries": 15,
+ "entries": [
+  {
+   "index": 400,
+   "source_text": "SELECT A DESTINATION.\n[0x87] SELECT [0x85] CANCEL",
+   "translation": "SELECIONE UM DESTINO.\n[0x87] SELECIONAR [0x85] CANCELAR"
+  },
+  {
+   "index": 402,
+   "source_text": "SELECT FLOOR, PLEASE?\n[0x87] SELECT [0x85] CANCEL",
+   "translation": "SELECIONE O ANDAR, POR FAVOR?\n[0x87] SELECIONAR [0x85] CANCELAR"
+  },
+  {
+   "index": 404,
+   "source_text": "WHERE Y' GOING, PUNK?\n[0x87] SELECT [0x85] CANCEL",
+   "translation": "PARA ONDE VAI, MOLEQUE?\n[0x87] SELECIONAR [0x85] CANCELAR"
+  },
+  {
+   "index": 406,
+   "source_text": "PICK A WORLD TO PLAY.\n[0x87] SELECT [0x85] CANCEL",
+   "translation": "ESCOLHA UM MUNDO PARA JOGAR.\n[0x87] SELECIONAR [0x85] CANCELAR"
+  },
+  {
+   "index": 408,
+   "source_text": "PICK A TRACK TO PLAY.\n[0x87] SELECT [0x85] CANCEL",
+   "translation": "ESCOLHA UMA FAIXA PARA REPRODUZIR.\n[0x87] SELECIONAR [0x85] CANCELAR"
+  },
+  {
+   "index": 410,
+   "source_text": "CHOOSE A DESTINATION.\n[0x87] SELECT [0x85] CANCEL",
+   "translation": "ESCOLHA UM DESTINO.\n[0x87] SELECIONAR [0x85] CANCELAR"
+  },
+  {
+   "index": 412,
+   "source_text": "[0x87] YES [0x85] NO",
+   "translation": "[0x87] SIM [0x85] NÃO"
+  },
+  {
+   "index": 413,
+   "source_text": "[0x87] AYE [0x85] NAW",
+   "translation": "[0x87] TÁ [0x85] NÃO TÁ"
+  },
+  {
+   "index": 414,
+   "source_text": "[0x87] YUS [0x85] NOPE",
+   "translation": "[0x87] TÁ [0x85] NÃO"
+  },
+  {
+   "index": 415,
+   "source_text": "[0x85] NO",
+   "translation": "[0x85] NÃO"
+  },
+  {
+   "index": 416,
+   "source_text": "PRESS [0x88] OR [0x81] TO FIRE EGGS AND USE [0x89] OR [0x80] TO TOGGLE THE AIMING SIGHT ON AND OFF.",
+   "translation": "PRESSIONE [0x88] OU [0x81] PARA DISPARAR OVOS E USE [0x89] OU [0x80] PARA LIGAR E DESLIGAR A MIRA."
+  },
+  {
+   "index": 419,
+   "source_text": "TAP [0x89] OR [0x80] TO GET YOUR EGGS ON VIEW,",
+   "translation": "PRESSIONE [0x89] OU [0x80] PARA EXIBIR SEUS OVOS,"
+  },
+  {
+   "index": 420,
+   "source_text": "YOU CAN ALSO BRING THE CAMERA LEVEL BY PRESSING [0x89] OR [0x80].",
+   "translation": "VOCÊ TAMBÉM PODE NIVELAR A CÂMERA PRESSIONANDO [0x89] OU [0x80]."
+  },
+  {
+   "index": 422,
+   "source_text": "SELECT THESE EGGS BY PRESSING [0x89] OR [0x80] UNTIL THEY ARE HIGHLIGHTED.",
+   "translation": "SELECIONE ESTES OVOS PRESSIONANDO [0x89] OU [0x80] ATÉ QUE ELES SEJAM DESTACADOS."
+  },
+  {
+   "index": 423,
+   "source_text": "WHEN IN BREEGULL BLASTER SECTIONS, ACTIVATE THE AIMING SIGHT BY HOLDING [0x89] OR [0x80].",
+   "translation": "NAS SEÇÕES DO LANÇADOR BREEGULL, ATIVE A MIRA SEGURANDO [0x89] OU [0x80]."
+  }
+ ]
+}

@@ -159,14 +159,15 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
 - [x] Tradução lote 0325–0349 (25 strings)
 - [x] Tradução lote 0350–0374 (15 strings)
 - [x] Tradução lote 0375–0399 (12 strings)
+- [x] Tradução lote 0400–0424 (15 strings)
 - [ ] Revisão
 - [ ] Injeção no .dat + reempacotamento STFS
 
 ## Totais atuais
 
-- Traduzidas (EN): **377** / Incompletas (EN): **658** (de 1035)
-- Contagem canônica: **377 = 365 traduções novas nos dez lotes**
-  (50 + 46 + 47 + 45 + 50 + 50 + 25 + 25 + 15 + 12) **+ 12 sementes aprovadas originais** no total
+- Traduzidas (EN): **392** / Incompletas (EN): **643** (de 1035)
+- Contagem canônica: **392 = 380 traduções novas nos onze lotes**
+  (50 + 46 + 47 + 45 + 50 + 50 + 25 + 25 + 15 + 12 + 15) **+ 12 sementes aprovadas originais** no total
   (59, 96, 97, 99, 101, 148, 149, 150, 153, 154, 155, 156).
 - Lote 0000–0049: **50 traduções novas** (0 sementes in-range).
 - Lote 0050–0099: **46 traduções novas** + **4 sementes aprovadas** preservadas
@@ -202,7 +203,7 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
   ARQUIVO DE JOGO DE DESTINO; URGENT MOLE-RESTORING QUEST→MISSÃO URGENTE
   DE REANIMAR O BOTTLES (consistente com índice 366); ARE YOU SURE→TEM
   CERTEZA? (consistente com a UI existente).
-- TM: **178 entradas** (14 `approved` + 164 `proposed`);
+- TM: **180 entradas** (14 `approved` + 166 `proposed`);
   lote 0250–0299 adicionou **24 novas entradas `proposed`**; 26 frases
   completas/objetivos de ocorrência única foram deliberadamente excluídos.
   lote 0300–0324 adicionou **8 novas entradas `proposed`** (localizações
@@ -217,5 +218,19 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
   lote 0375–0399 adicionou **1 nova entrada `proposed`** (variante urgente da
   missão de reanimar o Bottles, consistente com 366); 11 frases completas de
   ocorrência única foram deliberadamente excluídas do TM.
-- Estado geral: tradução em progresso, lotes 0000–0399 concluídos
-- Próximo lote: **0400–0424**
+- Lote 0400–0424: **15 traduções novas** (0 sementes in-range). Terminologia:
+  SELECT→SELECIONE (imperativo UI); DESTINO→DESTINO; FLOOR→ANDAR (elevador);
+  WHERE Y' GOING, PUNK→PARA ONDE VAI, MOLEQUE? (tom confrontacional/comico,
+  paralelo ES GAMBERRO/DE DU NULL); PICK→ESCOLHA (padrão glossário);
+  TRACK→FAIXA (faixa musical do Jiggys Jamboree, confirmado por DE SONG/ES
+  TEMA/IT MELODIA), com PLAY→REPRODUZIR em 408; YES/NO→SIM/NÃO; AYE/NAW→TÁ/NÃO TÁ e YUS/NOPE→TÁ/NÃO
+  (sim/não comicos localizados, alinhado a FR/DE/ES/IT que não mantêm o
+  inglês); FIRE EGGS→DISPARAR OVOS (glossário); AIMING SIGHT→MIRA (glossário);
+  TAP→PRESSIONE; GET YOUR EGGS ON VIEW→EXIBIR SEUS OVOS (paralelo FR/IT,
+  indicando a exibição dos tipos de ovos); BRING THE CAMERA LEVEL→NIVELAR A
+  CÂMERA; HIGHLIGHTED→DESTACADO; BREEGULL BLASTER→LANÇADOR BREEGULL
+  (glossário; em 423, “NAS SEÇÕES DO LANÇADOR BREEGULL”). lote 0400-0424 adicionou
+  **2 novas entradas `proposed`** (egg aiming e Breegull Blaster); 13 frases
+  completas/UI de ocorrência única foram deliberadamente excluídas do TM.
+- Estado geral: tradução em progresso, lotes 0000–0424 concluídos
+- Próximo lote: **0425–0449**

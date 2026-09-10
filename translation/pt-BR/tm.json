@@ -1248,6 +1248,20 @@
       "status": "proposed",
       "source_index": 398,
       "notes": "batch 0375-0399 - variante urgente da missão — \"URGENT MOLE-RESTORING QUEST\" = \"MISSÃO URGENTE DE REANIMAR O BOTTLES\" (consistente com 366)"
+    },
+    {
+      "source": "PRESS [0x88] OR [0x81] TO FIRE EGGS AND USE [0x89] OR [0x80] TO TOGGLE THE AIMING SIGHT ON AND OFF.",
+      "translation": "PRESSIONE [0x88] OU [0x81] PARA DISPARAR OVOS E USE [0x89] OU [0x80] PARA LIGAR E DESLIGAR A MIRA.",
+      "status": "proposed",
+      "source_index": 416,
+      "notes": "batch 0400-0424 - EGG AIMING - \"FIRE EGGS\" = \"DISPARAR OVOS\" (glossario); \"AIMING SIGHT\" = \"MIRA\" (glossario indice 43)"
+    },
+    {
+      "source": "WHEN IN BREEGULL BLASTER SECTIONS, ACTIVATE THE AIMING SIGHT BY HOLDING [0x89] OR [0x80].",
+      "translation": "NAS SEÇÕES DO LANÇADOR BREEGULL, ATIVE A MIRA SEGURANDO [0x89] OU [0x80].",
+      "status": "proposed",
+      "source_index": 423,
+      "notes": "batch 0400-0424 - BREEGULL BLASTER = \"LANÇADOR BREEGULL\" (glossario indice 43; nome proprio Breegull mantido)"
     }
   ]
 }
