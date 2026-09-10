@@ -1,0 +1,159 @@
+{
+ "batch_id": "batch-0300-0324",
+ "language_pair": "en-US -> pt-BR",
+ "assigned_indices": [
+  300,
+  301,
+  302,
+  303,
+  304,
+  305,
+  306,
+  307,
+  308,
+  309,
+  310,
+  311,
+  312,
+  313,
+  314,
+  315,
+  316,
+  317,
+  318,
+  319,
+  320,
+  321,
+  322,
+  323,
+  324
+ ],
+ "total_entries": 25,
+ "entries": [
+  {
+   "index": 300,
+   "source_text": " EXTERMINATE THE CLINKERS ON FLOOR 4",
+   "translation": " EXTERMINAR OS CLINKERS NO ANDAR 4"
+  },
+  {
+   "index": 301,
+   "source_text": " WASH THE FILTHY WORKERS",
+   "translation": " LAVAR OS TRABALHADORES SUJOS"
+  },
+  {
+   "index": 302,
+   "source_text": " TOP OF CRATES ON FLOOR 5",
+   "translation": " NO TOPO DAS CAIXAS NO ANDAR 5"
+  },
+  {
+   "index": 303,
+   "source_text": " QUALITY CONTROL ROOM ON FLOOR 4",
+   "translation": " SALA DE CONTROLE DE QUALIDADE NO ANDAR 4"
+  },
+  {
+   "index": 304,
+   "source_text": " TOP OF THE CENTRAL PLATFORM ON FLOOR 1",
+   "translation": " NO TOPO DA PLATAFORMA CENTRAL NO ANDAR 1"
+  },
+  {
+   "index": 305,
+   "source_text": " INSIDE THE TRASH COMPACTOR ON FLOOR 1",
+   "translation": " DENTRO DO COMPACTADOR DE LIXO NO ANDAR 1"
+  },
+  {
+   "index": 306,
+   "source_text": " PACKING GAME ON FLOOR 3",
+   "translation": " JOGO DA EMBALAGEM NO ANDAR 3"
+  },
+  {
+   "index": 307,
+   "source_text": " INSIDE THE WASTE DISPOSAL PLANT",
+   "translation": " DENTRO DA ESTAÇÃO DE TRATAMENTO DE RESÍDUOS"
+  },
+  {
+   "index": 308,
+   "source_text": " DEFEAT CHILLY WILLY AND CHILLI BILLI",
+   "translation": " DERROTAR CHILLY WILLY E CHILLI BILLI"
+  },
+  {
+   "index": 309,
+   "source_text": " INSIDE THE VOLCANO",
+   "translation": " DENTRO DO VULCÃO"
+  },
+  {
+   "index": 310,
+   "source_text": " HELP SABREMAN BACK TO HIS TENT",
+   "translation": " AJUDAR O SABREMAN A VOLTAR À SUA BARRACA"
+  },
+  {
+   "index": 311,
+   "source_text": " FEED BOGGY THE POLAR BEAR",
+   "translation": " ALIMENTAR O BOGGY, O URSO POLAR"
+  },
+  {
+   "index": 312,
+   "source_text": " ICE TRAIN STATION LINK",
+   "translation": " CONEXÃO DA ESTAÇÃO DO TREM DE GELO"
+  },
+  {
+   "index": 313,
+   "source_text": " ACTIVATE THE OIL DRILL",
+   "translation": " ATIVAR A PERFURADORA DE PETRÓLEO"
+  },
+  {
+   "index": 314,
+   "source_text": " TERRYDACTYLAND'S STOMPING PLAINS LINK",
+   "translation": " CONEXÃO COM AS STOMPING PLAINS DE TERRYDACTYLAND"
+  },
+  {
+   "index": 315,
+   "source_text": " WIN THE COLOSSEUM KICKBALL GAMES",
+   "translation": " VENCER OS JOGOS DE COLOSSEUM KICKBALL"
+  },
+  {
+   "index": 316,
+   "source_text": " HELP THE UFO ALIENS",
+   "translation": " AJUDAR OS ALIENÍGENAS"
+  },
+  {
+   "index": 317,
+   "source_text": " INSIDE THE COLOSSEUM ARCHES",
+   "translation": " DENTRO DAS ARCADAS DO COLOSSEU"
+  },
+  {
+   "index": 318,
+   "source_text": " DEFEAT MINGY JONGO",
+   "translation": " DERROTAR MINGY JONGO"
+  },
+  {
+   "index": 319,
+   "source_text": " WIN THE CUCKOO OLYMPICS",
+   "translation": " VENCER AS OLIMPÍADAS DO CUCKOO"
+  },
+  {
+   "index": 320,
+   "source_text": " COMPLETE THE POT O' GOLD GAME",
+   "translation": " COMPLETAR O JOGO DE POT O' GOLD"
+  },
+  {
+   "index": 321,
+   "source_text": " CANARY MARY'S CLOCKWORK MOUSE RACE",
+   "translation": " CORRIDA DO RATO MECÂNICO DA CANARY MARY"
+  },
+  {
+   "index": 322,
+   "source_text": " ZUBBA'S HIVE GAME",
+   "translation": " JOGO DA COLMEIA DO ZUBBA"
+  },
+  {
+   "index": 323,
+   "source_text": " DEFEAT THE EYEBALL PLANTS",
+   "translation": " DERROTAR AS PLANTAS DE OLHO"
+  },
+  {
+   "index": 324,
+   "source_text": " INSIDE THE CHEESE WEDGE",
+   "translation": " DENTRO DA CUNHA DE QUEIJO"
+  }
+ ]
+}

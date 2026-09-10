@@ -1080,6 +1080,62 @@
       "status": "proposed",
       "source_index": 298,
       "notes": "batch 0250-0299 - localização — WASTE DISPOSAL PLANT"
+    },
+    {
+      "source": " INSIDE THE TRASH COMPACTOR ON FLOOR 1",
+      "translation": " DENTRO DO COMPACTADOR DE LIXO NO ANDAR 1",
+      "status": "proposed",
+      "source_index": 305,
+      "notes": "batch 0300-0324 - localização — TRASH COMPACTOR (compactador de lixo)"
+    },
+    {
+      "source": " PACKING GAME ON FLOOR 3",
+      "translation": " JOGO DA EMBALAGEM NO ANDAR 3",
+      "status": "proposed",
+      "source_index": 306,
+      "notes": "batch 0300-0324 - localização/jogo — PACKING GAME (jogo da embalagem)"
+    },
+    {
+      "source": " INSIDE THE VOLCANO",
+      "translation": " DENTRO DO VULCÃO",
+      "status": "proposed",
+      "source_index": 309,
+      "notes": "batch 0300-0324 - localização — VOLCANO"
+    },
+    {
+      "source": " ICE TRAIN STATION LINK",
+      "translation": " CONEXÃO DA ESTAÇÃO DO TREM DE GELO",
+      "status": "proposed",
+      "source_index": 312,
+      "notes": "batch 0300-0324 - localização — ICE TRAIN STATION LINK (conexão da estação do trem de gelo)"
+    },
+    {
+      "source": " ACTIVATE THE OIL DRILL",
+      "translation": " ATIVAR A PERFURADORA DE PETRÓLEO",
+      "status": "proposed",
+      "source_index": 313,
+      "notes": "batch 0300-0324 - mecânica — OIL DRILL (perfuradora de petróleo)"
+    },
+    {
+      "source": " TERRYDACTYLAND'S STOMPING PLAINS LINK",
+      "translation": " CONEXÃO COM AS STOMPING PLAINS DE TERRYDACTYLAND",
+      "status": "proposed",
+      "source_index": 314,
+      "notes": "batch 0300-0324 - localização — TERRYDACTYLAND nome próprio, STOMPING PLAINS topônimo"
+    },
+    {
+      "source": " INSIDE THE COLOSSEUM ARCHES",
+      "translation": " DENTRO DAS ARCADAS DO COLOSSEU",
+      "status": "proposed",
+      "source_index": 317,
+      "notes": "batch 0300-0324 - localização — COLOSSEUM ARCHES"
+    },
+    {
+      "source": " INSIDE THE CHEESE WEDGE",
+      "translation": " DENTRO DA CUNHA DE QUEIJO",
+      "status": "proposed",
+      "source_index": 324,
+      "notes": "batch 0300-0324 - localização — CHEESE WEDGE"
     }
   ]
 }

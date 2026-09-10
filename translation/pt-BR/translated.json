@@ -2412,7 +2412,7 @@
    "byte_length": 37,
    "encoding": "cp1252",
    "text": " EXTERMINATE THE CLINKERS ON FLOOR 4",
-   "translation": null
+   "translation": " EXTERMINAR OS CLINKERS NO ANDAR 4"
   },
   {
    "index": 301,
@@ -2420,7 +2420,7 @@
    "byte_length": 25,
    "encoding": "cp1252",
    "text": " WASH THE FILTHY WORKERS",
-   "translation": null
+   "translation": " LAVAR OS TRABALHADORES SUJOS"
   },
   {
    "index": 302,
@@ -2428,7 +2428,7 @@
    "byte_length": 26,
    "encoding": "cp1252",
    "text": " TOP OF CRATES ON FLOOR 5",
-   "translation": null
+   "translation": " NO TOPO DAS CAIXAS NO ANDAR 5"
   },
   {
    "index": 303,
@@ -2436,7 +2436,7 @@
    "byte_length": 33,
    "encoding": "cp1252",
    "text": " QUALITY CONTROL ROOM ON FLOOR 4",
-   "translation": null
+   "translation": " SALA DE CONTROLE DE QUALIDADE NO ANDAR 4"
   },
   {
    "index": 304,
@@ -2444,7 +2444,7 @@
    "byte_length": 40,
    "encoding": "cp1252",
    "text": " TOP OF THE CENTRAL PLATFORM ON FLOOR 1",
-   "translation": null
+   "translation": " NO TOPO DA PLATAFORMA CENTRAL NO ANDAR 1"
   },
   {
    "index": 305,
@@ -2452,7 +2452,7 @@
    "byte_length": 39,
    "encoding": "cp1252",
    "text": " INSIDE THE TRASH COMPACTOR ON FLOOR 1",
-   "translation": null
+   "translation": " DENTRO DO COMPACTADOR DE LIXO NO ANDAR 1"
   },
   {
    "index": 306,
@@ -2460,7 +2460,7 @@
    "byte_length": 25,
    "encoding": "cp1252",
    "text": " PACKING GAME ON FLOOR 3",
-   "translation": null
+   "translation": " JOGO DA EMBALAGEM NO ANDAR 3"
   },
   {
    "index": 307,
@@ -2468,7 +2468,7 @@
    "byte_length": 33,
    "encoding": "cp1252",
    "text": " INSIDE THE WASTE DISPOSAL PLANT",
-   "translation": null
+   "translation": " DENTRO DA ESTAÇÃO DE TRATAMENTO DE RESÍDUOS"
   },
   {
    "index": 308,
@@ -2476,7 +2476,7 @@
    "byte_length": 38,
    "encoding": "cp1252",
    "text": " DEFEAT CHILLY WILLY AND CHILLI BILLI",
-   "translation": null
+   "translation": " DERROTAR CHILLY WILLY E CHILLI BILLI"
   },
   {
    "index": 309,
@@ -2484,7 +2484,7 @@
    "byte_length": 20,
    "encoding": "cp1252",
    "text": " INSIDE THE VOLCANO",
-   "translation": null
+   "translation": " DENTRO DO VULCÃO"
   },
   {
    "index": 310,
@@ -2492,7 +2492,7 @@
    "byte_length": 32,
    "encoding": "cp1252",
    "text": " HELP SABREMAN BACK TO HIS TENT",
-   "translation": null
+   "translation": " AJUDAR O SABREMAN A VOLTAR À SUA BARRACA"
   },
   {
    "index": 311,
@@ -2500,7 +2500,7 @@
    "byte_length": 27,
    "encoding": "cp1252",
    "text": " FEED BOGGY THE POLAR BEAR",
-   "translation": null
+   "translation": " ALIMENTAR O BOGGY, O URSO POLAR"
   },
   {
    "index": 312,
@@ -2508,7 +2508,7 @@
    "byte_length": 24,
    "encoding": "cp1252",
    "text": " ICE TRAIN STATION LINK",
-   "translation": null
+   "translation": " CONEXÃO DA ESTAÇÃO DO TREM DE GELO"
   },
   {
    "index": 313,
@@ -2516,7 +2516,7 @@
    "byte_length": 24,
    "encoding": "cp1252",
    "text": " ACTIVATE THE OIL DRILL",
-   "translation": null
+   "translation": " ATIVAR A PERFURADORA DE PETRÓLEO"
   },
   {
    "index": 314,
@@ -2524,7 +2524,7 @@
    "byte_length": 39,
    "encoding": "cp1252",
    "text": " TERRYDACTYLAND'S STOMPING PLAINS LINK",
-   "translation": null
+   "translation": " CONEXÃO COM AS STOMPING PLAINS DE TERRYDACTYLAND"
   },
   {
    "index": 315,
@@ -2532,7 +2532,7 @@
    "byte_length": 34,
    "encoding": "cp1252",
    "text": " WIN THE COLOSSEUM KICKBALL GAMES",
-   "translation": null
+   "translation": " VENCER OS JOGOS DE COLOSSEUM KICKBALL"
   },
   {
    "index": 316,
@@ -2540,7 +2540,7 @@
    "byte_length": 21,
    "encoding": "cp1252",
    "text": " HELP THE UFO ALIENS",
-   "translation": null
+   "translation": " AJUDAR OS ALIENÍGENAS"
   },
   {
    "index": 317,
@@ -2548,7 +2548,7 @@
    "byte_length": 29,
    "encoding": "cp1252",
    "text": " INSIDE THE COLOSSEUM ARCHES",
-   "translation": null
+   "translation": " DENTRO DAS ARCADAS DO COLOSSEU"
   },
   {
    "index": 318,
@@ -2556,7 +2556,7 @@
    "byte_length": 20,
    "encoding": "cp1252",
    "text": " DEFEAT MINGY JONGO",
-   "translation": null
+   "translation": " DERROTAR MINGY JONGO"
   },
   {
    "index": 319,
@@ -2564,7 +2564,7 @@
    "byte_length": 25,
    "encoding": "cp1252",
    "text": " WIN THE CUCKOO OLYMPICS",
-   "translation": null
+   "translation": " VENCER AS OLIMPÍADAS DO CUCKOO"
   },
   {
    "index": 320,
@@ -2572,7 +2572,7 @@
    "byte_length": 31,
    "encoding": "cp1252",
    "text": " COMPLETE THE POT O' GOLD GAME",
-   "translation": null
+   "translation": " COMPLETAR O JOGO DE POT O' GOLD"
   },
   {
    "index": 321,
@@ -2580,7 +2580,7 @@
    "byte_length": 36,
    "encoding": "cp1252",
    "text": " CANARY MARY'S CLOCKWORK MOUSE RACE",
-   "translation": null
+   "translation": " CORRIDA DO RATO MECÂNICO DA CANARY MARY"
   },
   {
    "index": 322,
@@ -2588,7 +2588,7 @@
    "byte_length": 19,
    "encoding": "cp1252",
    "text": " ZUBBA'S HIVE GAME",
-   "translation": null
+   "translation": " JOGO DA COLMEIA DO ZUBBA"
   },
   {
    "index": 323,
@@ -2596,7 +2596,7 @@
    "byte_length": 27,
    "encoding": "cp1252",
    "text": " DEFEAT THE EYEBALL PLANTS",
-   "translation": null
+   "translation": " DERROTAR AS PLANTAS DE OLHO"
   },
   {
    "index": 324,
@@ -2604,7 +2604,7 @@
    "byte_length": 25,
    "encoding": "cp1252",
    "text": " INSIDE THE CHEESE WEDGE",
-   "translation": null
+   "translation": " DENTRO DA CUNHA DE QUEIJO"
   },
   {
    "index": 325,
