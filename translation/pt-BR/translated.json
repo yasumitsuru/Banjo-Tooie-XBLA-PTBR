@@ -2612,7 +2612,7 @@
    "byte_length": 22,
    "encoding": "cp1252",
    "text": " TRASH CAN GERMS GAME",
-   "translation": null
+   "translation": " JOGO DO TRASH CAN GERMS"
   },
   {
    "index": 326,
@@ -2620,7 +2620,7 @@
    "byte_length": 29,
    "encoding": "cp1252",
    "text": " FIND THE SAFE'S COMBINATION",
-   "translation": null
+   "translation": " ENCONTRAR A COMBINAÇÃO DO COFRE"
   },
   {
    "index": 327,
@@ -2628,7 +2628,7 @@
    "byte_length": 25,
    "encoding": "cp1252",
    "text": " INSIDE THE JELLY CASTLE",
-   "translation": null
+   "translation": " DENTRO DO CASTELO DE GELATINA"
   },
   {
    "index": 328,
@@ -2636,7 +2636,7 @@
    "byte_length": 15,
    "encoding": "cp1252",
    "text": "MAYAHEM TEMPLE",
-   "translation": null
+   "translation": "MAYAHEM TEMPLE"
   },
   {
    "index": 329,
@@ -2644,7 +2644,7 @@
    "byte_length": 19,
    "encoding": "cp1252",
    "text": "GLITTER GULCH MINE",
-   "translation": null
+   "translation": "GLITTER GULCH MINE"
   },
   {
    "index": 330,
@@ -2652,7 +2652,7 @@
    "byte_length": 12,
    "encoding": "cp1252",
    "text": "WITCHYWORLD",
-   "translation": null
+   "translation": "WITCHYWORLD"
   },
   {
    "index": 331,
@@ -2660,7 +2660,7 @@
    "byte_length": 21,
    "encoding": "cp1252",
    "text": "JOLLY ROGER'S LAGOON",
-   "translation": null
+   "translation": "JOLLY ROGER'S LAGOON"
   },
   {
    "index": 332,
@@ -2668,7 +2668,7 @@
    "byte_length": 15,
    "encoding": "cp1252",
    "text": "TERRYDACTYLAND",
-   "translation": null
+   "translation": "TERRYDACTYLAND"
   },
   {
    "index": 333,
@@ -2676,7 +2676,7 @@
    "byte_length": 18,
    "encoding": "cp1252",
    "text": "GRUNTY INDUSTRIES",
-   "translation": null
+   "translation": "GRUNTY INDUSTRIES"
   },
   {
    "index": 334,
@@ -2684,7 +2684,7 @@
    "byte_length": 15,
    "encoding": "cp1252",
    "text": "HAILFIRE PEAKS",
-   "translation": null
+   "translation": "HAILFIRE PEAKS"
   },
   {
    "index": 335,
@@ -2692,7 +2692,7 @@
    "byte_length": 17,
    "encoding": "cp1252",
    "text": "CLOUD CUCKOOLAND",
-   "translation": null
+   "translation": "CLOUD CUCKOOLAND"
   },
   {
    "index": 336,
@@ -2700,7 +2700,7 @@
    "byte_length": 17,
    "encoding": "cp1252",
    "text": "FLIP Y AXIS : NO",
-   "translation": null
+   "translation": "INVERTIR EIXO Y : NÃO"
   },
   {
    "index": 337,
@@ -2708,7 +2708,7 @@
    "byte_length": 18,
    "encoding": "cp1252",
    "text": "FLIP Y AXIS : YES",
-   "translation": null
+   "translation": "INVERTIR EIXO Y : SIM"
   },
   {
    "index": 338,
@@ -2716,7 +2716,7 @@
    "byte_length": 16,
    "encoding": "cp1252",
    "text": "PREVIOUS BEST :",
-   "translation": null
+   "translation": "MELHOR ANTERIOR :"
   },
   {
    "index": 339,
@@ -2724,7 +2724,7 @@
    "byte_length": 22,
    "encoding": "utf-16-be",
    "text": "Loading...",
-   "translation": null
+   "translation": "Carregando..."
   },
   {
    "index": 340,
@@ -2732,7 +2732,7 @@
    "byte_length": 30,
    "encoding": "utf-16-be",
    "text": "Please sign in",
-   "translation": null
+   "translation": "Por favor, faça login"
   },
   {
    "index": 341,
@@ -2740,7 +2740,7 @@
    "byte_length": 122,
    "encoding": "utf-16-be",
    "text": "This game requires you to sign in to a gamer profile to play",
-   "translation": null
+   "translation": "Este jogo requer que você faça login em um perfil de jogador para jogar"
   },
   {
    "index": 342,
@@ -2748,7 +2748,7 @@
    "byte_length": 6,
    "encoding": "utf-16-be",
    "text": "OK",
-   "translation": null
+   "translation": "OK"
   },
   {
    "index": 343,
@@ -2756,7 +2756,7 @@
    "byte_length": 38,
    "encoding": "utf-16-be",
    "text": "No device selected",
-   "translation": null
+   "translation": "Nenhum dispositivo selecionado"
   },
   {
    "index": 344,
@@ -2764,7 +2764,7 @@
    "byte_length": 118,
    "encoding": "utf-16-be",
    "text": "If you do not select a device, game saves will be disabled",
-   "translation": null
+   "translation": "Se você não selecionar um dispositivo, os salvamentos do jogo serão desabilitados"
   },
   {
    "index": 345,
@@ -2772,7 +2772,7 @@
    "byte_length": 32,
    "encoding": "utf-16-be",
    "text": "Select a device",
-   "translation": null
+   "translation": "Selecionar um dispositivo"
   },
   {
    "index": 346,
@@ -2780,7 +2780,7 @@
    "byte_length": 48,
    "encoding": "utf-16-be",
    "text": "Continue without saving",
-   "translation": null
+   "translation": "Continuar sem salvar"
   },
   {
    "index": 347,
@@ -2788,7 +2788,7 @@
    "byte_length": 17,
    "encoding": "cp1252",
    "text": "REINSTALL EXTRAS",
-   "translation": null
+   "translation": "REINSTALAR EXTRAS"
   },
   {
    "index": 348,
@@ -2796,7 +2796,7 @@
    "byte_length": 33,
    "encoding": "cp1252",
    "text": "REINSTALL DOUBLOON GAMER PICTURE",
-   "translation": null
+   "translation": "REINSTALAR IMAGEM DE JOGADOR DO DOBRÃO"
   },
   {
    "index": 349,
@@ -2804,7 +2804,7 @@
    "byte_length": 38,
    "encoding": "cp1252",
    "text": "REINSTALL STOP 'N' SWOP GAMER PICTURE",
-   "translation": null
+   "translation": "REINSTALAR IMAGEM DE JOGADOR DO STOP 'N' SWOP"
   },
   {
    "index": 350,

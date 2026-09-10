@@ -1,0 +1,159 @@
+{
+ "batch_id": "batch-0325-0349",
+ "language_pair": "en-US -> pt-BR",
+ "assigned_indices": [
+  325,
+  326,
+  327,
+  328,
+  329,
+  330,
+  331,
+  332,
+  333,
+  334,
+  335,
+  336,
+  337,
+  338,
+  339,
+  340,
+  341,
+  342,
+  343,
+  344,
+  345,
+  346,
+  347,
+  348,
+  349
+ ],
+ "total_entries": 25,
+ "entries": [
+  {
+   "index": 325,
+   "source_text": " TRASH CAN GERMS GAME",
+   "translation": " JOGO DO TRASH CAN GERMS"
+  },
+  {
+   "index": 326,
+   "source_text": " FIND THE SAFE'S COMBINATION",
+   "translation": " ENCONTRAR A COMBINAÇÃO DO COFRE"
+  },
+  {
+   "index": 327,
+   "source_text": " INSIDE THE JELLY CASTLE",
+   "translation": " DENTRO DO CASTELO DE GELATINA"
+  },
+  {
+   "index": 328,
+   "source_text": "MAYAHEM TEMPLE",
+   "translation": "MAYAHEM TEMPLE"
+  },
+  {
+   "index": 329,
+   "source_text": "GLITTER GULCH MINE",
+   "translation": "GLITTER GULCH MINE"
+  },
+  {
+   "index": 330,
+   "source_text": "WITCHYWORLD",
+   "translation": "WITCHYWORLD"
+  },
+  {
+   "index": 331,
+   "source_text": "JOLLY ROGER'S LAGOON",
+   "translation": "JOLLY ROGER'S LAGOON"
+  },
+  {
+   "index": 332,
+   "source_text": "TERRYDACTYLAND",
+   "translation": "TERRYDACTYLAND"
+  },
+  {
+   "index": 333,
+   "source_text": "GRUNTY INDUSTRIES",
+   "translation": "GRUNTY INDUSTRIES"
+  },
+  {
+   "index": 334,
+   "source_text": "HAILFIRE PEAKS",
+   "translation": "HAILFIRE PEAKS"
+  },
+  {
+   "index": 335,
+   "source_text": "CLOUD CUCKOOLAND",
+   "translation": "CLOUD CUCKOOLAND"
+  },
+  {
+   "index": 336,
+   "source_text": "FLIP Y AXIS : NO",
+   "translation": "INVERTIR EIXO Y : NÃO"
+  },
+  {
+   "index": 337,
+   "source_text": "FLIP Y AXIS : YES",
+   "translation": "INVERTIR EIXO Y : SIM"
+  },
+  {
+   "index": 338,
+   "source_text": "PREVIOUS BEST :",
+   "translation": "MELHOR ANTERIOR :"
+  },
+  {
+   "index": 339,
+   "source_text": "Loading...",
+   "translation": "Carregando..."
+  },
+  {
+   "index": 340,
+   "source_text": "Please sign in",
+   "translation": "Por favor, faça login"
+  },
+  {
+   "index": 341,
+   "source_text": "This game requires you to sign in to a gamer profile to play",
+   "translation": "Este jogo requer que você faça login em um perfil de jogador para jogar"
+  },
+  {
+   "index": 342,
+   "source_text": "OK",
+   "translation": "OK"
+  },
+  {
+   "index": 343,
+   "source_text": "No device selected",
+   "translation": "Nenhum dispositivo selecionado"
+  },
+  {
+   "index": 344,
+   "source_text": "If you do not select a device, game saves will be disabled",
+   "translation": "Se você não selecionar um dispositivo, os salvamentos do jogo serão desabilitados"
+  },
+  {
+   "index": 345,
+   "source_text": "Select a device",
+   "translation": "Selecionar um dispositivo"
+  },
+  {
+   "index": 346,
+   "source_text": "Continue without saving",
+   "translation": "Continuar sem salvar"
+  },
+  {
+   "index": 347,
+   "source_text": "REINSTALL EXTRAS",
+   "translation": "REINSTALAR EXTRAS"
+  },
+  {
+   "index": 348,
+   "source_text": "REINSTALL DOUBLOON GAMER PICTURE",
+   "translation": "REINSTALAR IMAGEM DE JOGADOR DO DOBRÃO"
+  },
+  {
+   "index": 349,
+   "source_text": "REINSTALL STOP 'N' SWOP GAMER PICTURE",
+   "translation": "REINSTALAR IMAGEM DE JOGADOR DO STOP 'N' SWOP"
+  }
+ ]
+}

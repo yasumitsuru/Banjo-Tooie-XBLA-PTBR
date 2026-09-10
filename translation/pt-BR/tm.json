@@ -1136,6 +1136,62 @@
       "status": "proposed",
       "source_index": 324,
       "notes": "batch 0300-0324 - localização — CHEESE WEDGE"
+    },
+    {
+      "source": " TRASH CAN GERMS GAME",
+      "translation": " JOGO DO TRASH CAN GERMS",
+      "status": "proposed",
+      "source_index": 325,
+      "notes": "batch 0325-0349 - mini-jogo — TRASH CAN GERMS (nome próprio de mini-jogo)"
+    },
+    {
+      "source": " FIND THE SAFE'S COMBINATION",
+      "translation": " ENCONTRAR A COMBINAÇÃO DO COFRE",
+      "status": "proposed",
+      "source_index": 326,
+      "notes": "batch 0325-0349 - objetivo — FIND THE SAFE'S COMBINATION (frase única, não reutilizável)"
+    },
+    {
+      "source": " INSIDE THE JELLY CASTLE",
+      "translation": " DENTRO DO CASTELO DE GELATINA",
+      "status": "proposed",
+      "source_index": 327,
+      "notes": "batch 0325-0349 - localização — JELLY CASTLE (termo descritivo)"
+    },
+    {
+      "source": "FLIP Y AXIS : NO",
+      "translation": "INVERTIR EIXO Y : NÃO",
+      "status": "proposed",
+      "source_index": 336,
+      "notes": "batch 0325-0349 - UI — FLIP Y AXIS (INVERTIR EIXO Y)"
+    },
+    {
+      "source": "FLIP Y AXIS : YES",
+      "translation": "INVERTIR EIXO Y : SIM",
+      "status": "proposed",
+      "source_index": 337,
+      "notes": "batch 0325-0349 - UI — FLIP Y AXIS (INVERTIR EIXO Y)"
+    },
+    {
+      "source": "PREVIOUS BEST :",
+      "translation": "MELHOR ANTERIOR :",
+      "status": "proposed",
+      "source_index": 338,
+      "notes": "batch 0325-0349 - UI label — PREVIOUS BEST (MELHOR ANTERIOR)"
+    },
+    {
+      "source": "Please sign in",
+      "translation": "Por favor, faça login",
+      "status": "proposed",
+      "source_index": 340,
+      "notes": "batch 0325-0349 - UI — Please sign in (Faça login)"
+    },
+    {
+      "source": "This game requires you to sign in to a gamer profile to play",
+      "translation": "Este jogo requer que você faça login em um perfil de jogador para jogar",
+      "status": "proposed",
+      "source_index": 341,
+      "notes": "batch 0325-0349 - UI — sign in / gamer profile (padrão de login Xbox)"
     }
   ]
 }
