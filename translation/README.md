@@ -157,14 +157,15 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
 - [x] Tradução lote 0250–0299 (50 strings)
 - [x] Tradução lote 0300–0324 (25 strings)
 - [x] Tradução lote 0325–0349 (25 strings)
+- [x] Tradução lote 0350–0374 (15 strings)
 - [ ] Revisão
 - [ ] Injeção no .dat + reempacotamento STFS
 
 ## Totais atuais
 
-- Traduzidas (EN): **350** / Incompletas (EN): **685** (de 1035)
-- Contagem canônica: **350 = 338 traduções novas nos oito lotes**
-  (50 + 46 + 47 + 45 + 50 + 50 + 25 + 25) **+ 12 sementes aprovadas originais** no total
+- Traduzidas (EN): **365** / Incompletas (EN): **670** (de 1035)
+- Contagem canônica: **365 = 353 traduções novas nos nove lotes**
+  (50 + 46 + 47 + 45 + 50 + 50 + 25 + 25 + 15) **+ 12 sementes aprovadas originais** no total
   (59, 96, 97, 99, 101, 148, 149, 150, 153, 154, 155, 156).
 - Lote 0000–0049: **50 traduções novas** (0 sementes in-range).
 - Lote 0050–0099: **46 traduções novas** + **4 sementes aprovadas** preservadas
@@ -192,7 +193,7 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
   DIVE OF DEATH, BOGGY, STAR SPINNER, INFERNO, TIPTUP, JOLLY,
   MERRY MAGGIE, LORD WOO FAK FAK, PAWNO, TERRY,
   OOGLE BOOGLES, CHOMPASAUR, ROCKNUTS, T-REX, WELDAR.
-- TM: **170 entradas** (14 `approved` + 156 `proposed`);
+- TM: **177 entradas** (14 `approved` + 163 `proposed`);
   lote 0250–0299 adicionou **24 novas entradas `proposed`**; 26 frases
   completas/objetivos de ocorrência única foram deliberadamente excluídos.
   lote 0300–0324 adicionou **8 novas entradas `proposed`** (localizações
@@ -201,5 +202,8 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
   lote 0325–0349 adicionou **8 novas entradas `proposed`** (UI labels e
   termos de login Xbox); 17 frases completas/objetivos de ocorrência única
   foram deliberadamente excluídos do TM.
-- Estado geral: tradução em progresso, lotes 0000–0349 concluídos
-- Próximo lote: **0350–0374**
+  lote 0350–0374 adicionou **7 novas entradas `proposed`** (UI errors, warp
+  mechanics, game action instructions); 8 strings de uso único da cadeia
+  REINSTALL foram deliberadamente excluídas do TM.
+- Estado geral: tradução em progresso, lotes 0000–0374 concluídos
+- Próximo lote: **0375–0399**

@@ -2812,7 +2812,7 @@
    "byte_length": 22,
    "encoding": "cp1252",
    "text": "REINSTALL BANJO THEME",
-   "translation": null
+   "translation": "REINSTALAR TEMA DO BANJO"
   },
   {
    "index": 351,
@@ -2820,7 +2820,7 @@
    "byte_length": 12,
    "encoding": "cp1252",
    "text": "REINSTALLED",
-   "translation": null
+   "translation": "REINSTALADO"
   },
   {
    "index": 352,
@@ -2828,7 +2828,7 @@
    "byte_length": 33,
    "encoding": "cp1252",
    "text": "YOUR THEME HAS BEEN REINSTALLED!",
-   "translation": null
+   "translation": "SEU TEMA FOI REINSTALADO!"
   },
   {
    "index": 353,
@@ -2836,7 +2836,7 @@
    "byte_length": 41,
    "encoding": "cp1252",
    "text": "YOUR GAMER PICTURE HAS BEEN REINSTALLED!",
-   "translation": null
+   "translation": "SUA IMAGEM DE JOGADOR FOI REINSTALADA!"
   },
   {
    "index": 354,
@@ -2844,7 +2844,7 @@
    "byte_length": 16,
    "encoding": "cp1252",
    "text": "REINSTALLING...",
-   "translation": null
+   "translation": "REINSTALANDO..."
   },
   {
    "index": 355,
@@ -2852,7 +2852,7 @@
    "byte_length": 40,
    "encoding": "cp1252",
    "text": "PLEASE WAIT WHILST THE THEME REINSTALLS",
-   "translation": null
+   "translation": "AGUARDE ENQUANTO O TEMA É REINSTALADO"
   },
   {
    "index": 356,
@@ -2860,7 +2860,7 @@
    "byte_length": 14,
    "encoding": "cp1252",
    "text": "INSTALLING...",
-   "translation": null
+   "translation": "INSTALANDO..."
   },
   {
    "index": 357,
@@ -2868,7 +2868,7 @@
    "byte_length": 38,
    "encoding": "cp1252",
    "text": "PLEASE WAIT WHILST THE THEME INSTALLS",
-   "translation": null
+   "translation": "AGUARDE ENQUANTO O TEMA É INSTALADO"
   },
   {
    "index": 358,
@@ -2876,7 +2876,7 @@
    "byte_length": 30,
    "encoding": "utf-16-be",
    "text": "Loading failed",
-   "translation": null
+   "translation": "Falha ao carregar"
   },
   {
    "index": 359,
@@ -2884,7 +2884,7 @@
    "byte_length": 128,
    "encoding": "utf-16-be",
    "text": "Your storage device has been removed.  Please select a new one.",
-   "translation": null
+   "translation": "Seu dispositivo de armazenamento foi removido.  Selecione um novo."
   },
   {
    "index": 360,
@@ -2892,7 +2892,7 @@
    "byte_length": 94,
    "encoding": "cp1252",
    "text": "MOVE ONTO IT AND PRESS [0x85] TO WARP TO ANY OTHER WARP PAD THAT YOU HAVE ACTIVATED IN THIS WORLD!",
-   "translation": null
+   "translation": "AVANCE ATÉ ELA E PRESSIONE [0x85] PARA SE TELETRANSPORTAR PARA QUALQUER OUTRA PLATAFORMA DE TELETRANSPORTE QUE VOCÊ TENHA ATIVADO NESTE MUNDO!"
   },
   {
    "index": 364,
@@ -2900,7 +2900,7 @@
    "byte_length": 44,
    "encoding": "cp1252",
    "text": "JUST MOVE ONTO THE PAD AND PRESS [0x85] TO WARP.",
-   "translation": null
+   "translation": "BASTA AVANÇAR ATÉ A PLATAFORMA E PRESSIONAR [0x85] PARA SE TELETRANSPORTAR."
   },
   {
    "index": 366,
@@ -2908,7 +2908,7 @@
    "byte_length": 48,
    "encoding": "cp1252",
    "text": "PRESS [0x85] TO RETURN TO YOUR MOLE-RESTORING QUEST.",
-   "translation": null
+   "translation": "PRESSIONE [0x85] PARA VOLTAR À SUA MISSÃO DE REANIMAR O BOTTLES."
   },
   {
    "index": 369,
@@ -2916,7 +2916,7 @@
    "byte_length": 99,
    "encoding": "cp1252",
    "text": "WHILE GRABBING, PRESS [0x86] TO ATTACK, [0x87] TO CLIMB UP ONTO THE EDGE OR [0x85] TO RELEASE YOUR HOLD AND FALL.",
-   "translation": null
+   "translation": "ENQUANTO ESTIVER AGARRADO, PRESSIONE [0x86] PARA ATACAR, [0x87] PARA SUBIR ATÉ A BORDA OU [0x85] PARA SOLTAR-SE E CAER."
   },
   {
    "index": 372,
@@ -2924,7 +2924,7 @@
    "byte_length": 49,
    "encoding": "cp1252",
    "text": "PRESS [0x87] TO LEARN THE MOVE, OR [0x85] TO BE DISMISSED.",
-   "translation": null
+   "translation": "PRESSIONE [0x87] PARA APRENDER O MOVIMENTO, OU [0x85] PARA RECUSAR."
   },
   {
    "index": 375,

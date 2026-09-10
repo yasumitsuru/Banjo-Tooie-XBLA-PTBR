@@ -1192,6 +1192,55 @@
       "status": "proposed",
       "source_index": 341,
       "notes": "batch 0325-0349 - UI — sign in / gamer profile (padrão de login Xbox)"
+    },
+    {
+      "source": "Loading failed",
+      "translation": "Falha ao carregar",
+      "status": "proposed",
+      "source_index": 358,
+      "notes": "batch 0350-0374 - erro UI — Loading failed (padrão \"FALHA AO ...\")"
+    },
+    {
+      "source": "Your storage device has been removed.  Please select a new one.",
+      "translation": "Seu dispositivo de armazenamento foi removido.  Selecione um novo.",
+      "status": "proposed",
+      "source_index": 359,
+      "notes": "batch 0350-0374 - mensagem de storage device removido (paralelo a 138)"
+    },
+    {
+      "source": "MOVE ONTO IT AND PRESS [0x85] TO WARP TO ANY OTHER WARP PAD THAT YOU HAVE ACTIVATED IN THIS WORLD!",
+      "translation": "AVANCE ATÉ ELA E PRESSIONE [0x85] PARA SE TELETRANSPORTAR PARA QUALQUER OUTRA PLATAFORMA DE TELETRANSPORTE QUE VOCÊ TENHA ATIVADO NESTE MUNDO!",
+      "status": "proposed",
+      "source_index": 360,
+      "notes": "batch 0350-0374 - instrução de warp — \"WARP PAD\" = \"PLATAFORMA DE TELETRANSPORTE\""
+    },
+    {
+      "source": "JUST MOVE ONTO THE PAD AND PRESS [0x85] TO WARP.",
+      "translation": "BASTA AVANÇAR ATÉ A PLATAFORMA E PRESSIONAR [0x85] PARA SE TELETRANSPORTAR.",
+      "status": "proposed",
+      "source_index": 364,
+      "notes": "batch 0350-0374 - instrução de warp curta — \"WARP\" = \"TELETRANSPORTAR\""
+    },
+    {
+      "source": "PRESS [0x85] TO RETURN TO YOUR MOLE-RESTORING QUEST.",
+      "translation": "PRESSIONE [0x85] PARA VOLTAR À SUA MISSÃO DE REANIMAR O BOTTLES.",
+      "status": "proposed",
+      "source_index": 366,
+      "notes": "batch 0350-0374 - instrução de missão — \"MOLE-RESTORING QUEST\" = \"MISSÃO DE REANIMAR O BOTTLES\""
+    },
+    {
+      "source": "WHILE GRABBING, PRESS [0x86] TO ATTACK, [0x87] TO CLIMB UP ONTO THE EDGE OR [0x85] TO RELEASE YOUR HOLD AND FALL.",
+      "translation": "ENQUANTO ESTIVER AGARRADO, PRESSIONE [0x86] PARA ATACAR, [0x87] PARA SUBIR ATÉ A BORDA OU [0x85] PARA SOLTAR-SE E CAER.",
+      "status": "proposed",
+      "source_index": 369,
+      "notes": "batch 0350-0374 - mecânica de combate — GRABBING/CLIMB/RELEASE (termos de jogo)"
+    },
+    {
+      "source": "PRESS [0x87] TO LEARN THE MOVE, OR [0x85] TO BE DISMISSED.",
+      "translation": "PRESSIONE [0x87] PARA APRENDER O MOVIMENTO, OU [0x85] PARA RECUSAR.",
+      "status": "proposed",
+      "source_index": 372,
+      "notes": "batch 0350-0374 - instrução de movimento — LEARN THE MOVE / BE DISMISSED"
     }
   ]
 }

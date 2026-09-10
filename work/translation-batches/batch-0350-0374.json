@@ -1,0 +1,109 @@
+{
+ "batch_id": "batch-0350-0374",
+ "language_pair": "en-US -> pt-BR",
+ "assigned_indices": [
+  350,
+  351,
+  352,
+  353,
+  354,
+  355,
+  356,
+  357,
+  358,
+  359,
+  360,
+  361,
+  362,
+  363,
+  364,
+  365,
+  366,
+  367,
+  368,
+  369,
+  370,
+  371,
+  372,
+  373,
+  374
+ ],
+ "total_entries": 15,
+ "entries": [
+  {
+   "index": 350,
+   "source_text": "REINSTALL BANJO THEME",
+   "translation": "REINSTALAR TEMA DO BANJO"
+  },
+  {
+   "index": 351,
+   "source_text": "REINSTALLED",
+   "translation": "REINSTALADO"
+  },
+  {
+   "index": 352,
+   "source_text": "YOUR THEME HAS BEEN REINSTALLED!",
+   "translation": "SEU TEMA FOI REINSTALADO!"
+  },
+  {
+   "index": 353,
+   "source_text": "YOUR GAMER PICTURE HAS BEEN REINSTALLED!",
+   "translation": "SUA IMAGEM DE JOGADOR FOI REINSTALADA!"
+  },
+  {
+   "index": 354,
+   "source_text": "REINSTALLING...",
+   "translation": "REINSTALANDO..."
+  },
+  {
+   "index": 355,
+   "source_text": "PLEASE WAIT WHILST THE THEME REINSTALLS",
+   "translation": "AGUARDE ENQUANTO O TEMA É REINSTALADO"
+  },
+  {
+   "index": 356,
+   "source_text": "INSTALLING...",
+   "translation": "INSTALANDO..."
+  },
+  {
+   "index": 357,
+   "source_text": "PLEASE WAIT WHILST THE THEME INSTALLS",
+   "translation": "AGUARDE ENQUANTO O TEMA É INSTALADO"
+  },
+  {
+   "index": 358,
+   "source_text": "Loading failed",
+   "translation": "Falha ao carregar"
+  },
+  {
+   "index": 359,
+   "source_text": "Your storage device has been removed.  Please select a new one.",
+   "translation": "Seu dispositivo de armazenamento foi removido.  Selecione um novo."
+  },
+  {
+   "index": 360,
+   "source_text": "MOVE ONTO IT AND PRESS [0x85] TO WARP TO ANY OTHER WARP PAD THAT YOU HAVE ACTIVATED IN THIS WORLD!",
+   "translation": "AVANCE ATÉ ELA E PRESSIONE [0x85] PARA SE TELETRANSPORTAR PARA QUALQUER OUTRA PLATAFORMA DE TELETRANSPORTE QUE VOCÊ TENHA ATIVADO NESTE MUNDO!"
+  },
+  {
+   "index": 364,
+   "source_text": "JUST MOVE ONTO THE PAD AND PRESS [0x85] TO WARP.",
+   "translation": "BASTA AVANÇAR ATÉ A PLATAFORMA E PRESSIONAR [0x85] PARA SE TELETRANSPORTAR."
+  },
+  {
+   "index": 366,
+   "source_text": "PRESS [0x85] TO RETURN TO YOUR MOLE-RESTORING QUEST.",
+   "translation": "PRESSIONE [0x85] PARA VOLTAR À SUA MISSÃO DE REANIMAR O BOTTLES."
+  },
+  {
+   "index": 369,
+   "source_text": "WHILE GRABBING, PRESS [0x86] TO ATTACK, [0x87] TO CLIMB UP ONTO THE EDGE OR [0x85] TO RELEASE YOUR HOLD AND FALL.",
+   "translation": "ENQUANTO ESTIVER AGARRADO, PRESSIONE [0x86] PARA ATACAR, [0x87] PARA SUBIR ATÉ A BORDA OU [0x85] PARA SOLTAR-SE E CAER."
+  },
+  {
+   "index": 372,
+   "source_text": "PRESS [0x87] TO LEARN THE MOVE, OR [0x85] TO BE DISMISSED.",
+   "translation": "PRESSIONE [0x87] PARA APRENDER O MOVIMENTO, OU [0x85] PARA RECUSAR."
+  }
+ ]
+}
