@@ -1,0 +1,94 @@
+{
+ "batch_id": "batch-0375-0399",
+ "language_pair": "en-US -> pt-BR",
+ "assigned_indices": [
+  375,
+  376,
+  377,
+  378,
+  379,
+  380,
+  381,
+  382,
+  383,
+  384,
+  385,
+  386,
+  387,
+  388,
+  389,
+  390,
+  391,
+  392,
+  393,
+  394,
+  395,
+  396,
+  397,
+  398,
+  399
+ ],
+ "total_entries": 12,
+ "entries": [
+  {
+   "index": 375,
+   "source_text": "GET YOUR SORRY HIDE OVER HERE AND PRESS [0x85]!",
+   "translation": "TRAGA ESSA CARCAÇA PRA CÁ E PRESSIONE [0x85]!"
+  },
+  {
+   "index": 377,
+   "source_text": "PRESS [0x85] TO SEE MIGHTY MUMBO MAGIC!",
+   "translation": "PRESSIONE [0x85] PARA VER A PODEROSA MAGIA DE MUMBO!"
+  },
+  {
+   "index": 379,
+   "source_text": "TO CONTROL ME AGAIN, RETURN STATUE TO ITS BASE AND PRESS [0x85].",
+   "translation": "PARA ME CONTROLAR DE NOVO, DEVOLVA A ESTÁTUA PARA A BASE E PRESSIONE [0x85]."
+  },
+  {
+   "index": 381,
+   "source_text": "PRESS [0x85] WHEN NEAR THE MONOLITH TO ATTEMPT JIGGYWIGGY'S CHALLENGE ~.",
+   "translation": "PRESSIONE [0x85] QUANDO ESTIVER PERTO DO MONOLITO PARA TENTAR O DESAFIO DE JIGGYWIGGY ~."
+  },
+  {
+   "index": 384,
+   "source_text": "PRESS [0x85] TO VIEW THE MIGHTY ONE'S WISDOM...",
+   "translation": "PRESSIONE [0x85] PARA VER A SABEDORIA DO PODEROSO..."
+  },
+  {
+   "index": 386,
+   "source_text": "PRESS [0x85] IF YOU WISH TO TRY IT...",
+   "translation": "PRESSIONE [0x85] SE QUISER TENTAR..."
+  },
+  {
+   "index": 388,
+   "source_text": "APPROACH THE MONOLITH AND PRESS [0x85] TO ATTEMPT THE SUPER SPECIAL CHALLENGE.",
+   "translation": "APROXIME-SE DO MONOLITO E PRESSIONE [0x85] PARA TENTAR O DESAFIO SUPERESPECIAL."
+  },
+  {
+   "index": 391,
+   "source_text": "PRESS [0x85] WHEN NEXT TO ONE TO READ IT...",
+   "translation": "PRESSIONE [0x85] QUANDO ESTIVER PERTO DE UM DELES PARA LÊ-LO..."
+  },
+  {
+   "index": 393,
+   "source_text": "PRESS [0x85] TO EXPERIENCE THE SCENIC SPLENDOR OF THE CABLE CAR RIDE ACROSS TO SPACE ZONE!",
+   "translation": "PRESSIONE [0x85] PARA EXPERIMENTAR O ESPLENDOR CÊNICO DA VIAGEM DE TELEFÉRICO ATÉ A ZONA ESPACIAL!"
+  },
+  {
+   "index": 396,
+   "source_text": "SELECT A GAME FILE TO COPY INTO. [0x87] TO COPY, [0x85] TO CANCEL.",
+   "translation": "SELECIONE O ARQUIVO DE JOGO DE DESTINO. [0x87] PARA COPIAR, [0x85] PARA CANCELAR."
+  },
+  {
+   "index": 397,
+   "source_text": "ARE YOU SURE? [0x87] YES, [0x85] NO.",
+   "translation": "TEM CERTEZA? [0x87] SIM, [0x85] NÃO."
+  },
+  {
+   "index": 398,
+   "source_text": "OR PRESS [0x85] TO RETURN TO YOUR URGENT MOLE-RESTORING QUEST.",
+   "translation": "OU PRESSIONE [0x85] PARA VOLTAR À SUA MISSÃO URGENTE DE REANIMAR O BOTTLES."
+  }
+ ]
+}

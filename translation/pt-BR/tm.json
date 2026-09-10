@@ -1241,6 +1241,13 @@
       "status": "proposed",
       "source_index": 372,
       "notes": "batch 0350-0374 - instrução de movimento — LEARN THE MOVE / BE DISMISSED"
+    },
+    {
+      "source": "OR PRESS [0x85] TO RETURN TO YOUR URGENT MOLE-RESTORING QUEST.",
+      "translation": "OU PRESSIONE [0x85] PARA VOLTAR À SUA MISSÃO URGENTE DE REANIMAR O BOTTLES.",
+      "status": "proposed",
+      "source_index": 398,
+      "notes": "batch 0375-0399 - variante urgente da missão — \"URGENT MOLE-RESTORING QUEST\" = \"MISSÃO URGENTE DE REANIMAR O BOTTLES\" (consistente com 366)"
     }
   ]
 }

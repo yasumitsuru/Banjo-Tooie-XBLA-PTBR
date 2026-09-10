@@ -2932,7 +2932,7 @@
    "byte_length": 43,
    "encoding": "cp1252",
    "text": "GET YOUR SORRY HIDE OVER HERE AND PRESS [0x85]!",
-   "translation": null
+   "translation": "TRAGA ESSA CARCAÇA PRA CÁ E PRESSIONE [0x85]!"
   },
   {
    "index": 377,
@@ -2940,7 +2940,7 @@
    "byte_length": 35,
    "encoding": "cp1252",
    "text": "PRESS [0x85] TO SEE MIGHTY MUMBO MAGIC!",
-   "translation": null
+   "translation": "PRESSIONE [0x85] PARA VER A PODEROSA MAGIA DE MUMBO!"
   },
   {
    "index": 379,
@@ -2948,7 +2948,7 @@
    "byte_length": 60,
    "encoding": "cp1252",
    "text": "TO CONTROL ME AGAIN, RETURN STATUE TO ITS BASE AND PRESS [0x85].",
-   "translation": null
+   "translation": "PARA ME CONTROLAR DE NOVO, DEVOLVA A ESTÁTUA PARA A BASE E PRESSIONE [0x85]."
   },
   {
    "index": 381,
@@ -2956,7 +2956,7 @@
    "byte_length": 68,
    "encoding": "cp1252",
    "text": "PRESS [0x85] WHEN NEAR THE MONOLITH TO ATTEMPT JIGGYWIGGY'S CHALLENGE ~.",
-   "translation": null
+   "translation": "PRESSIONE [0x85] QUANDO ESTIVER PERTO DO MONOLITO PARA TENTAR O DESAFIO DE JIGGYWIGGY ~."
   },
   {
    "index": 384,
@@ -2964,7 +2964,7 @@
    "byte_length": 43,
    "encoding": "cp1252",
    "text": "PRESS [0x85] TO VIEW THE MIGHTY ONE'S WISDOM...",
-   "translation": null
+   "translation": "PRESSIONE [0x85] PARA VER A SABEDORIA DO PODEROSO..."
   },
   {
    "index": 386,
@@ -2972,7 +2972,7 @@
    "byte_length": 33,
    "encoding": "cp1252",
    "text": "PRESS [0x85] IF YOU WISH TO TRY IT...",
-   "translation": null
+   "translation": "PRESSIONE [0x85] SE QUISER TENTAR..."
   },
   {
    "index": 388,
@@ -2980,7 +2980,7 @@
    "byte_length": 74,
    "encoding": "cp1252",
    "text": "APPROACH THE MONOLITH AND PRESS [0x85] TO ATTEMPT THE SUPER SPECIAL CHALLENGE.",
-   "translation": null
+   "translation": "APROXIME-SE DO MONOLITO E PRESSIONE [0x85] PARA TENTAR O DESAFIO SUPERESPECIAL."
   },
   {
    "index": 391,
@@ -2988,7 +2988,7 @@
    "byte_length": 39,
    "encoding": "cp1252",
    "text": "PRESS [0x85] WHEN NEXT TO ONE TO READ IT...",
-   "translation": null
+   "translation": "PRESSIONE [0x85] QUANDO ESTIVER PERTO DE UM DELES PARA LÊ-LO..."
   },
   {
    "index": 393,
@@ -2996,7 +2996,7 @@
    "byte_length": 86,
    "encoding": "cp1252",
    "text": "PRESS [0x85] TO EXPERIENCE THE SCENIC SPLENDOR OF THE CABLE CAR RIDE ACROSS TO SPACE ZONE!",
-   "translation": null
+   "translation": "PRESSIONE [0x85] PARA EXPERIMENTAR O ESPLENDOR CÊNICO DA VIAGEM DE TELEFÉRICO ATÉ A ZONA ESPACIAL!"
   },
   {
    "index": 396,
@@ -3004,7 +3004,7 @@
    "byte_length": 57,
    "encoding": "cp1252",
    "text": "SELECT A GAME FILE TO COPY INTO. [0x87] TO COPY, [0x85] TO CANCEL.",
-   "translation": null
+   "translation": "SELECIONE O ARQUIVO DE JOGO DE DESTINO. [0x87] PARA COPIAR, [0x85] PARA CANCELAR."
   },
   {
    "index": 397,
@@ -3012,7 +3012,7 @@
    "byte_length": 27,
    "encoding": "cp1252",
    "text": "ARE YOU SURE? [0x87] YES, [0x85] NO.",
-   "translation": null
+   "translation": "TEM CERTEZA? [0x87] SIM, [0x85] NÃO."
   },
   {
    "index": 398,
@@ -3020,7 +3020,7 @@
    "byte_length": 58,
    "encoding": "cp1252",
    "text": "OR PRESS [0x85] TO RETURN TO YOUR URGENT MOLE-RESTORING QUEST.",
-   "translation": null
+   "translation": "OU PRESSIONE [0x85] PARA VOLTAR À SUA MISSÃO URGENTE DE REANIMAR O BOTTLES."
   },
   {
    "index": 400,

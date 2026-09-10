@@ -71,8 +71,8 @@ as demais seções servem apenas como referência de tom/terminologia.
 - Consultar, para cada string:
   1. `translation/pt-BR/tm.json` (TM — reutilizar traduções existentes);
   2. `translation/glossary/glossary-pt-BR.md` (política + termos).
-- `tm.json` atual: 154 entradas — **14 `approved`** (decisões de
-  glossário confirmadas) + **140 `proposed`** (propostas a validar em
+- `tm.json` atual: 178 entradas — **14 `approved`** (decisões de
+  glossário confirmadas) + **164 `proposed`** (propostas a validar em
   revisão). Entradas `proposed` não são canônicas até aprovadas.
 - Regras obrigatórias:
   - Preservar placeholders `[0x80]`–`[0x8F]` e o byte `0x7F` (glifos de botão)
@@ -158,14 +158,15 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
 - [x] Tradução lote 0300–0324 (25 strings)
 - [x] Tradução lote 0325–0349 (25 strings)
 - [x] Tradução lote 0350–0374 (15 strings)
+- [x] Tradução lote 0375–0399 (12 strings)
 - [ ] Revisão
 - [ ] Injeção no .dat + reempacotamento STFS
 
 ## Totais atuais
 
-- Traduzidas (EN): **365** / Incompletas (EN): **670** (de 1035)
-- Contagem canônica: **365 = 353 traduções novas nos nove lotes**
-  (50 + 46 + 47 + 45 + 50 + 50 + 25 + 25 + 15) **+ 12 sementes aprovadas originais** no total
+- Traduzidas (EN): **377** / Incompletas (EN): **658** (de 1035)
+- Contagem canônica: **377 = 365 traduções novas nos dez lotes**
+  (50 + 46 + 47 + 45 + 50 + 50 + 25 + 25 + 15 + 12) **+ 12 sementes aprovadas originais** no total
   (59, 96, 97, 99, 101, 148, 149, 150, 153, 154, 155, 156).
 - Lote 0000–0049: **50 traduções novas** (0 sementes in-range).
 - Lote 0050–0099: **46 traduções novas** + **4 sementes aprovadas** preservadas
@@ -193,7 +194,15 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
   DIVE OF DEATH, BOGGY, STAR SPINNER, INFERNO, TIPTUP, JOLLY,
   MERRY MAGGIE, LORD WOO FAK FAK, PAWNO, TERRY,
   OOGLE BOOGLES, CHOMPASAUR, ROCKNUTS, T-REX, WELDAR.
-- TM: **177 entradas** (14 `approved` + 163 `proposed`);
+- Lote 0375–0399: **12 traduções novas** (0 sementes in-range). Terminologia:
+  SORRY HIDE→TRAGA ESSA CARCAÇA PRA CÁ (insulto coloquial); MIGHTY MUMBO
+  MAGIC→PODEROSA MAGIA DE MUMBO; THE MIGHTY ONE→SABEDORIA DO PODEROSO;
+  JIGGYWIGGY mantido (nome próprio de minijogo); SUPER SPECIAL CHALLENGE→
+  DESAFIO SUPERESPECIAL; SPACE ZONE→ZONA ESPACIAL; GAME FILE TO COPY INTO→
+  ARQUIVO DE JOGO DE DESTINO; URGENT MOLE-RESTORING QUEST→MISSÃO URGENTE
+  DE REANIMAR O BOTTLES (consistente com índice 366); ARE YOU SURE→TEM
+  CERTEZA? (consistente com a UI existente).
+- TM: **178 entradas** (14 `approved` + 164 `proposed`);
   lote 0250–0299 adicionou **24 novas entradas `proposed`**; 26 frases
   completas/objetivos de ocorrência única foram deliberadamente excluídos.
   lote 0300–0324 adicionou **8 novas entradas `proposed`** (localizações
@@ -205,5 +214,8 @@ sha256sum work/strings/strings.json work/strings/strings.csv translation/pt-BR/s
   lote 0350–0374 adicionou **7 novas entradas `proposed`** (UI errors, warp
   mechanics, game action instructions); 8 strings de uso único da cadeia
   REINSTALL foram deliberadamente excluídas do TM.
-- Estado geral: tradução em progresso, lotes 0000–0374 concluídos
-- Próximo lote: **0375–0399**
+  lote 0375–0399 adicionou **1 nova entrada `proposed`** (variante urgente da
+  missão de reanimar o Bottles, consistente com 366); 11 frases completas de
+  ocorrência única foram deliberadamente excluídas do TM.
+- Estado geral: tradução em progresso, lotes 0000–0399 concluídos
+- Próximo lote: **0400–0424**
